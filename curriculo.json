@@ -1,0 +1,324 @@
+{
+	"Name": "Lucas Carol Sales Duarte",
+	"Mail": "lc.sales.duarte@gmail.com",
+	"Phone": "(11) 986-372-833",
+	"Url": "https://github.com/darakeon",
+	"Professional": [
+		{
+			"Enterprise": "Grupo Ser",
+			"Start": "2007–02",
+			"End": "2010-04",
+			"Description": [
+				"PT": "Empresa de RH para avaliação de candidaturas a vagas. Possui um sistema online de questionários, tanto psicológicos, quanto criados por clientes – técnicos.",
+				"EN": "HR enterprise to evaluate job candidates. Has an online questionnaires system, both psychological and technical - this one made by clients.",
+			],
+			"Role": [
+				"PT": "Programação",
+				"EN": "Programming",
+			],
+			"Responsability": [
+				"PT": "Manutenção e criação de novas funcionalidades para sistema de questionários.",
+				"EN": "Maintenance and criation of new features to the questionnaires system.",
+			],
+			"Details": [
+				{
+					"PT": "Desenvolvimento e manutenção do sistema web, backend e frontend",
+					"EN": "Development and maintenance of web system, backend and frontend",
+					"Tools": "ASP, SQL Server, HTML, CSS, Javascript",
+				},
+			],
+		},
+		{
+			"Enterprise": "Inspira Tecnologia",
+			"Start": "2010-05",
+			"End": "2016-11",
+			"Description": [
+				"PT": "Empresa de tecnologia e inovação que trabalha com metodologias ágeis e possui cultura de aprendizado contínuo. Possui projetos de diversos contextos técnicos, tais como sistemas web, aplicações mobile, consultoria e análise de negócio.",
+				"EN": "Technology and innovation enterprise which uses agile methodologies and has a continuous learning culture. Develop project in a variaty of technical contexts as web systems, mobile apps, consulting and business analysis.",
+			],
+			"Role": [
+				"PT": "Análise e Programação",
+				"EN": "Analysis and Programming",
+			],
+			"Responsability": [
+				"PT": "Desenvolvimento e manutenção de sistemas para clientes, de hotsites a sistemas web mais complexos",
+				"EN": "Client system development and maintenance, from marketing site to more complex web systems",
+			],
+			"Projects": [
+				{
+					"PT": "Sistema de gerenciamento para esportes e fisioterapia",
+					"EN": "Sport and physiotherapy management system",
+					"Tools": ".NET, C#, MVC, NHibernate, SQL",
+				},
+				{
+					"PT": "Sistema de organização de ONGs",
+					"EN": "NGO organization system",
+					"Tools": ".NET, C#, WebForms, TSQL",
+				},
+				{
+					"PT": "Website de administradora de energia",
+					"EN": "Energy manager website",
+					"Tools": ".NET, C#",
+				},
+				{
+					"PT": "Website de empresa de aviação",
+					"EN": "Flight company website",
+					"Tools": ".NET, C#",
+				},
+				{
+					"PT": "Hotsite de operadora de telefonia móvel",
+					"EN": "Mobile operator marketing site",
+					"Tools": ".NET, C#, TSQL",
+				},
+				{
+					"PT": "Sistema de cadastro de startup para colaboração",
+					"EN": "Startup collaboration system",
+					"Tools": ".NET, C#, MVC, NHibernate, SQL",
+				},
+				{
+					"PT": "E-commerce de editora de livros e escola de pós-graduação e cursos ",
+					"EN": "Book publishing and courses company e-commerce",
+					"Tools": ".NET, C#, NopCommerce, WebForms, EntityFramework",
+				},
+				{
+					"PT": "Sistema de gerenciamento de transações de cartão, parte Desktop e Web",
+					"EN": "Card transactions system site and desktop app",
+					"Tools": ".NET, Windows Forms, C#, MVC, NHibernate, MySQL",
+				},
+				{
+					"PT": "Escrita e implementação de Testes Automatizados para sistema de gerenciamento de assinaturas eletrônicas ",
+					"EN": "Writing and implementation of automated tests to an eletronic contract signing company",
+					"Tools": ".NET, C#, SpecFlow",
+				},
+			],
+		},
+		{
+			"Enterprise": "Pagar.me Pagamentos",
+			"Start": "2017-03",
+			"End": "2019-08",
+			"Description": [
+				"PT": "Backend de pagamentos de e-commerces",
+				"EN": "E-commerce payments backend",
+			],
+			"Role": [
+				"PT": "Desenvolvimento Sênior",
+				"EN": "Senior Development",
+			],
+			"Responsability": [
+				"PT": "Manutenção de mundo físico e de backend core",
+				"EN": "Maintenance of physical transactions sdks and company core backend",
+			],
+			"Projects": [
+				{
+					"PT": "SDKs Mpos",
+					"EN": "Machines SDK",
+					"Tools": ".NET, Kotlin, Rust",
+				},
+				{
+					"PT": "Aplicativo de comunicação de maquininha com site de cliente",
+					"EN": "App to communicate machine with client site",
+					"Tools": ".NET",
+				},
+				{
+					"PT": "Manutenções no sistema core",
+					"EN": "Maintenance at the company core system",
+					"Tools": "Node",
+				},
+				{
+					"PT": "Aplicativo de pagamento e gerenciamento de transações com cartões físicos",
+					"EN": "App of payment and transaction management with physical cards",
+					"Tools": "Kotlin",
+				},
+				{
+					"PT": "Início de uma nova dashboard com unificação da identidade visual da empresa",
+					"EN": "Start of new dashboard with company visual identity unification",
+					"Tools": "React",
+				},
+			],
+		},
+		{
+			"Enterprise": "ThoughtWorks Brasil",
+			"Start": "2019-10",
+			"Description": [
+				"PT": "Consultoria em TI",
+				"EN": "IT Consulting",
+			],
+			"Role": [
+				"PT": "Consultoria e desenvolvimento",
+				"EN": "Consulting and development",
+			],
+			"Responsability": [
+				"PT": "Consultoria em projetos clientes",
+				"EN": "Client projects consulting",
+			],
+			"Projects": [
+				{
+					"PT": "Projeto de representação gráfica de métricas ágeis",
+					"EN": "Agile metrics graphical representation project",
+					"Tools": "Java",
+				},
+				{
+					"PT": "Site para imobiliária",
+					"EN": "Real state agency website",
+					"Tools": "Java, Node, Angular",
+				},
+				{
+					"PT": "Projeto de observação de métricas de funcionamento de infra",
+					"EN": "Infrastructure metrics for observability",
+					"Tools": "C#, Docker, Grafana",
+				},
+			],
+		},
+		{
+			"Enterprise": "Don’t fly Money",
+			"Start": "2010",
+			"Description": [
+				"PT": "É um sistema de gerenciamento financeiro que visa uma forma simples de gerenciar os ganhos e gastos de uma pessoa.",
+				"EN": "It is a financial management system built to be a simple way to manage a person cash inflows and outflows",
+			],
+			"Role": [
+				"PT": "Projeto independente",
+				"EN": "Independent project",
+			],
+			"Site": "http://dontflymoney.com",
+			"GitHub": "https://github.com/darakeon/dfm/",
+			"Projects": [
+				{
+					"PT": "Biblioteca principal com a lógica de negócio",
+					"EN": "Core library with business logic",
+					"Tools": ".NET, C#, NHibernate",
+				},
+				{
+					"PT": "Testes automatizados da lógica de negócio",
+					"EN": "Business logic automated tests",
+					"Tools": "BDD, Specflow",
+				},
+				{
+					"PT": "Site",
+					"EN": "Website",
+					"Tools": ".NET, C#, MVC, HTML, CSS, javascript, jQuery, bootstrap",
+				},
+				{
+					"PT": "Testes automatizados do site",
+					"EN": "Website automated tests",
+					"Tools": "Puppeteer",
+				},
+				{
+					"PT": "API",
+					"EN": "API",
+					"Tools": ".NET, C#, MVC",
+				},
+				{
+					"PT": "Aplicativo Android",
+					"EN": "Android app",
+					"Tools": "Kotlin, retrofit",
+				},
+				{
+					"PT": "Testes automatizados do app",
+					"EN": "App automated tests",
+					"Tools": "junit, robolectric",
+				},
+				{
+					"PT": "Banco de dados",
+					"EN": "Database",
+					"Tools": "MySQL, AWS RDS",
+				},
+				{
+					"PT": "Servidor web",
+					"EN": "Webserver",
+					"Tools": "AWS EC2, Docker",
+				},
+				{
+					"PT": "Integração com testes automatizados rodando a cada push",
+					"EN": "Integration with automated tests running at push",
+					"Tools": "Circle CI, Docker",
+				}
+			],
+		},
+	],
+	"Academic": [
+		{
+			"Instituition": "FATEC (Faculdade de Tecnologia de São Paulo)",
+			"Start": "2007",
+			"End": "2010",
+			"Course": [
+				"PT": "Tecnologia em Processamento de Dados",
+				"EN": "Data Processing Technology (IT)",
+			],
+		},
+		{
+			"Instituition": "SENAC (Serviço Nacional de Aprendizagem Comercial)",
+			"Start": "2013",
+			"End": "2014",
+			"Course": [
+				"PT": "Pós Graduação em Games: Produção e Programação",
+				"EN": "Games Post-graduation",
+			],
+		},
+	],
+	"Courses": [
+		{
+			"PT": "Inglês leitura avançado, conversação intermediário – Wizard",
+			"EN": "English advanced reading, intermediary conversation - Wizard",
+		},
+		{
+			"PT": ".NET Foundation – Brás Figueiredo",
+			"EN": ".NET Foundation – Brás Figueiredo",
+		},
+	],
+	"Events": [
+		"Agile Vale 2011",
+		"Agile Vale 2013",
+		"CryptoRave 2014",
+		"CryptoRave 2015",
+		"CryptoRave 2018",
+		".NET Community Summit 2018 (iMasters)",
+		"Android Community Summit 2018 (iMasters)",
+		"CryptoRave 2019",
+	],
+	"Additional": [
+		{
+			"Title": [
+				"PT": "Talks - canal Pagar.me",
+				"EN": "Talks - Pagar.me channel - in portuguese",
+			],
+			"Items": [
+				{
+					"Description": [
+						"PT": "Números binários",
+						"EN": "Binary numbers",
+					],
+					"Url": "https://www.youtube.com/watch?v=SNnO1ki2t78",
+				},
+				{
+					"Description": [
+						"PT": "Pessoas Trans",
+						"EN": "Transgender people",
+					],
+					"Url": "https://www.youtube.com/watch?v=XAwhx1AZQIU&t",
+				},
+				{
+					"Description": [
+						"PT": "De Java a Kotlin",
+						"EN": "From Java to Kotlin",
+					],
+					"Url": "https://www.youtube.com/watch?v=xcCLjD3kJRQ",
+				},
+				{
+					"Description": [
+						"PT": "Regex",
+						"EN": "Regex",
+					],
+					"Url": "https://www.youtube.com/watch?v=TPO3GGHME_s",
+				},
+				{
+					"Description": [
+						"PT": "Como tirar gênero de textos (de forma natural)",
+						"EN": "How to remove gender from text (in portuguese it is harder than english)",
+					],
+					"Url": "https://www.youtube.com/watch?v=BMQRGt2T-sw",
+				},
+			],
+		},
+	],
+}
