@@ -1,0 +1,12 @@
+* {
+	font-family: Calibri;
+}
+
+.additional-item-url:before {
+	content: ': ';
+	margin-left: -0.2em;
+}
+
+.additional-item-url:empty {
+	display: none;
+}
