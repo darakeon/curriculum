@@ -2,6 +2,22 @@
 
 	<head>
 		<title>{{Name}}</title>
+
+		<style>
+			* {
+				font-family: {{Font}};
+			}
+
+			li:before {
+				content: '{{Marker}} ';
+			}
+
+			:root {
+				--dark: #{{DarkColor}};
+				--light: #{{LightColor}};
+			}
+		</style>
+
 		<link href='/main.css' rel='stylesheet' />
 		<meta content="text/html;charset=utf-8" http-equiv="Content-Type">
 		<meta content="utf-8" http-equiv="encoding">
@@ -9,17 +25,17 @@
 
 	<body>
 		<h1>{{Name}}</h1>
-		<span>{{Mail}}</span>
-		<span>{{Phone}}</span>
-		<span>{{Url}}</span>
+		<div class="title">
+			<span class="mail">{{Mail}}</span><span class="url">{{Url}}</span><span class="phone">{{Phone}}</span>
+		</div>
 		
-		<h2>{{ProfessionalTitle}}</h2>
 		<div>
+			<h2>{{ProfessionalTitle}}</h2>
 			{{Professional}}
 		</div>
 
-		<h2>{{AcademicTitle}}</h2>
 		<div>
+			<h2>{{AcademicTitle}}</h2>
 			{{Academic}}
 		</div>
 

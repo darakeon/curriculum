@@ -1,17 +1,24 @@
-<h3>
-	{{Enterprise}}
-	<small>{{Description}}</small>
-</h3>
+<div class="keep-together">
+	<div class="date">
+		<span class="date-start">{{Start}}<span>
+		<span class="date-end">{{End}}</span>
+	</div>
 
-<span>{{Start}} - {{End}}</span>
-{{Site}}
-{{GitHub}}
+	<h3>
+		{{Enterprise}}
+		<small>{{Description}}</small>
+	</h3>
 
-<h4>
-	{{Role}}
-	<small>{{Responsability}}</small>
-</h4>
+	<ul>
+		{{Urls}}
+	</ul>
 
-<ul>
-	{{Projects}}
-</ul>
+	<h4>
+		{{Role}}
+		<small>{{Responsability}}</small>
+	</h4>
+
+	<ul class="columns">
+		{{Projects}}
+	</ul>
+</div>
