@@ -330,7 +330,7 @@
 						"PT": "Servidor web",
 						"EN": "Webserver"
 					},
-					"Tools": "AWS EC2, Docker"
+					"Tools": "AWS EC2 / Route53, Docker"
 				},
 				{
 					"Text": {
@@ -338,6 +338,13 @@
 						"EN": "Integration with automated tests running at push"
 					},
 					"Tools": "Circle CI, Docker"
+				},
+				{
+					"Text": {
+						"PT": "Envio de e-mails para notificações a quem usa o sistema",
+						"EN": "E-mail to send notifications to the people who uses the system"
+					},
+					"Tools": "AWS SES / Lambda / S3"
 				}
 			]
 		}
