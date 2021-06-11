@@ -235,6 +235,13 @@
 						"EN": "Infrastructure metrics for observability"
 					},
 					"Tools": "C#, Docker, Grafana"
+				},
+				{
+					"Text": {
+						"PT": "Projeto de observação de métricas de funcionamento de infra",
+						"EN": "Infrastructure metrics for observability"
+					},
+					"Tools": "C#, Docker, Grafana"
 				}
 			]
 		},
