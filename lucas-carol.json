@@ -214,10 +214,10 @@
 				},
 				{
 					"Text": {
-						"PT": "Projeto de observação de métricas de funcionamento de infra",
-						"EN": "Infrastructure metrics for observability"
+						"PT": "Automatização de planilhas financeiras usando addon",
+						"EN": "Finantial spreadsheet automation using addon"
 					},
-					"Tools": "C#, Docker, Grafana"
+					"Tools": "Typescript, Node, Google App Script"
 				}
 			]
 		},
