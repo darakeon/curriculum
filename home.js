@@ -70,16 +70,17 @@ function process(html, data, lang, parent) {
 
 		if (typeof(content) != 'string' && content.length) {
 
-			const processed = processStartAndEnd(content, lang)
+			const sorted = sort(content)
+			const translated = translateDates(sorted, lang)
 
 			const childHtml = getHtml(processing)
 			const children = []
 
-			for(const i in processed) {
+			for(const i in translated) {
 				children.push(
 					process(
 						childHtml, 
-						processed[i], 
+						translated[i], 
 						lang, 
 						processing
 					)
@@ -104,7 +105,7 @@ function process(html, data, lang, parent) {
 	return html.replace(/{{.+}}/g, '');
 }
 
-function processStartAndEnd(content, lang) {
+function sort(content) {
 	if (!content[0].Start) return content
 
 	content = content.sort((a, b) => {
@@ -121,6 +122,12 @@ function processStartAndEnd(content, lang) {
 		if (!a.End || a.End > b.End)
 			return -1
 	})
+
+	return content
+}
+
+function translateDates(content, lang) {
+	if (!content[0].Start) return content
 
 	content = content.map((e) => {
 		e.StartText = toDate(e.Start, lang)
