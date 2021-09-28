@@ -64,9 +64,9 @@ function process(html, data, lang, parent) {
 		const htmlName = `${parent}${key}`
 
 		const content = data[key]
-		const regex = new RegExp(`{{${key}}}`, 'g')
-
 		if (!content) continue;
+
+		const regex = new RegExp(`{{${key}}}`, 'g')
 
 		if (typeof(content) != 'string' && content.length) {
 
