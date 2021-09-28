@@ -11,7 +11,7 @@ const current = {
 
 const server = http.createServer((req, res) => {
 	if (req.url == '/favicon.ico')
-		return exit(res, 404, 'text', null)
+		return exit(res, 404, 'plain', null)
 
 	if (req.url == '/main.css')
 		return exit(res, 200, 'css', getFile('main.css'))
@@ -23,7 +23,7 @@ const server = http.createServer((req, res) => {
 	const json = `./${person}.json`
 	if (!fs.existsSync(json)) {
 		const message = `not found ${json}`
-		return exit(res, 404, 'text', message)
+		return exit(res, 404, 'plain', message)
 	}
 
 	let html = process(
