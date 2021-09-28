@@ -61,7 +61,7 @@ function process(html, data, lang, parent) {
 	parent = !parent ? '' : `${parent}_`
 
 	for (const key in data) {
-		const processing = `${parent}${key}`
+		const htmlName = `${parent}${key}`
 
 		const content = data[key]
 		const regex = new RegExp(`{{${key}}}`, 'g')
@@ -73,7 +73,7 @@ function process(html, data, lang, parent) {
 			const sorted = sort(content)
 			const translated = translateDates(sorted, lang)
 
-			const childHtml = getHtml(processing)
+			const childHtml = getHtml(htmlName)
 			const children = []
 
 			for(const i in translated) {
@@ -82,7 +82,7 @@ function process(html, data, lang, parent) {
 						childHtml, 
 						translated[i], 
 						lang, 
-						processing
+						htmlName
 					)
 				)
 			}
@@ -92,7 +92,7 @@ function process(html, data, lang, parent) {
 		} else {
 
 			if (html.indexOf(key) < 0) {
-				console.log(`not find ${processing}`)
+				console.log(`not find ${htmlName}`)
 			} else {
 				if (content[lang])
 					html = html.replace(regex, content[lang])
