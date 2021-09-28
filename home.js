@@ -68,7 +68,7 @@ function process(html, data, lang, parent) {
 
 		const regex = new RegExp(`{{${key}}}`, 'g')
 
-		if (typeof(content) != 'string' && content.length) {
+		if (Array.isArray(content)) {
 
 			const sorted = sort(content)
 			const translated = translateDates(sorted, lang)
