@@ -17,6 +17,12 @@ const server = http.createServer((req, res) => {
 		return exit(res, 200, 'css', getFile('main.css'))
 
 	const path = req.url.split('/')
+
+	if (path.length < 3) {
+		const message = `call ${hostname}:${port}/{name}/{lang}`
+		return exit(res, 400, 'plain', message)
+	}
+
 	const person = path[1]
 	const lang = path[2]
 
