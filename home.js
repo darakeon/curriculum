@@ -15,7 +15,7 @@ const server = http.createServer((req, res) => {
 
 	if (req.url == '/main.css')
 		return exit(res, 200, 'css', getFile('main.css'))
-		
+
 	const path = req.url.split('/')
 	const person = path[1]
 	const lang = path[2]
