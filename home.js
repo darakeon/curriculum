@@ -64,7 +64,7 @@ function process(html, data, lang, parent) {
 		const htmlName = `${parent}${key}`
 
 		const content = data[key]
-		if (!content) continue;
+		if (!content) continue
 
 		const regex = new RegExp(`{{${key}}}`, 'g')
 
@@ -102,7 +102,7 @@ function process(html, data, lang, parent) {
 		}
 	}
 
-	return html.replace(/{{.+}}/g, '');
+	return html.replace(/{{.+}}/g, '')
 }
 
 function sort(content) {
@@ -114,7 +114,7 @@ function sort(content) {
 				return +1
 			if (a.Start > b.Start)
 				return -1
-			return 0;
+			return 0
 		}
 
 		if (!b.End || a.End < b.End)
@@ -134,7 +134,7 @@ function translateDates(content, lang) {
 
 		e.EndText = e.End
 			? toDate(e.End, lang)
-			: current[lang].toUpperCase();
+			: current[lang].toUpperCase()
 
 		return e
 	})
@@ -149,11 +149,11 @@ function toDate(text, lang) {
 			const month = new Date(0, parts[1])
 				.toLocaleString(lang, { month: 'short' })
 				.replace(".", "")
-				.toUpperCase();
+				.toUpperCase()
 
 			return `${month}/${parts[0]}`
 		default:
-			return text;
+			return text
 	}
 }
 
