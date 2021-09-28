@@ -6,6 +6,20 @@
 	font-size: 12px;
 }
 
+@media screen {
+	html {
+		background-color: #666;
+	}
+
+	body {
+		width: 21cm;
+		margin: auto;
+		padding: 1.5cm 2cm;
+		box-sizing: border-box;
+		background-color: #FFF;
+	}
+}
+
 .title span {
 	display: inline-block;
 	text-align: center;
