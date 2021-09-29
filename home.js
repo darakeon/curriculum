@@ -87,7 +87,7 @@ function processChildren(html, childHtmlName, regex, content, lang) {
 	const childHtml = getHtml(childHtmlName)
 	const children = []
 
-	for(const i in translated) {
+	for(let i in translated) {
 		children.push(
 			process(
 				childHtml, 
