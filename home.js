@@ -68,18 +68,12 @@ function process(html, data, lang, parent) {
 
 		const regex = new RegExp(`{{${key}}}`, 'g')
 
-		if (Array.isArray(content)) {
+		if (html.indexOf(key) < 0) {
+			console.log(`not find ${childHtmlName}`)
+		} else if (Array.isArray(content)) {
 			html = processChildren(html, childHtmlName, regex, content, lang)
 		} else {
-
-			if (html.indexOf(key) < 0) {
-				console.log(`not find ${childHtmlName}`)
-			} else {
-				if (content[lang])
-					html = html.replace(regex, content[lang])
-				else
-					html = html.replace(regex, content)
-			}
+			html = html.replace(regex, content[lang] || content)
 		}
 	}
 
