@@ -61,7 +61,7 @@ function process(html, data, lang, parent) {
 	parent = !parent ? '' : `${parent}_`
 
 	for (const key in data) {
-		const htmlName = `${parent}${key}`
+		const childHtmlName = `${parent}${key}`
 
 		const content = data[key]
 		if (!content) continue
@@ -69,30 +69,11 @@ function process(html, data, lang, parent) {
 		const regex = new RegExp(`{{${key}}}`, 'g')
 
 		if (Array.isArray(content)) {
-
-			const sorted = sort(content)
-			const translated = translateDates(sorted, lang)
-
-			const childHtml = getHtml(htmlName)
-			const children = []
-
-			for(const i in translated) {
-				children.push(
-					process(
-						childHtml, 
-						translated[i], 
-						lang, 
-						htmlName
-					)
-				)
-			}
-
-			html = html.replace(regex, children.join('\n'))
-
+			html = processChildren(html, childHtmlName, regex, content, lang)
 		} else {
 
 			if (html.indexOf(key) < 0) {
-				console.log(`not find ${htmlName}`)
+				console.log(`not find ${childHtmlName}`)
 			} else {
 				if (content[lang])
 					html = html.replace(regex, content[lang])
@@ -103,6 +84,27 @@ function process(html, data, lang, parent) {
 	}
 
 	return html.replace(/{{.+}}/g, '')
+}
+
+function processChildren(html, childHtmlName, regex, content, lang) {
+	const sorted = sort(content)
+	const translated = translateDates(sorted, lang)
+
+	const childHtml = getHtml(childHtmlName)
+	const children = []
+
+	for(const i in translated) {
+		children.push(
+			process(
+				childHtml, 
+				translated[i], 
+				lang, 
+				childHtmlName
+			)
+		)
+	}
+
+	return html.replace(regex, children.join('\n'))
 }
 
 function sort(content) {
