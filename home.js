@@ -127,10 +127,12 @@ function translateDates(content, lang) {
 
 	content = content.map((e) => {
 		e.StartText = toDate(e.Start, lang)
+		delete e.Start
 
 		e.EndText = e.End
 			? toDate(e.End, lang)
 			: current[lang].toUpperCase()
+		delete e.End
 
 		return e
 	})
