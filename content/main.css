@@ -152,7 +152,7 @@ ul.columns li {
 	padding-inline-end: 1em;
 }
 
-.cover-letter {
+.cover-letter, .knowledges {
 	page-break-after: always;
 }
 
@@ -178,3 +178,40 @@ ul.columns li {
 .additional-item-url:empty {
 	display: none;
 }
+
+.knowledges {
+	text-align: center;
+}
+
+	span.knowledge {
+		white-space: nowrap;
+	}
+
+	span.knowledge::before,
+	span.knowledge::after {
+		content: '\18';
+	}
+
+	span.knowledge.level-1 {
+		font-size: 1em;
+	}
+
+	span.knowledge.level-2 {
+		font-size: 2em;
+	}
+
+	span.knowledge.level-3 {
+		font-size: 3em;
+	}
+
+	span.knowledge.level-4 {
+		font-size: 4em;
+	}
+
+	span.knowledge.level-5 {
+		font-size: 5em;
+	}
+
+	span.knowledge.level-1 ~ span.knowledge.level-1 {
+		content: '-';
+	}
