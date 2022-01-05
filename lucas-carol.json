@@ -83,7 +83,7 @@
 			"Enterprise": "Grupo Ser",
 			"Start": "2007-02",
 			"End": "2010-04",
-			"Description": {
+			"EnterpriseDescription": {
 				"PT": "Empresa de RH para avaliação de candidaturas a vagas. Possui um sistema online de questionários, tanto psicológicos, quanto criados por clientes - técnicos.",
 				"EN": "HR enterprise to evaluate job candidates. Has an online questionnaires system, both psychological and technical - this one made by clients."
 			},
@@ -109,7 +109,7 @@
 			"Enterprise": "Inspira Tecnologia",
 			"Start": "2010-05",
 			"End": "2016-11",
-			"Description": {
+			"EnterpriseDescription": {
 				"PT": "Empresa de tecnologia e inovação que trabalha com metodologias ágeis e possui cultura de aprendizado contínuo. Possui projetos de diversos contextos técnicos, tais como sistemas web, aplicações mobile, consultoria e análise de negócio.",
 				"EN": "Technology and innovation enterprise which uses agile methodologies and has a continuous learning culture. Develop project in a variaty of technical contexts as web systems, mobile apps, consulting and business analysis."
 			},
@@ -191,7 +191,7 @@
 			"Enterprise": "Pagar.me Pagamentos",
 			"Start": "2017-03",
 			"End": "2019-08",
-			"Description": {
+			"EnterpriseDescription": {
 				"PT": "Backend de pagamentos de e-commerces",
 				"EN": "E-commerce payments backend"
 			},
@@ -245,7 +245,7 @@
 			"Enterprise": "ThoughtWorks Brasil",
 			"Start": "2019-10",
 			"End": null,
-			"Description": {
+			"EnterpriseDescription": {
 				"PT": "Consultoria em TI",
 				"EN": "IT Consulting"
 			},
@@ -299,7 +299,7 @@
 			"Enterprise": "Don’t fly Money",
 			"Start": "2010",
 			"End": null,
-			"Description": {
+			"EnterpriseDescription": {
 				"PT": "É um sistema de gerenciamento financeiro que visa uma forma simples de gerenciar os ganhos e gastos de uma pessoa.",
 				"EN": "It is a financial management system built to be a simple way to manage a person cash inflows and outflows"
 			},
