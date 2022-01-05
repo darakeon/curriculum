@@ -26,21 +26,37 @@
 	</head>
 
 	<body>
-		{{Identification}}
+		<section class="cover-letter">
+			<h1>{{CoverLetterTitle}}</h1>
+			{{Identification}}
+	
+			<article>
+				{{CoverLetter}}
 
-		<div>
-			<h2>{{ProfessionalTitle}}</h2>
-			{{Professional}}
-		</div>
+				<p>
+					{{CoverLetterClosing}}, <br />
+					{{Title}}
+				</p>
+			</article>
+		</section>
 
-		<div>
-			<h2>{{AcademicTitle}}</h2>
-			{{Academic}}
-		</div>
+		<section class="curriculum">
+			{{Identification}}
 
-		<div>
-			{{Additional}}
-		</div>
+			<div>
+				<h3>{{ProfessionalTitle}}</h3>
+				{{Professional}}
+			</div>
+	
+			<div>
+				<h3>{{AcademicTitle}}</h3>
+				{{Academic}}
+			</div>
+	
+			<div>
+				{{Additional}}
+			</div>
+		</section>
 	</body>
 
 </html>

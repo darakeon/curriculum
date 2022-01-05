@@ -5,7 +5,7 @@
 			"Name": "Lucas Carol Sales Duarte",
 			"Mail": "lc.sales.duarte@gmail.com",
 			"Phone": "(11) 986-372-833",
-			"Url": "https://github.com/darakeon"	
+			"Url": "https://github.com/darakeon"
 		}
 	],
 	"Marker": "LCSD",
@@ -14,6 +14,46 @@
 	"DarkColor": "622",
 	"LightColor": "FAA",
 	"Font": "Calibri",
+	"CoverLetterTitle": {
+		"PT": "carta de apresentação",
+		"EN": "cover letter"
+	},
+	"CoverLetter": [
+		{
+			"Paragraph": {
+				"PT": "Trabalho com desenvolvimento de software na área de consultoria. Já trabalhei com C# .NET, Node, Kotlin, tecnologias de Frontend (HTML, CSS and Javascript), Python e Rust; TDD e BDD para testes; bancos de dados MySQL, Postgres e SQL Server; e Docker, Docker Compose e AWS para infraestrutura.",
+				"EN": "I am a software developer working as consultant. I've worked already with C# .NET, Node, Kotlin, Frontend technologies (HTML, CSS and Javascript), Python and Rust; TDD and BDD for testing; MySQL, Postgres and SQL Server databases; and Docker, Docker Compose and AWS for infrastructure."
+			}
+		},
+		{
+			"Paragraph": {
+				"PT": "Antes da faculdade fiz um curso de desenvolvimento web. Trabalhei como freelancer fazendo alguns sites simples. Um mês após entrar na faculdade uma pessoa me chamou para lhe substituir na empresa. Depois disso, assumi todo o sistema, desde o banco de dados até o frontend. Porém lá eram usadas apenas tecnologias e práticas desatualizadas.",
+				"EN": "Before college, I made a web developer course. I worked as freelancer making some simple websites. One month after starting college, a colleague called me to be replace them at the company. There I took care of the whole system, since database to frontend. But there I only used old technologies and practices."
+			}
+		},
+		{
+			"Paragraph": {
+				"PT": "Mudei para uma empresa de consultoria em desenvolvimento. Na nova empresa, aprendi melhores práticas, como versionamento, orientação a objetos, princípios e práticas ágeis. Tenho orgulho de ter trabalhado nessa empresa até os dias de hoje. Enquanto estava lá, iniciei meu projeto pessoal, chamado Don't fly Money, de controle financeiro pessoal; este ainda hoje é meu espaço para testes e uma grande fonte de aprendizado. Usei nele tecnologias e conceitos que mais tarde usaria para resolver problemas de clientes.",
+				"EN": "Then I moved to a company that act as software development consultancy. There I learned better practices, as versioning, object oriented programming, agile principles and practices. I'm proud of working there until nowadays. While there, I started my personal project, called Don't fly Money, of personal finantial management, which is my sandbox and a great source of learning since then. I used technologies in it that later I would use to solve problems of my companies' clients."
+			}
+		},
+		{
+			"Paragraph": {
+				"PT": "Depois disso, trabalhei em uma empresa do ramo de pagamentos. Tinham seu próprio produtos e usavam muitas tecnologias novas, no desenvolvimento e na arquitetura. Lá aprendi Node e Rust. E trabalhei com Kotlin pela primeira vez, mas já conhecia, por ter usado no Don't fly money.",
+				"EN": "After that, I worked in company in payment industry. They had their own product and they use a bunch of new technologies, in development and architecture. There I learned Node and Rust. And I worked with Kotlin for the first time, but I already knew it, because of Don't fly Money."
+			}
+		},
+		{
+			"Paragraph": {
+				"PT": "Hoje em dia trabalho em uma empresa internacional de excelência em consultoria. Estou no quarto projeto dentro da empresa. Os projetos incluíram tecnologias como Node, Java, microserviços, Observabilidade, Grafana, Docker e Google AppScripts. Sou \"security champion\" de meu time atual, dada a minha atenção à segurança e detalhes que pessoas normalmente não costumam olhar.",
+				"EN": "Nowadays I work at an international software excellence consultant. I'm in the fourth project at the company. The projects included technologies Node, Java, microservices, Observability, Grafana, Docker and Google AppScripts. I'm security champion of my current team, given my attention to security and details people don't use to see."
+			}
+		}
+	],
+	"CoverLetterClosing": {
+		"PT": "sincera e respeitosamente",
+		"EN": "sincerely and respectfully"
+	},
 	"ProfessionalTitle": {
 		"PT": "Experiência profissional",
 		"EN": "Professional experience"
