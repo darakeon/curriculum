@@ -142,7 +142,8 @@ function toDate(text, lang) {
 	const parts = text.split('-')
 	switch (parts.length) {
 		case 2:
-			const month = new Date(0, parts[1])
+			const javaMonth = parts[1] - 1;
+			const month = new Date(parts[0], javaMonth)
 				.toLocaleString(lang, { month: 'short' })
 				.replace(".", "")
 				.toUpperCase()
