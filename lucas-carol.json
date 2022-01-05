@@ -41,7 +41,7 @@
 	"CoverLetter": [
 		{
 			"Paragraph": {
-				"PT": "Trabalho com desenvolvimento de software na área de consultoria. Já trabalhei com C# .NET, Node, Kotlin, tecnologias de Frontend (HTML, CSS and Javascript), Python e Rust; TDD e BDD para testes; bancos de dados MySQL, Postgres e SQL Server; e Docker, Docker Compose e AWS para infraestrutura.",
+				"PT": "Trabalho com desenvolvimento de software na área de consultoria. Já trabalhei com C# .NET, Node, Kotlin, tecnologias de Frontend (HTML, CSS e Javascript), Python e Rust; TDD e BDD para testes; bancos de dados MySQL, Postgres e SQL Server; e Docker, Docker Compose e AWS para infraestrutura.",
 				"EN": "I am a software developer working as consultant. I've worked already with C# .NET, Node, Kotlin, Frontend technologies (HTML, CSS and Javascript), Python and Rust; TDD and BDD for testing; MySQL, Postgres and SQL Server databases; and Docker, Docker Compose and AWS for infrastructure."
 			}
 		},
