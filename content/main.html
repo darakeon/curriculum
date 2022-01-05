@@ -1,7 +1,7 @@
 <html>
 
 	<head>
-		<title>{{Title}}</title>
+		<title>{{Name}}</title>
 
 		<style>
 			* {
@@ -28,31 +28,33 @@
 	<body>
 		<section class="cover-letter">
 			<h1>{{CoverLetterTitle}}</h1>
-			{{Identification}}
-	
+			<h2>{{Name}}</h2>
+			<dl>{{Contacts}}</dl>
+
 			<article>
 				{{CoverLetter}}
 
 				<p>
 					{{CoverLetterClosing}}, <br />
-					{{Title}}
+					{{Signature}}
 				</p>
 			</article>
 		</section>
 
 		<section class="curriculum">
-			{{Identification}}
+			<h2>{{Name}}</h2>
+			<dl>{{Contacts:H2}}</dl>
 
 			<div>
 				<h3>{{ProfessionalTitle}}</h3>
 				{{Professional}}
 			</div>
-	
+
 			<div>
 				<h3>{{AcademicTitle}}</h3>
 				{{Academic}}
 			</div>
-	
+
 			<div>
 				{{Additional}}
 			</div>

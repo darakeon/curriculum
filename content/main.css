@@ -47,7 +47,7 @@ h2 {
 	margin-top: 0;
 }
 
-h3 { 
+h3 {
 	font-size: 1.6em;
 	text-align: center;
 	margin-top: 1.2em;
@@ -65,49 +65,59 @@ h5 {
 	margin-top: 0.8em;
 }
 
-.cover-letter {
-	page-break-after: always;
+dl {
+	color: var(--subtitle);
+	font-style: italic;
+	font-size: 1.2em;
 }
 
-	.cover-letter .title span {
-		display: block;
-		text-align: right;
-		font-style: italic;
-		font-size: 1.2em;
-		color: var(--subtitle);
+	dl * {
+		display: inline-block;
 	}
 
-	.cover-letter article p {
+	dl dt {
+		text-align: right;
+		font-weight: bold;
+	}
+
+		dl dt:after {
+			content: ':';
+		}
+
+		.cover-letter dl dt {
+			width: 64%;
+		}
+
+		.curriculum dl dt {
+			width: 14%;
+		}
+
+	dl dd {
+		margin-left: 0.5em;
+	}
+
+		.cover-letter dl dd {
+			width: 34%;
+		}
+
+		.curriculum dl dd {
+			width: 34%;
+		}
+
+	article p {
 		text-align: justify;
 		font-size: 1.6em;
 	}
 
-		.cover-letter article p:not(:last-child) {
+		article p:not(:last-child) {
 			text-indent: 3em;
 		}
 
-		.cover-letter article p:last-child {
+		article p:last-child {
 			font-style: italic;
 			color: var(--subtitle);
 			margin-top: 3em;
 		}
-
-.curriculum .title span {
-	display: inline-block;
-	text-align: center;
-}
-	.curriculum .title .mail {
-		width: 30%;
-		text-align: left;
-	}
-	.curriculum .title .url {
-		width: 40%;
-		text-align: center;
-	}
-	.curriculum .title .phone {
-		width: 30%;
-		text-align: right;
-	}
 
 small {
 	display: block;
@@ -136,6 +146,10 @@ ul.columns li {
 	width: 47%;
 	display: inline-block;
 	padding-inline-end: 1em;
+}
+
+.cover-letter {
+	page-break-after: always;
 }
 
 .keep-together {

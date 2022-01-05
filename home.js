@@ -61,19 +61,45 @@ function process(html, data, lang, parent) {
 	parent = !parent ? '' : `${parent}_`
 
 	for (const key in data) {
-		const childHtmlName = `${parent}${key}`
-
 		const content = data[key]
 		if (!content) continue
 
-		const regex = new RegExp(`{{${key}}}`, 'g')
+		const childHtmlName = `${parent}${key}`
+		const regex = new RegExp(`{{${key}(?::([HV])(\\d))?}}`)
 
-		if (html.indexOf(key) < 0) {
-			console.log(`not find ${childHtmlName}`)
+		const hasKey = regex.test(html); regex.lastIndex = 0
+
+		if (!hasKey) {
+			console.log(`key '${key}' not found in ${html}${parent.replace('_', '')}`)
 		} else if (Array.isArray(content)) {
-			html = processChildren(html, childHtmlName, regex, content, lang)
+			let groups
+
+			while (groups = regex.exec(html)) {
+				const alignment = groups[1]
+
+				let itemsToShow = []
+
+				if (alignment === 'H') {
+					const size = content.length
+					const columns = groups[2] * 1
+					const rows = size / columns
+
+					for (let g = 0; g < size; g += columns) {
+						for (let t = 0; t < columns; t++) {
+							const i = t * rows + g / columns
+							itemsToShow.push(content[i])
+						}
+					}
+				} else {
+					itemsToShow = content
+				}
+
+				html = processChildren(html, childHtmlName, regex, itemsToShow, lang)
+			}
 		} else {
-			html = html.replace(regex, content[lang] || content)
+			while (groups = regex.exec(html)) {
+				html = html.replace(regex, content[lang] || content)
+			}
 		}
 	}
 
@@ -87,12 +113,12 @@ function processChildren(html, childHtmlName, regex, content, lang) {
 	const childHtml = getHtml(childHtmlName)
 	const children = []
 
-	for(let i in translated) {
+	for (let i in translated) {
 		children.push(
 			process(
-				childHtml, 
-				translated[i], 
-				lang, 
+				childHtml,
+				translated[i],
+				lang,
 				childHtmlName
 			)
 		)
