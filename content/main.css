@@ -193,23 +193,23 @@ ul.columns li {
 	}
 
 	span.knowledge.level-1 {
-		font-size: 1em;
+		font-size: 1.5em;
 	}
 
 	span.knowledge.level-2 {
-		font-size: 2em;
+		font-size: 2.5em;
 	}
 
 	span.knowledge.level-3 {
-		font-size: 3em;
+		font-size: 3.5em;
 	}
 
 	span.knowledge.level-4 {
-		font-size: 4em;
+		font-size: 4.5em;
 	}
 
 	span.knowledge.level-5 {
-		font-size: 5em;
+		font-size: 5.5em;
 	}
 
 	span.knowledge.level-1 ~ span.knowledge.level-1 {

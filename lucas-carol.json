@@ -70,58 +70,215 @@
 			}
 		}
 	],
-	"Knowledges": [
-		{ "Tech": ".NET", "Level": 5 },
-		{ "Tech": ".NET Core", "Level": 5 },
-		{ "Tech": "Agile", "Level": 5 },
-		{ "Tech": "Amazon Web Services (AWS)", "Level": 3 },
-		{ "Tech": "Android", "Level": 3 },
-		{ "Tech": "AWS EC2", "Level": 4 },
-		{ "Tech": "AWS Lambda", "Level": 3 },
-		{ "Tech": "AWS RDS", "Level": 4 },
-		{ "Tech": "AWS S3", "Level": 4 },
-		{ "Tech": "AWS SES", "Level": 3 },
-		{ "Tech": "Bash", "Level": 3 },
-		{ "Tech": "BDD", "Level": 4 },
-		{ "Tech": "Bootstrap", "Level": 2 },
-		{ "Tech": "C#", "Level": 5 },
-		{ "Tech": "CI/CD", "Level": 3 },
-		{ "Tech": "CircleCi", "Level": 3 },
-		{ "Tech": "CSS", "Level": 4 },
-		{ "Tech": "Django", "Level": 2 },
-		{ "Tech": "Docker", "Level": 2 },
-		{ "Tech": "Docker Compose", "Level": 2 },
-		{ "Tech": "Gradle", "Level": 2 },
-		{ "Tech": "HTML", "Level": 4 },
-		{ "Tech": "Java", "Level": 3 },
-		{ "Tech": "JavaScript", "Level": 4 },
-		{ "Tech": "jQuery", "Level": 3 },
-		{ "Tech": "JUnit", "Level": 3 },
-		{ "Tech": "Kanban", "Level": 4 },
-		{ "Tech": "Kotlin", "Level": 3 },
-		{ "Tech": "Linux", "Level": 3 },
-		{ "Tech": "Microservices", "Level": 2 },
-		{ "Tech": "Microsoft SQL", "Level": 3 },
-		{ "Tech": "Mobile", "Level": 3 },
-		{ "Tech": "MySQL", "Level": 4 },
-		{ "Tech": "NHibernate", "Level": 4 },
-		{ "Tech": "Nginx", "Level": 1 },
-		{ "Tech": "Node", "Level": 2 },
-		{ "Tech": "PostgreSQL", "Level": 2 },
-		{ "Tech": "puppeteer", "Level": 2 },
-		{ "Tech": "Python", "Level": 2 },
-		{ "Tech": "React", "Level": 1 },
-		{ "Tech": "Rust", "Level": 1 },
-		{ "Tech": "Scrum", "Level": 3 },
-		{ "Tech": "Selenium", "Level": 1 },
-		{ "Tech": "SDK Development", "Level": 1 },
-		{ "Tech": "Specflow", "Level": 2 },
-		{ "Tech": "SQL", "Level": 4 },
-		{ "Tech": "SQL Server", "Level": 2 },
-		{ "Tech": "SQLite", "Level": 5 },
-		{ "Tech": "SVG", "Level": 3 },
-		{ "Tech": "TypeScript", "Level": 2 },
-		{ "Tech": "Unity3D", "Level": 1 }
+	"KnowledgesTitle": {
+		"PT": "Conhecimento",
+		"EN": "Knowlegdes"
+	},
+	"KnowledgesList": [
+		{
+			"Tech": ".NET",
+			"Level": 5
+		},
+		{
+			"Tech": ".NET Core",
+			"Level": 5
+		},
+		{
+			"Tech": "Agile",
+			"Level": 5
+		},
+		{
+			"Tech": "Amazon Web Services (AWS)",
+			"Level": 3
+		},
+		{
+			"Tech": "Android",
+			"Level": 3
+		},
+		{
+			"Tech": "AWS EC2",
+			"Level": 4
+		},
+		{
+			"Tech": "AWS Lambda",
+			"Level": 3
+		},
+		{
+			"Tech": "AWS RDS",
+			"Level": 4
+		},
+		{
+			"Tech": "AWS S3",
+			"Level": 4
+		},
+		{
+			"Tech": "AWS SES",
+			"Level": 3
+		},
+		{
+			"Tech": "Bash",
+			"Level": 3
+		},
+		{
+			"Tech": "BDD",
+			"Level": 4
+		},
+		{
+			"Tech": "Bootstrap",
+			"Level": 2
+		},
+		{
+			"Tech": "C#",
+			"Level": 5
+		},
+		{
+			"Tech": "CI/CD",
+			"Level": 3
+		},
+		{
+			"Tech": "CircleCi",
+			"Level": 3
+		},
+		{
+			"Tech": "CSS",
+			"Level": 4
+		},
+		{
+			"Tech": "Django",
+			"Level": 2
+		},
+		{
+			"Tech": "Docker",
+			"Level": 2
+		},
+		{
+			"Tech": "Docker Compose",
+			"Level": 2
+		},
+		{
+			"Tech": "Gradle",
+			"Level": 2
+		},
+		{
+			"Tech": "HTML",
+			"Level": 4
+		},
+		{
+			"Tech": "Java",
+			"Level": 3
+		},
+		{
+			"Tech": "JavaScript",
+			"Level": 4
+		},
+		{
+			"Tech": "jQuery",
+			"Level": 3
+		},
+		{
+			"Tech": "JUnit",
+			"Level": 3
+		},
+		{
+			"Tech": "Kanban",
+			"Level": 4
+		},
+		{
+			"Tech": "Kotlin",
+			"Level": 3
+		},
+		{
+			"Tech": "Linux",
+			"Level": 3
+		},
+		{
+			"Tech": "Microservices",
+			"Level": 2
+		},
+		{
+			"Tech": "Microsoft SQL",
+			"Level": 3
+		},
+		{
+			"Tech": "Mobile",
+			"Level": 3
+		},
+		{
+			"Tech": "MySQL",
+			"Level": 4
+		},
+		{
+			"Tech": "NHibernate",
+			"Level": 4
+		},
+		{
+			"Tech": "Nginx",
+			"Level": 1
+		},
+		{
+			"Tech": "Node",
+			"Level": 2
+		},
+		{
+			"Tech": "PostgreSQL",
+			"Level": 2
+		},
+		{
+			"Tech": "puppeteer",
+			"Level": 2
+		},
+		{
+			"Tech": "Python",
+			"Level": 2
+		},
+		{
+			"Tech": "React",
+			"Level": 1
+		},
+		{
+			"Tech": "Rust",
+			"Level": 1
+		},
+		{
+			"Tech": "Scrum",
+			"Level": 3
+		},
+		{
+			"Tech": "Selenium",
+			"Level": 1
+		},
+		{
+			"Tech": "SDK Development",
+			"Level": 1
+		},
+		{
+			"Tech": "Specflow",
+			"Level": 2
+		},
+		{
+			"Tech": "SQL",
+			"Level": 4
+		},
+		{
+			"Tech": "SQL Server",
+			"Level": 2
+		},
+		{
+			"Tech": "SQLite",
+			"Level": 5
+		},
+		{
+			"Tech": "SVG",
+			"Level": 3
+		},
+		{
+			"Tech": "TypeScript",
+			"Level": 2
+		},
+		{
+			"Tech": "Unity3D",
+			"Level": 1
+		}
 	],
 	"CoverLetterClosing": {
 		"PT": "sincera e respeitosamente",
