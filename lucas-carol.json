@@ -403,6 +403,10 @@
 	"Academic": [
 		{
 			"Instituition": "FATEC (Faculdade de Tecnologia de São Paulo)",
+			"Description": {
+				"PT": "Análise e Programação em diversas linguagens: Pascal, C, Cobol, TSQL. Sistema Operacional Linux e fundamentos do funcionamento de Sistemas Operacionais. Documentação de sistemas.",
+				"EN": "Analysis and Programming in a number of languages: Pascal, C, Cobol, TSQL. OS Linux and fundamentals of OSs working. System documenting."
+			},
 			"Start": "2007",
 			"End": "2010",
 			"Course": {
@@ -412,6 +416,10 @@
 		},
 		{
 			"Instituition": "SENAC (Serviço Nacional de Aprendizagem Comercial)",
+			"Description": {
+				"PT": "Pós-graduação focada em Jogos usando Unity 3D. Aprendido desde o projeto do jogo e design, música, modelagem e programação.",
+				"EN": "Post graduation focused in Games using Unity 3D. Learned from game project and design, music, modeling and programming."
+			},
 			"Start": "2013",
 			"End": "2014",
 			"Course": {
