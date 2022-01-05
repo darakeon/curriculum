@@ -103,7 +103,9 @@ function process(html, data, lang, parent) {
 			}
 		} else {
 			while (groups = regex.exec(html)) {
-				html = html.replace(regex, content[lang] || content)
+				let text = content[lang] || content
+				if (text === "-") text = ""
+				html = html.replace(regex, text)
 			}
 		}
 	}
