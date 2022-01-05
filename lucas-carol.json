@@ -4,6 +4,8 @@
 	"Phone": "(11) 986-372-833",
 	"Url": "https://github.com/darakeon",
 	"Marker": "LCSD",
+	"TitleColor": "204",
+	"SubtitleColor": "511",
 	"DarkColor": "622",
 	"LightColor": "FAA",
 	"Font": "Calibri",
