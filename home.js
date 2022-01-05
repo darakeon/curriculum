@@ -108,7 +108,7 @@ function process(html, data, lang, parent) {
 
 function processChildren(html, childHtmlName, regex, content, lang) {
 	const sorted = sort(content)
-	const translated = translateDates(sorted, lang)
+	const translated = translateAndAddDates(sorted, lang)
 
 	const childHtml = getHtml(childHtmlName)
 	const children = []
@@ -148,7 +148,7 @@ function sort(content) {
 	return content
 }
 
-function translateDates(content, lang) {
+function translateAndAddDates(content, lang) {
 	if (!content[0].Start) return content
 
 	content = content.map((e) => {
