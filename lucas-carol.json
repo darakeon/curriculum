@@ -95,6 +95,14 @@
 				"PT": "Manutenção e criação de novas funcionalidades para sistema de questionários.",
 				"EN": "Maintenance and criation of new features to the questionnaires system."
 			},
+			"Details": [
+				{
+					"Text": {
+						"PT": null,
+						"EN": "Starting to replace a colleague, after the second month I took soleny responsibility over the entire system: database, backend and frontend. During my years there, I had three people to teach and manage. The technologies I learn there were classic ASP, IIS, SQL, HTML, CSS and Javascript."
+					}
+				}
+			],
 			"Projects": [
 				{
 					"Text": {
@@ -121,6 +129,14 @@
 				"PT": "Desenvolvimento e manutenção de sistemas para clientes, de hotsites a sistemas web mais complexos",
 				"EN": "Client system development and maintenance, from marketing site to more complex web systems"
 			},
+			"Details": [
+				{
+					"Text": {
+						"PT": null,
+						"EN": "I worked in several projects at Inspira. During my time there, I evolved a lot and I grew as developer and as a person and I had the opportunity to taught other developers."
+					}
+				}
+			],
 			"Projects": [
 				{
 					"Text": {
@@ -203,6 +219,14 @@
 				"PT": "Manutenção de mundo físico e de backend core",
 				"EN": "Maintenance of physical transactions sdks and company core backend"
 			},
+			"Details": [
+				{
+					"Text": {
+						"PT": null,
+						"EN": "I've worked in some projects while working in Pagar.me. The first of it was an .NET SDK for communicating with payment machines. After that, I was part of the team that was responsible for creating a new unified frontend library for the mother-company of Pagar.me, using React. Then I started the development of integration to use voucher cards in payment machines. I was part of a security improvement the company had to make, when I had to pair with a bunch of different teams to achieve the results. As last project I went to a team to start a new project, to attend smaller clients that needed payment machines to improve their business and modernize their way to sell their goods."
+					}
+				}
+			],
 			"Projects": [
 				{
 					"Text": {
@@ -257,6 +281,26 @@
 				"PT": "Consultoria em projetos clientes",
 				"EN": "Client projects consulting"
 			},
+			"Details": [
+				{
+					"Text": {
+						"PT": null,
+						"EN": "The work here is about consultancy, development and maintenance of client and internal software. Thoughtworks follows best practices, continuous improvement, pairing, TDD and other agile practices."
+					}
+				},
+				{
+					"Text": {
+						"PT": null,
+						"EN": "The first project was an internal one, to make easier to understand the health of the kanban boards using a fictional character state to show how the project was. This is helped me improving my Node knowledge. Some months after, I went to a client project, that manages rental and sell of houses and flats. There I had experience with microservices with Java and BFF methodology (backend-for-frontend). Then I went to my first international project, implementing Observability using Grafana and Docker."
+					}
+				},
+				{
+					"Text": {
+						"PT": null,
+						"EN": "The fourth project is attending internal clients, using Google AppScript, Docker, Postgres, TypeScript and TDD. In this team, I'm the security champion."
+					}
+				}
+			],
 			"Projects": [
 				{
 					"Text": {
@@ -307,6 +351,14 @@
 				"PT": "Projeto independente",
 				"EN": "Independent project"
 			},
+			"Details": [
+				{
+					"Text": {
+						"PT": null,
+						"EN": "Maintainer of the personal financial management system, built with C# .NET Core, Kotlin, Node and Rust. For tests, using BDD, TDD, puppeteer, specflow and roboeletric. Docker for running locally and in the server, RDS DB and EC2 Linux for production. Uses SES, Lambda and S3 for e-mails. One goal is to improve the CI: nowadays it already runs all the tests, the objective is to make it deploy too, becoming a CD too."
+					}
+				}
+			],
 			"Urls": [
 				{
 					"Url": "http://dontflymoney.com"

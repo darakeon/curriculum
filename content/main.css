@@ -106,14 +106,18 @@ dl {
 
 	article p {
 		text-align: justify;
+	}
+
+	.cover-letter article p {
 		font-size: 1.6em;
 	}
 
-		article p:not(:last-child) {
+		.curriculum article p,
+		.cover-letter article p:not(:last-child) {
 			text-indent: 3em;
 		}
 
-		article p:last-child {
+		.cover-letter article p:last-child {
 			font-style: italic;
 			color: var(--subtitle);
 			margin-top: 3em;
