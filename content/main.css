@@ -92,8 +92,9 @@ ul {
 		}
 
 ul.columns li {
-	width: 48%;
+	width: 47%;
 	display: inline-block;
+	padding-inline-end: 1em;
 }
 
 .keep-together {
