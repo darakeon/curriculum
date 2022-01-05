@@ -32,9 +32,14 @@ const server = http.createServer((req, res) => {
 		return exit(res, 404, 'plain', message)
 	}
 
+	const data = require(json)
+
+	if (!data['Marker'])
+		data['Marker'] = '&ndash;'
+
 	let html = process(
 		getHtml('main'),
-		require(json),
+		data,
 		lang
 	)
 
