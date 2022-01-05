@@ -53,7 +53,7 @@ function getFile(name) {
 	if (fs.existsSync(name))
 		return fs.readFileSync(name).toString()
 
-	console.log(`not found ${name}`)
+	console.log(`file '${name}' not found`)
 	return null
 }
 
