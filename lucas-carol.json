@@ -470,31 +470,17 @@
 			"Projects": [
 				{
 					"Text": {
-						"PT": "Biblioteca principal com a lógica de negócio",
-						"EN": "Core library with business logic"
+						"PT": "Biblioteca principal com a lógica de negócio, com testes automatizados",
+						"EN": "Core library with business logic with automated tests"
 					},
-					"Tools": ".NET, C#, NHibernate"
+					"Tools": ".NET, C#, NHibernate, BDD, Specflow"
 				},
 				{
 					"Text": {
-						"PT": "Testes automatizados da lógica de negócio",
-						"EN": "Business logic automated tests"
+						"PT": "Site com testes automatizados de browser",
+						"EN": "Website with browser automated tests"
 					},
-					"Tools": "BDD, Specflow"
-				},
-				{
-					"Text": {
-						"PT": "Site",
-						"EN": "Website"
-					},
-					"Tools": ".NET, C#, MVC, HTML, CSS, javascript, jQuery, bootstrap"
-				},
-				{
-					"Text": {
-						"PT": "Testes automatizados do site",
-						"EN": "Website automated tests"
-					},
-					"Tools": "Puppeteer"
+					"Tools": ".NET, C#, MVC, HTML, CSS, javascript, jQuery, Bootstrap, Puppeteer"
 				},
 				{
 					"Text": {
@@ -505,17 +491,10 @@
 				},
 				{
 					"Text": {
-						"PT": "Aplicativo Android",
-						"EN": "Android app"
+						"PT": "Aplicativo Android com testes automatizados",
+						"EN": "Android app with automated tests"
 					},
-					"Tools": "Kotlin, retrofit"
-				},
-				{
-					"Text": {
-						"PT": "Testes automatizados do app",
-						"EN": "App automated tests"
-					},
-					"Tools": "junit, robolectric"
+					"Tools": "Kotlin, retrofit, junit, robolectric"
 				},
 				{
 					"Text": {
