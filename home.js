@@ -16,11 +16,18 @@ const server = http.createServer((req, res) => {
 	if (req.url == '/main.css')
 		return exit(res, 200, 'css', getFile('main.css'))
 
-	const path = req.url.split('/')
+	let path = req.url.split('/')
 
 	if (path.length < 3) {
-		const message = `call ${hostname}:${port}/{name}/{lang}`
-		return exit(res, 400, 'plain', message)
+		const defaultPerson = process.env.DEFAULT_PERSON
+		const defaultLang = process.env.DEFAULT_LANGUAGE
+
+		if (defaultPerson && defaultLang) {
+			path = [path[0], defaultPerson, defaultLang]
+		} else {
+			const message = `call ${hostname}:${port}/{name}/{lang}`
+			return exit(res, 400, 'plain', message)	
+		}
 	}
 
 	const person = path[1]
@@ -37,7 +44,7 @@ const server = http.createServer((req, res) => {
 	if (!data['Marker'])
 		data['Marker'] = '&ndash;'
 
-	let html = process(
+	let html = processParent(
 		getHtml('main'),
 		data,
 		lang
@@ -62,7 +69,7 @@ function getFile(name) {
 	return null
 }
 
-function process(html, data, lang, parent) {
+function processParent(html, data, lang, parent) {
 	parent = !parent ? '' : `${parent}_`
 
 	for (const key in data) {
@@ -122,7 +129,7 @@ function processChildren(html, childHtmlName, regex, content, lang) {
 
 	for (let i in translated) {
 		children.push(
-			process(
+			processParent(
 				childHtml,
 				translated[i],
 				lang,
