@@ -1,0 +1,40 @@
+version: 2.1
+
+jobs:
+  trufflehog:
+    docker:
+      - image: python:3-alpine
+    steps:
+      - checkout
+      - run:
+          name: install trufflehog
+          command: apk add --no-cache git && pip install gitdb2==3.0.0 trufflehog
+      - run:
+          name: run trufflehog
+          command: trufflehog --exclude_paths trufflehog/exclude-patterns.txt --allow trufflehog/allow.json .
+
+  docker:
+    docker:
+      - image: docker
+    steps:
+      - checkout
+      - run:
+          name: Build
+          command: make build
+      - run:
+          name: Login
+          command: docker login -u $DOCKER_USER -p $DOCKER_PASSWORD
+      - run:
+          name: Push
+          command: make push
+
+workflows:
+  deploy:
+    jobs:
+      - trufflehog
+      - docker:
+          requires:
+            - trufflehog
+          filters:
+            branches:
+              only: main
