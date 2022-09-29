@@ -1,4 +1,6 @@
-const http = require('http')
+const protocol = process.env.SSL ? 'https' : 'http'
+
+const http = require(protocol)
 const fs = require('fs')
 
 const defaultPerson = process.env.PERSON
@@ -202,5 +204,5 @@ function getHtml(name) {
 }
 
 server.listen(port, hostname, () => {
-	console.log(`Server running at http://${hostname}:${port}/`)
+	console.log(`Server running at ${protocol}://${hostname}:${port}/`)
 })
