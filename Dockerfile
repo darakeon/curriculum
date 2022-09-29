@@ -10,7 +10,8 @@ EXPOSE 3000
 
 WORKDIR /var/www
 
-ENV DEFAULT_PERSON lucas-carol
-ENV DEFAULT_LANGUAGE EN
+ENV PERSON lucas-carol
+ENV LANGUAGE EN
+ENV HOSTNAME curriculum
 
 CMD node home.js

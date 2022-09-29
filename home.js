@@ -1,7 +1,11 @@
 const http = require('http')
 const fs = require('fs')
 
-const hostname = '127.0.0.1'
+const defaultPerson = process.env.PERSON
+const defaultLang = process.env.LANGUAGE
+const defaultHost = process.env.HOSTNAME
+
+const hostname = defaultHost || '127.0.0.1'
 const port = 3000
 
 const current = {
@@ -19,9 +23,6 @@ const server = http.createServer((req, res) => {
 	let path = req.url.split('/')
 
 	if (path.length < 3) {
-		const defaultPerson = process.env.DEFAULT_PERSON
-		const defaultLang = process.env.DEFAULT_LANGUAGE
-
 		if (defaultPerson && defaultLang) {
 			path = [path[0], defaultPerson, defaultLang]
 		} else {
