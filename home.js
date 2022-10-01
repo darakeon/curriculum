@@ -1,4 +1,4 @@
-const protocol = process.env.SSL ? 'https' : 'http'
+const protocol = 'http'
 
 const http = require(protocol)
 const fs = require('fs')
