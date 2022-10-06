@@ -146,6 +146,10 @@ ul {
 			color: var(--light);
 		}
 
+	li:empty {
+		display: none;
+	}
+
 ul.columns li {
 	width: 47%;
 	display: inline-block;

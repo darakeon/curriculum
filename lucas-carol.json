@@ -308,7 +308,7 @@
 			"Details": [
 				{
 					"Text": {
-						"PT": null,
+						"PT": "-",
 						"EN": "Starting to replace a colleague, after the second month I took soleny responsibility over the entire system: database, backend and frontend. During my years there, I had three people to teach and manage. The technologies I learn there were classic ASP, IIS, SQL, HTML, CSS and Javascript."
 					}
 				}
@@ -316,19 +316,19 @@
 			"Highlights": [
 				{
 					"Text": {
-						"PT": null,
+						"PT": "-",
 						"EN": "I entered to took care of the entire system. I had too little experience and they trust me to be doing the job by myself from the second month"
 					}
 				},
 				{
 					"Text": {
-						"PT": null,
+						"PT": "-",
 						"EN": "I had three other interns on my responsibility"
 					}
 				},
 				{
 					"Text": {
-						"PT": null,
+						"PT": "-",
 						"EN": "When I left, I still worked with them as freelancer to teach the new developer and solve bugs."
 					}
 				}
@@ -362,7 +362,7 @@
 			"Details": [
 				{
 					"Text": {
-						"PT": null,
+						"PT": "-",
 						"EN": "I worked in several projects at Inspira. During my time there, I evolved a lot and I grew as developer and as a person and I had the opportunity to taught other developers."
 					}
 				}
@@ -370,19 +370,19 @@
 			"Highlights": [
 				{
 					"Text": {
-						"PT": null,
+						"PT": "-",
 						"EN": "I took responsibility of 4 project at same time, I had to balance the tasks of the project and priorities"
 					}
 				},
 				{
 					"Text": {
-						"PT": null,
+						"PT": "-",
 						"EN": "I taught interns in programming languages and development pathways"
 					}
 				},
 				{
 					"Text": {
-						"PT": null,
+						"PT": "-",
 						"EN": "I started a project in automatic testing with a technology I had learned in my personal project and this is nowadays still used to teach people in the company"
 					}
 				}
@@ -472,7 +472,7 @@
 			"Details": [
 				{
 					"Text": {
-						"PT": null,
+						"PT": "-",
 						"EN": "I've worked in some projects while working in Pagar.me. The first of it was an .NET SDK for communicating with payment machines. After that, I was part of the team that was responsible for creating a new unified frontend library for the mother-company of Pagar.me, using React. Then I started the development of integration to use voucher cards in payment machines. I was part of a security improvement the company had to make, when I had to pair with a bunch of different teams to achieve the results. As last project I went to a team to start a new project, to attend smaller clients that needed payment machines to improve their business and modernize their way to sell their goods."
 					}
 				}
@@ -480,19 +480,19 @@
 			"Highlights": [
 				{
 					"Text": {
-						"PT": null,
+						"PT": "-",
 						"EN": "I was part of the team that started the project to create a default UI for the entire company to develop its websites, in React"
 					}
 				},
 				{
 					"Text": {
-						"PT": null,
+						"PT": "-",
 						"EN": "I took responsibility and fought for a project to implement something that was promised to a client years before - the client was even threatening to sue out company. After it was approved, I spent 15 days working with no rest to make it happen"
 					}
 				},
 				{
 					"Text": {
-						"PT": null,
+						"PT": "-",
 						"EN": "I started with two colleagues a new project to develop an application to a new product of the company. They both were novice and I was the only one that knows the language at the company, I was the one that suggested it when the project started"
 					}
 				}
@@ -554,19 +554,19 @@
 			"Details": [
 				{
 					"Text": {
-						"PT": null,
+						"PT": "-",
 						"EN": "The work here is about consultancy, development and maintenance of client and internal software. Thoughtworks follows best practices, continuous improvement, pairing, TDD and other agile practices."
 					}
 				},
 				{
 					"Text": {
-						"PT": null,
+						"PT": "-",
 						"EN": "The first project was an internal one, to make easier to understand the health of the kanban boards using a fictional character state to show how the project was. This is helped me improving my Node knowledge. Some months after, I went to a client project, that manages rental and sell of houses and flats. There I had experience with microservices with Java and BFF methodology (backend-for-frontend). Then I went to my first international project, implementing Observability using Grafana and Docker."
 					}
 				},
 				{
 					"Text": {
-						"PT": null,
+						"PT": "-",
 						"EN": "The fourth project is attending internal clients, using Google AppScript, Docker, Postgres, TypeScript and TDD. In this team, I'm the security champion."
 					}
 				}
@@ -574,19 +574,19 @@
 			"Highlights": [
 				{
 					"Text": {
-						"PT": null,
+						"PT": "-",
 						"EN": "I'm recognized as someone that knows git deeply, and people come to me when they have a problem to solve in this matter"
 					}
 				},
 				{
 					"Text": {
-						"PT": null,
+						"PT": "-",
 						"EN": "When the team needed a security champion, people suggested that it was me, giving my attention to details and risks that not everyone is aware to, and this is currently one of my responsibilities"
 					}
 				},
 				{
 					"Text": {
-						"PT": null,
+						"PT": "-",
 						"EN": "People praise me for being always alert to people welfare, trying to bring an environment where everyone feels safe"
 					}
 				}
@@ -644,7 +644,7 @@
 			"Details": [
 				{
 					"Text": {
-						"PT": null,
+						"PT": "-",
 						"EN": "Maintainer of the personal financial management system, built with C# .NET Core, Kotlin, Node and Rust. For tests, using BDD, TDD, puppeteer, specflow and roboeletric. Docker for running locally and in the server, RDS DB and EC2 Linux for production. Uses SES, Lambda and S3 for e-mails. One goal is to improve the CI: nowadays it already runs all the tests, the objective is to make it deploy too, becoming a CD too."
 					}
 				}
@@ -652,19 +652,19 @@
 			"Highlights": [
 				{
 					"Text": {
-						"PT": null,
+						"PT": "-",
 						"EN": "This is a project I created and I still maintain since 2010"
 					}
 				},
 				{
 					"Text": {
-						"PT": null,
+						"PT": "-",
 						"EN": "It has a good range of different technologies and I keep the libraries always up to date"
 					}
 				},
 				{
 					"Text": {
-						"PT": null,
+						"PT": "-",
 						"EN": "I already had to change the server from windows to linux, giving the difference between my currency and US dollar it was becoming too expensive to keep it, so I had to plan and execute with caution the migration from .NET Framework to .NET Core and from Windows to Linux after that"
 					}
 				}
