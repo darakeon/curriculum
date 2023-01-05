@@ -65,8 +65,8 @@
 		},
 		{
 			"Paragraph": {
-				"PT": "Hoje em dia trabalho em uma empresa internacional de excelência em consultoria. Estou no quarto projeto dentro da empresa. Os projetos incluíram tecnologias como Node, Java, microserviços, Observabilidade, Grafana, Docker e Google AppScripts. Sou \"security champion\" de meu time atual, dada a minha atenção à segurança e detalhes que pessoas normalmente não costumam olhar.",
-				"EN": "Nowadays I work at an international software excellence consultant. I'm in the fourth project at the company. The projects included technologies Node, Java, microservices, Observability, Grafana, Docker and Google AppScripts. I'm security champion of my current team, given my attention to security and details people don't use to see."
+				"PT": "De 2019 a 2022 trabalhei em uma empresa internacional de excelência em consultoria. Participei de quatro projetos dentro da empresa. Os projetos incluíram tecnologias como Node, Java, microserviços, Observabilidade, Grafana, Docker, Typescript e Google AppScripts. Fui \"security champion\" de meu último time, dada a minha atenção à segurança e detalhes que pessoas normalmente não costumam olhar.",
+				"EN": "From 2019 to 2022 I worked at an international software excellence consultant. I took part in four projects at the company. The projects included technologies like Node, Java, microservices, Observability, Grafana, Docker, Typescript and Google AppScripts. I was the security champion of the last team, given my attention to security and details people don't use to notice."
 			}
 		}
 	],
@@ -538,7 +538,7 @@
 		{
 			"Enterprise": "ThoughtWorks Brasil",
 			"Start": "2019-10",
-			"End": null,
+			"End": "2022-12",
 			"EnterpriseDescription": {
 				"PT": "Consultoria em TI",
 				"EN": "IT Consulting"
