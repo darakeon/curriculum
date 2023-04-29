@@ -308,7 +308,7 @@
 			"Details": [
 				{
 					"Text": {
-						"PT": "-",
+						"PT": "Tendo iniciado para substituir uma pessoa, após o segundo mês recebi a responsabilidade sobre todo o sistema: database, backend e frontend. Durante meus anos lá, tive três pessoas para ensinar e gerenciar. As tecnologias que aprendi foram ASP clássico, IIS, SQL, HTML, CSS e Javascript.",
 						"EN": "Starting to replace a colleague, after the second month I took soleny responsibility over the entire system: database, backend and frontend. During my years there, I had three people to teach and manage. The technologies I learn there were classic ASP, IIS, SQL, HTML, CSS and Javascript."
 					}
 				}
@@ -316,19 +316,19 @@
 			"Highlights": [
 				{
 					"Text": {
-						"PT": "-",
+						"PT": "Entrei para cuidar de todo o sistema. Não tinha quase experiência e acreditaram que eu poderia assumir sozinho após o segundo mês",
 						"EN": "I entered to took care of the entire system. I had too little experience and they trust me to be doing the job by myself from the second month"
 					}
 				},
 				{
 					"Text": {
-						"PT": "-",
+						"PT": "Tive outras três pessoas em estágio sob minha responsabilidade",
 						"EN": "I had three other interns on my responsibility"
 					}
 				},
 				{
 					"Text": {
-						"PT": "-",
+						"PT": "Quando saí ainda trabalhei como freelancer para ensinar uma nova pessoa e resolver problemas",
 						"EN": "When I left I still worked with them as freelancer to teach the new developer and solve bugs."
 					}
 				}
@@ -362,7 +362,7 @@
 			"Details": [
 				{
 					"Text": {
-						"PT": "-",
+						"PT": "Trabalhei em muitos projetos na Inspira. Durante esse tempo evolui muito e cresci na área de desenvolvimento e como pessoa, e tive a oportunidade de ensinar outras pessoas.",
 						"EN": "I worked in several projects at Inspira. During my time there I evolved a lot and I grew as developer and as a person and I had the opportunity to taught other developers."
 					}
 				}
@@ -370,19 +370,19 @@
 			"Highlights": [
 				{
 					"Text": {
-						"PT": "-",
+						"PT": "Assumi quatro projetos ao mesmo tempo, tendo que balancear as tarefas e prioridades de projetos",
 						"EN": "I took responsibility of 4 project at same time, I had to balance the tasks of the project and priorities"
 					}
 				},
 				{
 					"Text": {
-						"PT": "-",
+						"PT": "Ensinei outras pessoas sobre linguagens de programação e desenvolvimento",
 						"EN": "I taught interns in programming languages and development pathways"
 					}
 				},
 				{
 					"Text": {
-						"PT": "-",
+						"PT": "Iniciei um projeto de testes automatizados com tecnologia aprendida em projeto independente e esse projeto ainda hoje é usado para ensinar pessoas na empresa",
 						"EN": "I started a project in automatic testing with a technology I had learned in my personal project and this is nowadays still used to teach people in the company"
 					}
 				}
@@ -472,7 +472,7 @@
 			"Details": [
 				{
 					"Text": {
-						"PT": "-",
+						"PT": "Trabalhei em alguns projetos enquanto estava na Pagar.me. O primeiro foi um SDK .NET para comunicação com máquinas de pagamento. Depois disso, fiz parte da equipe responsável pela criação de uma nova biblioteca unificada de frontend para a empresa dona da Pagar.me, usando React. Em seguida iniciei o desenvolvimento da integração para utilização dos cartões refeição / alimentação nas máquinas de pagamento. Eu fiz parte de uma melhoria de segurança que a empresa teve que fazer, quando tive que trabalhar com várias equipes diferentes para alcançar os resultados. Como último projeto fui a uma equipe para iniciar um novo projeto, para atender clientes menores que precisavam de máquinas de pagamento para melhorar seus negócios e modernizar sua forma de vender seus produtos.",
 						"EN": "I've worked in some projects while working in Pagar.me. The first of it was an .NET SDK for communicating with payment machines. After that, I was part of the team that was responsible for creating a new unified frontend library for the mother-company of Pagar.me, using React. Then I started the development of integration to use voucher cards in payment machines. I was part of a security improvement the company had to make, when I had to pair with a bunch of different teams to achieve the results. As last project I went to a team to start a new project, to attend smaller clients that needed payment machines to improve their business and modernize their way to sell their goods."
 					}
 				}
@@ -480,19 +480,19 @@
 			"Highlights": [
 				{
 					"Text": {
-						"PT": "-",
+						"PT": "Fiz parte da equipe que iniciou o projeto de criação de uma UI padrão para toda a empresa desenvolver seus sites, em React",
 						"EN": "I was part of the team that started the project to create a default UI for the entire company to develop its websites, in React"
 					}
 				},
 				{
 					"Text": {
-						"PT": "-",
+						"PT": "Assumi a responsabilidade e lutei por um projeto para implementar algo que foi prometido a um cliente anos antes - o cliente chegou a ameaçar processar a empresa. Depois de aprovado, passei 15 dias trabalhando sem parar para fazer acontecer",
 						"EN": "I took responsibility and fought for a project to implement something that was promised to a client years before - the client was even threatening to sue out company. After it was approved, I spent 15 days working with no rest to make it happen"
 					}
 				},
 				{
 					"Text": {
-						"PT": "-",
+						"PT": "Comecei com duas pessoas um novo projeto para desenvolver uma aplicação para um novo produto da empresa. Eram pessoas novas na área e eu era o único que sabia a linguagem na empresa, fui eu que sugeri quando o projeto começou",
 						"EN": "I started with two colleagues a new project to develop an application to a new product of the company. They both were novice and I was the only one that knows the language at the company, I was the one that suggested it when the project started"
 					}
 				}
@@ -554,19 +554,19 @@
 			"Details": [
 				{
 					"Text": {
-						"PT": "-",
+						"PT": "O trabalho era consultoria, desenvolvimento e manutenção de software de clientes e interno. A Thoughtworks segue as melhores práticas, melhoria contínua, pareamento, TDD e outras práticas ágeis.",
 						"EN": "The work there was about consultancy, development and maintenance of client and internal software. Thoughtworks follows best practices, continuous improvement, pairing, TDD and other agile practices."
 					}
 				},
 				{
 					"Text": {
-						"PT": "-",
+						"PT": "O primeiro projeto foi interno, para facilitar o entendimento da saúde dos quadros kanban usando um estado de personagem fictício para mostrar como era o projeto. Isso me ajudou a melhorar meu conhecimento do Node. Alguns meses depois, fui a um projeto de cliente, que gerencia aluguel e venda de casas e apartamentos. Lá tive experiência com microsserviços com metodologia Java e BFF (backend-for-frontend). Então fui para o meu primeiro projeto internacional, implementando Observability usando Grafana e Docker.",
 						"EN": "The first project was an internal one, to make easier to understand the health of the kanban boards using a fictional character state to show how the project was. This is helped me improving my Node knowledge. Some months after, I went to a client project, that manages rental and sell of houses and flats. There I had experience with microservices with Java and BFF methodology (backend-for-frontend). Then I went to my first international project, implementing Observability using Grafana and Docker."
 					}
 				},
 				{
 					"Text": {
-						"PT": "-",
+						"PT": "O quarto projeto atendia clientes internos, utilizando Google AppScript, Docker, Postgres, TypeScript e TDD. Nesta equipe, eu era o security champion.",
 						"EN": "The fourth project attended internal clients, using Google AppScript, Docker, Postgres, TypeScript and TDD. In this team, I was the security champion."
 					}
 				}
@@ -574,19 +574,19 @@
 			"Highlights": [
 				{
 					"Text": {
-						"PT": "-",
+						"PT": "Sou reconhecido como alguém que conhece profundamente o git, e as pessoas me procuram quando têm um problema para resolver sobre",
 						"EN": "I'm recognized as someone that knows git deeply, and people come to me when they have a problem to solve in this matter"
 					}
 				},
 				{
 					"Text": {
-						"PT": "-",
+						"PT": "Quando a equipe precisou de um security champion, as pessoas sugeriram que fosse eu, dado minha atenção a detalhes e riscos que nem todos conhecem, e essa era uma das minhas responsabilidades",
 						"EN": "When the team needed a security champion, people suggested that it was me, given my attention to details and risks that not everyone is aware to, and this was one of my responsibilities"
 					}
 				},
 				{
 					"Text": {
-						"PT": "-",
+						"PT": "As pessoas me elogiam por estar sempre atento ao bem-estar das pessoas, tentando trazer um ambiente onde todos se sintam seguros",
 						"EN": "People praise me for being always alert to people welfare, trying to bring an environment where everyone feels safe"
 					}
 				}
@@ -650,7 +650,7 @@
 			"Details": [
 				{
 					"Text": {
-						"PT": "-",
+						"PT": "Mantenedor do sistema de gestão financeira pessoal, construído com C# .NET Core, Kotlin, Node e Rust. Para testes, utiliza BDD, TDD, puppeteer, specflow e roboeletric. Docker para execução local e no servidor, RDS DB e EC2 Linux para produção. Usa SES, Lambda e S3 para e-mails. Um dos objetivos é melhorar o CI: hoje em dia ele já roda todos os testes, o objetivo é fazer deploy também, se tornando um CD.",
 						"EN": "Maintainer of the personal financial management system, built with C# .NET Core, Kotlin, Node and Rust. For tests, using BDD, TDD, puppeteer, specflow and roboeletric. Docker for running locally and in the server, RDS DB and EC2 Linux for production. Uses SES, Lambda and S3 for e-mails. One goal is to improve the CI: nowadays it already runs all the tests, the objective is to make it deploy too, becoming a CD."
 					}
 				}
@@ -658,19 +658,19 @@
 			"Highlights": [
 				{
 					"Text": {
-						"PT": "-",
+						"PT": "Este é um projeto que criei e mantenho desde 2010",
 						"EN": "This is a project I created and I still maintain since 2010"
 					}
 				},
 				{
 					"Text": {
-						"PT": "-",
+						"PT": "Possui uma boa gama de tecnologias diferentes e mantenho as bibliotecas sempre atualizadas",
 						"EN": "It has a good range of different technologies and I keep the libraries always up to date"
 					}
 				},
 				{
 					"Text": {
-						"PT": "-",
+						"PT": "Já tive que mudar o servidor de windows para linux, dada a diferença entre real brasileiro e dólar americano estava ficando muito caro ficar com windows, então tive que planejar e executar com cautela a migração de .NET Framework para .NET Core e do Windows para o Linux depois disso",
 						"EN": "I already had to change the server from windows to linux, given the difference between Brazilian Real and US dollar it was becoming too expensive to keep it as windows, so I had to plan and execute with caution the migration from .NET Framework to .NET Core and from Windows to Linux after that"
 					}
 				}
