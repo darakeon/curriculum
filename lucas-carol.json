@@ -329,7 +329,7 @@
 				{
 					"Text": {
 						"PT": "-",
-						"EN": "When I left, I still worked with them as freelancer to teach the new developer and solve bugs."
+						"EN": "When I left I still worked with them as freelancer to teach the new developer and solve bugs."
 					}
 				}
 			],
@@ -363,7 +363,7 @@
 				{
 					"Text": {
 						"PT": "-",
-						"EN": "I worked in several projects at Inspira. During my time there, I evolved a lot and I grew as developer and as a person and I had the opportunity to taught other developers."
+						"EN": "I worked in several projects at Inspira. During my time there I evolved a lot and I grew as developer and as a person and I had the opportunity to taught other developers."
 					}
 				}
 			],
@@ -555,7 +555,7 @@
 				{
 					"Text": {
 						"PT": "-",
-						"EN": "The work here is about consultancy, development and maintenance of client and internal software. Thoughtworks follows best practices, continuous improvement, pairing, TDD and other agile practices."
+						"EN": "The work there was about consultancy, development and maintenance of client and internal software. Thoughtworks follows best practices, continuous improvement, pairing, TDD and other agile practices."
 					}
 				},
 				{
@@ -567,7 +567,7 @@
 				{
 					"Text": {
 						"PT": "-",
-						"EN": "The fourth project is attending internal clients, using Google AppScript, Docker, Postgres, TypeScript and TDD. In this team, I'm the security champion."
+						"EN": "The fourth project attended internal clients, using Google AppScript, Docker, Postgres, TypeScript and TDD. In this team, I was the security champion."
 					}
 				}
 			],
@@ -581,7 +581,7 @@
 				{
 					"Text": {
 						"PT": "-",
-						"EN": "When the team needed a security champion, people suggested that it was me, giving my attention to details and risks that not everyone is aware to, and this is currently one of my responsibilities"
+						"EN": "When the team needed a security champion, people suggested that it was me, given my attention to details and risks that not everyone is aware to, and this was one of my responsibilities"
 					}
 				},
 				{
@@ -651,7 +651,7 @@
 				{
 					"Text": {
 						"PT": "-",
-						"EN": "Maintainer of the personal financial management system, built with C# .NET Core, Kotlin, Node and Rust. For tests, using BDD, TDD, puppeteer, specflow and roboeletric. Docker for running locally and in the server, RDS DB and EC2 Linux for production. Uses SES, Lambda and S3 for e-mails. One goal is to improve the CI: nowadays it already runs all the tests, the objective is to make it deploy too, becoming a CD too."
+						"EN": "Maintainer of the personal financial management system, built with C# .NET Core, Kotlin, Node and Rust. For tests, using BDD, TDD, puppeteer, specflow and roboeletric. Docker for running locally and in the server, RDS DB and EC2 Linux for production. Uses SES, Lambda and S3 for e-mails. One goal is to improve the CI: nowadays it already runs all the tests, the objective is to make it deploy too, becoming a CD."
 					}
 				}
 			],
@@ -671,7 +671,7 @@
 				{
 					"Text": {
 						"PT": "-",
-						"EN": "I already had to change the server from windows to linux, giving the difference between my currency and US dollar it was becoming too expensive to keep it, so I had to plan and execute with caution the migration from .NET Framework to .NET Core and from Windows to Linux after that"
+						"EN": "I already had to change the server from windows to linux, given the difference between Brazilian Real and US dollar it was becoming too expensive to keep it as windows, so I had to plan and execute with caution the migration from .NET Framework to .NET Core and from Windows to Linux after that"
 					}
 				}
 			],
