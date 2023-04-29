@@ -219,3 +219,7 @@ ul.columns li {
 	span.knowledge.level-1 ~ span.knowledge.level-1 {
 		content: '-';
 	}
+
+.professional {
+	margin-bottom: 4em;
+}
