@@ -68,6 +68,12 @@
 				"PT": "De 2019 a 2022 trabalhei em uma empresa internacional de excelência em consultoria. Participei de quatro projetos dentro da empresa. Os projetos incluíram tecnologias como Node, Java, microserviços, Observabilidade, Grafana, Docker, Typescript e Google AppScripts. Fui \"security champion\" de meu último time, dada a minha atenção à segurança e detalhes que pessoas normalmente não costumam olhar.",
 				"EN": "From 2019 to 2022 I worked at an international software excellence consultant. I took part in four projects at the company. The projects included technologies like Node, Java, microservices, Observability, Grafana, Docker, Typescript and Google AppScripts. I was the security champion of the last team, given my attention to security and details people don't use to notice."
 			}
+		},
+		{
+			"Paragraph": {
+				"PT": "Hoje em dia trabalho na filial Portuguesa de uma companhia dos Estados Unidos, no time de desenvolvimento backend. Usamos a ferramenta Nodered e Python para desenvolver customizações para clientes no sistema que conecta seguradoras e distribuidoras. Me mudei para Portugal para estar próximo a empresa e trabalhar presencial um dia por semana.",
+				"EN": "Nowadays I work in the Portuguese branch of an United States company in the backend development team. We use Nodered tool and Python to develop customizations for clients in the system that connects insurers and distributors. I moved to Portugal to be closer to the company, working in the site once a week."
+			}
 		}
 	],
 	"KnowledgesTitle": {
@@ -218,6 +224,10 @@
 		{
 			"Tech": "Node",
 			"Level": 2
+		},
+		{
+			"Tech": "Nodered",
+			"Level": 1
 		},
 		{
 			"Tech": "PostgreSQL",
@@ -629,6 +639,55 @@
 				}
 			]
 		},
+		{
+			"Enterprise": "Habit",
+			"Start": "2023-01",
+			"End": null,
+			"EnterpriseDescription": {
+				"PT": "Intermediadora entre empresas seguradoras e distribuidoras",
+				"EN": "Intermediary between insurers and distributor companies"
+			},
+			"Role": {
+				"PT": "Desenvolvimento",
+				"EN": "Development"
+			},
+			"Responsability": {
+				"PT": "Parte da equipe de backend do produto",
+				"EN": "Part of product backend development"
+			},
+			"Details": [
+				{
+					"Text": {
+						"PT": "Trabalho em equipe para desenvolver customizações para clientes no produto. Eu desenvolvo principalmente em Node usando a ferramenta Nodered, mas às vezes também trabalho no projeto principal em Python.",
+						"EN": "I work in a team to develop customizations for clients in the product. I develop mainly in Node using Nodered tool, but sometimes I work in the Python core project too."
+					}
+				}
+			],
+			"Highlights": [
+				{
+					"Text": {
+						"PT": "-",
+						"EN": "-"
+					}
+				}
+			],
+			"Projects": [
+				{
+					"Text": {
+						"PT": "Desenvolvimento em interface gráfica no browser com a ferramenta Nodered",
+						"EN": "Development in browser graphic interface via Nodered"
+					},
+					"Tools": "Node"
+				},
+				{
+					"Text": {
+						"PT": "Adição de novas funcionalidades e correção de bugs em APIs REST",
+						"EN": "New features and bug fixes in REST API"
+					},
+					"Tools": "Python"
+				}
+			]
+		}
 	],
 	"IndependentTitle": {
 		"PT": "Projetos Independentes",
