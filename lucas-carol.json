@@ -65,8 +65,8 @@
 		},
 		{
 			"Paragraph": {
-				"PT": "Hoje em dia trabalho na filial Portuguesa de uma companhia dos Estados Unidos, no time de desenvolvimento backend. Usamos a ferramenta Nodered e Python para desenvolver customizações para clientes no sistema que conecta seguradoras e distribuidoras. Me mudei para Portugal para estar próximo a empresa e trabalhar presencial um dia por semana.",
-				"EN": "Nowadays I work in the Portuguese branch of an United States company in the backend development team. We use Nodered tool and Python to develop customizations for clients in the system that connects insurers and distributors. I moved to Portugal to be closer to the company, working in the site once a week."
+				"PT": "Hoje em dia trabalho na filial Portuguesa de uma companhia dos Estados Unidos, no time de desenvolvimento backend. Usamos a ferramenta Node-RED e Python para desenvolver customizações para clientes no sistema que conecta seguradoras e distribuidoras. Me mudei para Portugal para estar próximo a empresa e trabalhar presencial um dia por semana.",
+				"EN": "Nowadays I work in the Portuguese branch of an United States company in the backend development team. We use Node-RED tool and Python to develop customizations for clients in the system that connects insurers and distributors. I moved to Portugal to be closer to the company, working in the site once a week."
 			}
 		}
 	],
@@ -220,7 +220,7 @@
 			"Level": 2
 		},
 		{
-			"Tech": "Nodered",
+			"Tech": "Node-RED",
 			"Level": 1
 		},
 		{
@@ -652,8 +652,8 @@
 			"Details": [
 				{
 					"Text": {
-						"PT": "Trabalho em equipe para desenvolver customizações para clientes no produto. Eu desenvolvo principalmente em Node usando a ferramenta Nodered, mas às vezes também trabalho no projeto principal em Python.",
-						"EN": "I work in a team to develop customizations for clients in the product. I develop mainly in Node using Nodered tool, but sometimes I work in the Python core project too."
+						"PT": "Trabalho em equipe para desenvolver customizações para clientes no produto. Eu desenvolvo principalmente em Node usando a ferramenta Node-RED, mas às vezes também trabalho no projeto principal em Python.",
+						"EN": "I work in a team to develop customizations for clients in the product. I develop mainly in Node using Node-RED tool, but sometimes I work in the Python core project too."
 					}
 				}
 			],
@@ -668,8 +668,8 @@
 			"Projects": [
 				{
 					"Text": {
-						"PT": "Desenvolvimento em interface gráfica no browser com a ferramenta Nodered",
-						"EN": "Development in browser graphic interface via Nodered"
+						"PT": "Desenvolvimento em interface gráfica no browser com a ferramenta Node-RED",
+						"EN": "Development in browser graphic interface via Node-RED"
 					},
 					"Tools": "Node"
 				},
