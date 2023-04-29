@@ -629,6 +629,12 @@
 				}
 			]
 		},
+	],
+	"IndependentTitle": {
+		"PT": "Projetos Independentes",
+		"EN": "Independent projects"
+	},
+	"Independent": [
 		{
 			"Enterprise": "Don’t fly Money",
 			"Start": "2010",
