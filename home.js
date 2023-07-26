@@ -97,12 +97,14 @@ function processParent(html, data, lang, parent) {
 				if (alignment === 'H') {
 					const size = content.length
 					const columns = groups[2] * 1
-					const rows = size / columns
+					const rows = Math.ceil(size / columns)
 
 					for (let g = 0; g < size; g += columns) {
 						for (let t = 0; t < columns; t++) {
 							const i = t * rows + g / columns
-							itemsToShow.push(content[i])
+							if (content[i]) {
+								itemsToShow.push(content[i])
+							}
 						}
 					}
 				} else {
