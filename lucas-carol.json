@@ -143,7 +143,7 @@
 			"Level": 3
 		},
 		{
-			"Tech": "CircleCi",
+			"Tech": "CircleCI",
 			"Level": 3
 		},
 		{
@@ -314,13 +314,13 @@
 			},
 			"Responsability": {
 				"PT": "Manutenção e criação de novas funcionalidades para sistema de questionários.",
-				"EN": "Maintenance and criation of new features to the questionnaires system."
+				"EN": "Maintenance and creation of new features to the questionnaires system."
 			},
 			"Details": [
 				{
 					"Text": {
 						"PT": "Tendo iniciado para substituir uma pessoa, após o segundo mês recebi a responsabilidade sobre todo o sistema: database, backend e frontend. Durante meus anos lá, tive três pessoas para ensinar e gerenciar. As tecnologias que aprendi foram ASP clássico, IIS, SQL, HTML, CSS e Javascript.",
-						"EN": "Starting to replace a colleague, after the second month I took soleny responsibility over the entire system: database, backend and frontend. During my years there, I had three people to teach and manage. The technologies I learn there were classic ASP, IIS, SQL, HTML, CSS and Javascript."
+						"EN": "Starting to replace a colleague, after the second month I took solely responsibility over the entire system: database, backend and frontend. During my years there, I had three people to teach and manage. The technologies I learn there were classic ASP, IIS, SQL, HTML, CSS and Javascript."
 					}
 				}
 			],
@@ -360,7 +360,7 @@
 			"End": "2016-11",
 			"EnterpriseDescription": {
 				"PT": "Empresa de tecnologia e inovação que trabalha com metodologias ágeis e possui cultura de aprendizado contínuo. Possui projetos de diversos contextos técnicos, tais como sistemas web, aplicações mobile, consultoria e análise de negócio.",
-				"EN": "Technology and innovation enterprise which uses agile methodologies and has a continuous learning culture. Develop project in a variaty of technical contexts as web systems, mobile apps, consulting and business analysis."
+				"EN": "Technology and innovation enterprise which uses agile methodologies and has a continuous learning culture. Develop project in a variety of technical contexts as web systems, mobile apps, consulting and business analysis."
 			},
 			"Role": {
 				"PT": "Análise e Programação",
