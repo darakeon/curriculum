@@ -163,6 +163,18 @@
 			"Level": 2
 		},
 		{
+			"Tech": "GCP",
+			"Level": 1
+		},
+		{
+			"Tech": "git",
+			"Level": 5
+		},
+		{
+			"Tech": "Github Actions",
+			"Level": 3
+		},
+		{
 			"Tech": "Gradle",
 			"Level": 2
 		},
@@ -281,6 +293,10 @@
 		{
 			"Tech": "SVG",
 			"Level": 3
+		},
+		{
+			"Tech": "Terraform",
+			"Level": 1
 		},
 		{
 			"Tech": "TypeScript",
