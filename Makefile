@@ -1,3 +1,5 @@
+MAKEFLAGS += --no-print-directory
+
 IMAGE_NAME=darakeon/curriculum
 MACHINE_NAME=dk-c
 
