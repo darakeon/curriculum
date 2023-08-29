@@ -75,6 +75,10 @@ function getFile(name) {
 function processParent(html, data, lang, parent) {
 	parent = !parent ? '' : `${parent}_`
 
+	if (typeof data === 'string') {
+		return html.replace(/{{Text}}/g, data)
+	}
+
 	for (const key in data) {
 		const content = data[key]
 		if (!content) continue
