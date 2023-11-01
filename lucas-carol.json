@@ -322,7 +322,7 @@
 			},
 			"Role": {
 				"PT": "Programação",
-				"EN": "Programming"
+				"EN": "Programmer"
 			},
 			"Responsability": {
 				"PT": "Manutenção e criação de novas funcionalidades para sistema de questionários.",
@@ -376,7 +376,7 @@
 			},
 			"Role": {
 				"PT": "Análise e Programação",
-				"EN": "Analysis and Programming"
+				"EN": "Analyst and Programmer"
 			},
 			"Responsability": {
 				"PT": "Desenvolvimento e manutenção de sistemas para clientes, de hotsites a sistemas web mais complexos",
@@ -567,8 +567,8 @@
 				"EN": "IT Consulting"
 			},
 			"Role": {
-				"PT": "Consultoria e desenvolvimento",
-				"EN": "Consulting and development"
+				"PT": "Consultoria Sênior",
+				"EN": "Senior Consultant"
 			},
 			"Responsability": {
 				"PT": "Consultoria em projetos clientes",
@@ -661,8 +661,8 @@
 				"EN": "Intermediary between insurers and distributor companies"
 			},
 			"Role": {
-				"PT": "Desenvolvimento",
-				"EN": "Development"
+				"PT": "Desenvolvimento Sênior",
+				"EN": "Senior Developer"
 			},
 			"Responsability": {
 				"PT": "Parte da equipe de backend do produto",
