@@ -194,6 +194,8 @@ ul.columns li {
 	span.knowledge::before,
 	span.knowledge::after {
 		content: '\18';
+		color: #FFF;
+		font-size: 0.1em;
 	}
 
 	span.knowledge.level-1 {
