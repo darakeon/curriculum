@@ -590,7 +590,7 @@
 				{
 					"Text": {
 						"PT": "O primeiro projeto foi interno, para facilitar o entendimento da saúde dos quadros kanban usando um estado de personagem fictício para mostrar como era o projeto. Isso me ajudou a melhorar meu conhecimento do Node. Alguns meses depois, fui a um projeto de cliente, que gerencia aluguel e venda de casas e apartamentos. Lá tive experiência com microsserviços com metodologia Java e BFF (backend-for-frontend). Então fui para o meu primeiro projeto internacional, implementando Observability usando Grafana e Docker.",
-						"EN": "The first project was an internal one, to make easier to understand the health of the kanban boards using a fictional character state to show how the project was. This is helped me improving my Node knowledge. Some months after, I went to a client project, that manages rental and sell of houses and flats. There I had experience with microservices with Java and BFF methodology (backend-for-frontend). Then I went to my first international project, implementing Observability using Grafana and Docker."
+						"EN": "The first project was an internal one, to make it easier to understand the health of the kanban boards using a fictional character state to show how the project was. This has helped me improve my Node knowledge. Some months later, I went to a client project that manages the rental and sale of houses and flats. There I had experience with microservices with Java and BFF methodology (backend-for-frontend). Then I went to my first international project, implementing Observability using Grafana and Docker."
 					}
 				},
 				{
