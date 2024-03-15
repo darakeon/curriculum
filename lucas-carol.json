@@ -677,8 +677,8 @@
 			"Details": [
 				{
 					"Text": {
-						"PT": "Trabalho em equipe para desenvolver customizações para clientes no produto. Eu desenvolvo principalmente em Node usando a ferramenta Node-RED, mas às vezes também trabalho no projeto principal em Python.",
-						"EN": "I work in a team to develop customizations for clients in the product. I develop mainly in Node using Node-RED tool, but sometimes I work in the Python core project too."
+						"PT": "Trabalho em equipe para desenvolver customizações para clientes no produto. Eu desenvolvo em Node usando a ferramenta Node-RED e em APIs em Python.",
+						"EN": "I work in a team to develop customizations for clients in the product. I develop in Node using the Node-RED tool in the Python core APIs."
 					}
 				}
 			],
