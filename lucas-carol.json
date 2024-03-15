@@ -532,7 +532,7 @@
 						"PT": "SDKs Mpos",
 						"EN": "Machines SDK"
 					},
-					"Tools": ".NET, Kotlin, Rust"
+					"Tools": ".NET, Kotlin, Rust, Gradle"
 				},
 				{
 					"Text": {
@@ -553,14 +553,14 @@
 						"PT": "Aplicativo de pagamento e gerenciamento de transações com cartões físicos",
 						"EN": "App of payment and transaction management with physical cards"
 					},
-					"Tools": "Kotlin"
+					"Tools": "Kotlin, Gradle"
 				},
 				{
 					"Text": {
 						"PT": "Início de uma nova dashboard com unificação da identidade visual da empresa",
 						"EN": "Start of new dashboard with company visual identity unification"
 					},
-					"Tools": "React"
+					"Tools": "React, Open Source"
 				}
 			]
 		},
