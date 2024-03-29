@@ -827,6 +827,19 @@
 	},
 	"Academic": [
 		{
+			"Instituition": "SENAC (Serviço Nacional de Aprendizagem Comercial)",
+			"Description": {
+				"PT": "Desenvolvimento Web com ferramentas Dreamweaver, Fireworks e Flash",
+				"EN": "Web Development with tools Dreamweaver, Fireworks e Flash"
+			},
+			"Start": "2005",
+			"End": "2005",
+			"Course": {
+				"PT": "Formação Web Designer",
+				"EN": "Web Designer"
+			}
+		},
+		{
 			"Instituition": "FATEC (Faculdade de Tecnologia de São Paulo)",
 			"Description": {
 				"PT": "Análise e Programação em diversas linguagens: Pascal, C, Cobol, TSQL. Sistema Operacional Linux e fundamentos do funcionamento de Sistemas Operacionais. Documentação de sistemas.",
@@ -837,6 +850,32 @@
 			"Course": {
 				"PT": "Tecnologia em Processamento de Dados",
 				"EN": "Bachelor Degree in Data Processing Technology (IT)"
+			}
+		},
+		{
+			"Instituition": "Wizard",
+			"Description": {
+				"PT": "Nível intermediário e avançado",
+				"EN": "Intermediary and advanced levels"
+			},
+			"Start": "2008",
+			"End": "2009",
+			"Course": {
+				"PT": "Inglês leitura, escrita e conversação",
+				"EN": "English reading, writing and conversation"
+			}
+		},
+		{
+			"Instituition": "Brás Figueiredo",
+			"Description": {
+				"PT": "Curso de .NET Framework sobre funcionalidades base e avançadas",
+				"EN": "Course about .NET Framework with Core and Advanced funcionalities"
+			},
+			"Start": "2011",
+			"End": "2011",
+			"Course": {
+				"PT": ".NET Core and Advanced Foundation",
+				"EN": ".NET Core and Advanced Foundation"
 			}
 		},
 		{
@@ -856,30 +895,13 @@
 	"Additional": [
 		{
 			"Title": {
-				"PT": "Cursos",
-				"EN": "Courses"
-			},
-			"Items": [
-				{
-					"Description": {
-						"PT": "Inglês leitura avançado, conversação intermediário - Wizard",
-						"EN": "English advanced reading, intermediary conversation - Wizard"
-					}
-				},
-				{
-					"Description": {
-						"PT": ".NET Foundation - Brás Figueiredo",
-						"EN": ".NET Foundation - Brás Figueiredo"
-					}
-				}
-			]
-		},
-		{
-			"Title": {
 				"PT": "Eventos comparecidos",
 				"EN": "Attended events"
 			},
 			"Items": [
+				{
+					"Description": "Coding For Fun 2007"
+				},
 				{
 					"Description": "Agile Vale 2011"
 				},
@@ -893,6 +915,9 @@
 					"Description": "CryptoRave 2015"
 				},
 				{
+					"Description": "Hackaton Mundipagg 2017"
+				},
+				{
 					"Description": "CryptoRave 2018"
 				},
 				{
@@ -903,6 +928,12 @@
 				},
 				{
 					"Description": "CryptoRave 2019"
+				},
+				{
+					"Description": "AWS Cloud Experience Day Portugal 2023"
+				},
+				{
+					"Description": "GET CERTIFIED GCP 2024"
 				}
 			]
 		},
