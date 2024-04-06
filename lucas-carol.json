@@ -706,6 +706,55 @@
 					"Tools": "Python"
 				}
 			]
+		},
+		{
+			"Enterprise": "Inspira Tecnologia",
+			"Start": "2023-11",
+			"End": "2024-03",
+			"EnterpriseDescription": {
+				"PT": "Empresa de tecnologia e inovação que trabalha com metodologias ágeis e possui cultura de aprendizado contínuo. Possui projetos de diversos contextos técnicos, tais como sistemas web, aplicações mobile, consultoria e análise de negócio.",
+				"EN": "Technology and innovation enterprise which uses agile methodologies and has a continuous learning culture. Develop project in a variety of technical contexts as web systems, mobile apps, consulting and business analysis."
+			},
+			"Role": {
+				"PT": "Consultor Sênior Freelance",
+				"EN": "Senior Developer Part Time"
+			},
+			"Responsability": {
+				"PT": "Desenvolvimento Backend e Frontend",
+				"EN": "Backend and Frontend Development"
+			},
+			"Details": [
+				{
+					"Text": {
+						"PT": "Trabalhei em dois projetos que precisavam de um reforço nos times, desenvolvendo, revisando código e auxiliando em decisões técnicas.",
+						"EN": "I worked in two projects that was in the need of technical reinforcement, developing, reviewing code and helping on technical decisions."
+					}
+				}
+			],
+			"Highlights": [
+				{
+					"Text": {
+						"PT": "-",
+						"EN": "-"
+					}
+				}
+			],
+			"Projects": [
+				{
+					"Text": {
+						"PT": "Sistema online para Programa de Relacionamento entre empresa e clientes",
+						"EN": "Client/company relationship program Web System"
+					},
+					"Tools": "Java, Spring Boot, Postgres, Docker"
+				},
+				{
+					"Text": {
+						"PT": "Sistema online de registro e acompanhamento de contratos",
+						"EN": "Covenants register and follow up Web System"
+					},
+					"Tools": "Java, Spring Boot, Postgres, Docker, React"
+				}
+			]
 		}
 	],
 	"IndependentTitle": {
