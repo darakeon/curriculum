@@ -939,6 +939,23 @@
 				"PT": "Pós Graduação em Games: Produção e Programação",
 				"EN": "Post-graduation - Games: Production and Programming"
 			}
+		},
+		{
+			"Instituition": "Google Cloud Skills Boost",
+			"Modules": [
+				"Build Infrastructure with Terraform on Google Cloud",
+				"Develop your Google Cloud Network",
+				"Implement Cloud Security Fundamentals on Google Cloud",
+				"Build a Secure Google Cloud Network",
+				"Essential Google Cloud Infrastructure: Core Services",
+				"Set Up an App Dev Environment on Google Cloud",
+				"Essential Google Cloud Infrastructure: Foundation",
+				"Implement Load Balancing on Compute Engine",
+				"Google Cloud Fundamentals: Core Infrastructure"
+			],
+			"Start": "2024",
+			"End": "2024",
+			"Course": "Associate Cloud Engineer"
 		}
 	],
 	"Additional": [
