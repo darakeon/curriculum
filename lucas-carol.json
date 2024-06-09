@@ -3,10 +3,6 @@
 	"Signature": "Lucas Carol SD",
 	"Contacts": [
 		{
-			"Name": "Github",
-			"Value": "https://github.com/darakeon"
-		},
-		{
 			"Name": "Linkedin",
 			"Value": "https://linkedin.com/in/lc-sales-duarte"
 		},
@@ -16,6 +12,10 @@
 				"EN": "Mail"
 			},
 			"Value": "lc.sales.duarte@gmail.com"
+		},
+		{
+			"Name": "Github",
+			"Value": "https://github.com/darakeon"
 		},
 		{
 			"Name": "WhatsApp",
