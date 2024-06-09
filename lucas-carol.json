@@ -14,10 +14,6 @@
 			"Value": "lc.sales.duarte@gmail.com"
 		},
 		{
-			"Name": "Github",
-			"Value": "https://github.com/darakeon"
-		},
-		{
 			"Name": "WhatsApp",
 			"Value": "+55 11 986 372 833"
 		},
@@ -755,6 +751,24 @@
 					"Tools": "Java, Spring Boot, Postgres, Docker, React"
 				}
 			]
+		}
+	],
+	"ProfilesTitle": {
+		"PT": "Perfis",
+		"EN": "Profiles"
+	},
+	"Profiles": [
+		{
+			"Name": "Github",
+			"Url": "https://github.com/darakeon"
+		},
+		{
+			"Name": "Docker Hub",
+			"Url": "https://hub.docker.com/u/darakeon"
+		},
+		{
+			"Name": "Google Cloud Boost Skills",
+			"Url": "https://www.cloudskillsboost.google/public_profiles/6113467b-7802-4634-8ba9-76a51fccb87e"
 		}
 	],
 	"IndependentTitle": {
