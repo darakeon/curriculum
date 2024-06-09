@@ -170,7 +170,7 @@ ul.columns li {
 	float: right;
 }
 
-.date-end:before {
+.date-end:not(:empty):before {
 	content: '– '
 }
 

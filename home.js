@@ -183,6 +183,9 @@ function translateAndAddDates(content, lang) {
 			: current[lang].toUpperCase()
 		delete e.End
 
+		if (e.StartText == e.EndText)
+			delete e.EndText
+
 		return e
 	})
 
