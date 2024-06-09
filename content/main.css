@@ -229,3 +229,8 @@ ul.columns li {
 .academic {
 	margin-bottom: 3em;
 }
+
+a, a:visited, a:active {
+	color: var(--subtitle);
+	text-decoration: none;
+}
