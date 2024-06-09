@@ -980,40 +980,40 @@
 			},
 			"Items": [
 				{
-					"Description": "Coding For Fun 2007"
-				},
-				{
-					"Description": "Agile Vale 2011"
-				},
-				{
-					"Description": "Agile Vale 2013"
-				},
-				{
-					"Description": "CryptoRave 2014"
-				},
-				{
-					"Description": "CryptoRave 2015"
-				},
-				{
-					"Description": "Hackaton Mundipagg 2017"
-				},
-				{
-					"Description": "CryptoRave 2018"
-				},
-				{
-					"Description": ".NET Community Summit 2018 (iMasters)"
-				},
-				{
-					"Description": "Android Community Summit 2018 (iMasters)"
-				},
-				{
-					"Description": "CryptoRave 2019"
+					"Description": "GET CERTIFIED GCP 2024"
 				},
 				{
 					"Description": "AWS Cloud Experience Day Portugal 2023"
 				},
 				{
-					"Description": "GET CERTIFIED GCP 2024"
+					"Description": "CryptoRave 2019"
+				},
+				{
+					"Description": "Android Community Summit 2018 (iMasters)"
+				},
+				{
+					"Description": ".NET Community Summit 2018 (iMasters)"
+				},
+				{
+					"Description": "CryptoRave 2018"
+				},
+				{
+					"Description": "Hackaton Mundipagg 2017"
+				},
+				{
+					"Description": "CryptoRave 2015"
+				},
+				{
+					"Description": "CryptoRave 2014"
+				},
+				{
+					"Description": "Agile Vale 2013"
+				},
+				{
+					"Description": "Agile Vale 2011"
+				},
+				{
+					"Description": "Coding For Fun 2007"
 				}
 			]
 		},
