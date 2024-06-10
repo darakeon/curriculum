@@ -6,7 +6,9 @@ from sys import argv
 
 class Program:
 
-	ALLOWED_LANGUAGES = ['PT', 'EN', 'NL', 'ES', 'ZZ']
+	ALLOWED_LANGUAGES = sorted(list(
+		[lang.upper() for lang in LANGUAGES.keys()]
+	) + ['ZZ'])
 
 	def __init__(self, args):
 		if len(args) < 2:
