@@ -45,7 +45,8 @@ const server = http.createServer((req, res) => {
 		return exit(res, 404, 'plain', message)
 	}
 
-	const data = require(json)
+	const original = require(json)
+	const data = JSON.parse(JSON.stringify(original))
 
 	if (!data['Marker'])
 		data['Marker'] = '&ndash;'
