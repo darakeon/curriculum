@@ -13,6 +13,9 @@ const port = 3000
 const current = {
 	'EN': 'current',
 	'PT': 'atual',
+	'ES': 'actual',
+	'NL': 'huidig',
+	'ZZ': 'zzz...'
 }
 
 const server = http.createServer((req, res) => {
