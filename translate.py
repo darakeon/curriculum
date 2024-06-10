@@ -66,6 +66,10 @@ class Program:
 
 
 	def translate_text(self, dictionary):
+		if self.language == 'ZZ':
+			dictionary[self.language] = ''
+			return
+
 		if 'EN' in dictionary:
 			original_language = 'EN'
 		else:
