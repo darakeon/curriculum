@@ -9,7 +9,8 @@
 		{
 			"Name": {
 				"PT": "E-mail",
-				"EN": "Mail"
+				"EN": "Mail",
+				"ZZ": ""
 			},
 			"Value": "lc.sales.duarte@gmail.com"
 		},
@@ -20,7 +21,8 @@
 		{
 			"Name": {
 				"PT": "Telemóvel",
-				"EN": "Cellphone"
+				"EN": "Cellphone",
+				"ZZ": ""
 			},
 			"Value": "+351 912 646 993"
 		}
@@ -33,55 +35,64 @@
 	"Font": "Calibri",
 	"CoverLetterTitle": {
 		"PT": "carta de apresentação",
-		"EN": "cover letter"
+		"EN": "cover letter",
+		"ZZ": ""
 	},
 	"CoverLetter": [
 		{
 			"Paragraph": {
 				"PT": "Trabalho com desenvolvimento de software desde 2007. Já trabalhei com C# .NET, Node, Kotlin, tecnologias de Frontend (HTML, CSS e Javascript), Python e Rust; TDD e BDD para testes; bancos de dados MySQL, Postgres e SQL Server; e Docker, Docker Compose e AWS para infraestrutura.",
-				"EN": "I have been a software developer since 2007. I've worked already with C# .NET, Node, Kotlin, Frontend technologies (HTML, CSS and Javascript), Python and Rust; TDD and BDD for testing; MySQL, Postgres and SQL Server databases; and Docker, Docker Compose, AWS and GCP for infrastructure."
+				"EN": "I have been a software developer since 2007. I've worked already with C# .NET, Node, Kotlin, Frontend technologies (HTML, CSS and Javascript), Python and Rust; TDD and BDD for testing; MySQL, Postgres and SQL Server databases; and Docker, Docker Compose, AWS and GCP for infrastructure.",
+				"ZZ": ""
 			}
 		},
 		{
 			"Paragraph": {
 				"PT": "Antes da faculdade fiz um curso de desenvolvimento web. Trabalhei como freelancer fazendo alguns sites simples. Um mês após entrar na faculdade uma pessoa me chamou para lhe substituir na empresa devido a minha capacidade com lógica. Depois disso, assumi todo o sistema, desde o banco de dados até o frontend. Porém lá eram usadas apenas tecnologias e práticas desatualizadas.",
-				"EN": "Before college, I took a web developer course. I worked as a freelancer making some simple websites. One month after starting college, a colleague called me to replace them at the company given my abilities with logic. There I took care of the whole system, from database to frontend. It was a legacy system, using old technologies and practices."
+				"EN": "Before college, I took a web developer course. I worked as a freelancer making some simple websites. One month after starting college, a colleague called me to replace them at the company given my abilities with logic. There I took care of the whole system, from database to frontend. It was a legacy system, using old technologies and practices.",
+				"ZZ": ""
 			}
 		},
 		{
 			"Paragraph": {
 				"PT": "Mudei para uma empresa de consultoria em desenvolvimento. Na nova empresa, aprendi melhores práticas, como versionamento, orientação a objetos, princípios e práticas ágeis. Tenho orgulho de ter trabalhado nessa empresa até os dias de hoje. Enquanto estava lá, iniciei meu projeto pessoal, chamado Don't fly Money, de controle financeiro pessoal; este ainda hoje é meu espaço para testes e uma grande fonte de aprendizado. Usei nele tecnologias e conceitos que mais tarde usaria para resolver problemas de clientes.",
-				"EN": "Then I moved to a software development consultancy. There I learned better practices, such as versioning, object oriented programming, agile principles and practices. While there, I started my personal project, called Don't fly Money, a system for personal financial management. It is my sandbox and a great source of learning since then. I used technologies in it that later I would use to solve problems of my companies' clients."
+				"EN": "Then I moved to a software development consultancy. There I learned better practices, such as versioning, object oriented programming, agile principles and practices. While there, I started my personal project, called Don't fly Money, a system for personal financial management. It is my sandbox and a great source of learning since then. I used technologies in it that later I would use to solve problems of my companies' clients.",
+				"ZZ": ""
 			}
 		},
 		{
 			"Paragraph": {
 				"PT": "Depois disso, trabalhei em uma empresa do ramo de pagamentos. Tinham seu próprio produtos e usavam muitas tecnologias novas, no desenvolvimento e na arquitetura. Lá aprendi Node e Rust. E trabalhei com Kotlin pela primeira vez, mas já conhecia, por ter usado no Don't fly money.",
-				"EN": "After that, I worked in a company in the payment industry. They had their own product and they used a bunch of new technologies, in development and architecture. There I learned Node and Rust. And I worked with Kotlin for the first time, but I already knew it, because of Don't fly Money."
+				"EN": "After that, I worked in a company in the payment industry. They had their own product and they used a bunch of new technologies, in development and architecture. There I learned Node and Rust. And I worked with Kotlin for the first time, but I already knew it, because of Don't fly Money.",
+				"ZZ": ""
 			}
 		},
 		{
 			"Paragraph": {
 				"PT": "De 2019 a 2022 trabalhei em uma empresa internacional de excelência em consultoria. Participei de quatro projetos dentro da empresa. Os projetos incluíram tecnologias como Node, Java, microserviços, Observabilidade, Grafana, Docker, Typescript e Google AppScripts. Fui \"security champion\" de meu último time, dada a minha atenção à segurança e detalhes que pessoas normalmente não costumam olhar.",
-				"EN": "From 2019 to 2022 I worked for an international software excellence consultant. I took part in four projects at the company. The projects included technologies like Node, Java, microservices, Observability, Grafana, Docker, Typescript and Google AppScripts. Since 2020, because of the world pandemic, I have worked fully remote. I was the security champion of the last team, given my attention to security and details people don't use to notice."
+				"EN": "From 2019 to 2022 I worked for an international software excellence consultant. I took part in four projects at the company. The projects included technologies like Node, Java, microservices, Observability, Grafana, Docker, Typescript and Google AppScripts. Since 2020, because of the world pandemic, I have worked fully remote. I was the security champion of the last team, given my attention to security and details people don't use to notice.",
+				"ZZ": ""
 			}
 		},
 		{
 			"Paragraph": {
 				"PT": "Hoje em dia trabalho na filial Portuguesa de uma companhia dos Estados Unidos, no time de desenvolvimento backend. Usamos a ferramenta Node-RED e Python para desenvolver customizações para clientes no sistema que conecta seguradoras e distribuidoras. Me mudei para Portugal para estar próximo a empresa e trabalhar presencial um dia por semana.",
-				"EN": "Nowadays I work in the Portuguese branch of a United States company in the backend development team. We use Python for API and Node with Node-RED to develop customizations for clients in the system that connects insurers and distributors. I moved to Portugal to be closer to the company, working in the site once a week."
+				"EN": "Nowadays I work in the Portuguese branch of a United States company in the backend development team. We use Python for API and Node with Node-RED to develop customizations for clients in the system that connects insurers and distributors. I moved to Portugal to be closer to the company, working in the site once a week.",
+				"ZZ": ""
 			}
 		},
 		{
 			"Paragraph": {
 				"PT": "Busco uma nova oportunidade para crescimento profissional e novos aprendizados, assim me desenvolver ainda mais com equipes ágeis que tenham como alvo qualidade de software e produto, segurança e foco nas necessidade das pessoas a quem as aplicações este atendem.",
-				"EN": "I'm looking for a new opportunity for professional growth and knowledge improvement, this way developing myself even more with agile teams that focus on software and product quality, security and the needs of people who use the applications we develop."
+				"EN": "I'm looking for a new opportunity for professional growth and knowledge improvement, this way developing myself even more with agile teams that focus on software and product quality, security and the needs of people who use the applications we develop.",
+				"ZZ": ""
 			}
 		}
 	],
 	"KnowledgesTitle": {
 		"PT": "Conhecimento",
-		"EN": "Skills"
+		"EN": "Skills",
+		"ZZ": ""
 	},
 	"KnowledgesList": [
 		{
@@ -307,11 +318,13 @@
 	],
 	"CoverLetterClosing": {
 		"PT": "sincera e respeitosamente",
-		"EN": "sincerely and respectfully"
+		"EN": "sincerely and respectfully",
+		"ZZ": ""
 	},
 	"ProfessionalTitle": {
 		"PT": "Experiência profissional",
-		"EN": "Professional experience"
+		"EN": "Professional experience",
+		"ZZ": ""
 	},
 	"Professional": [
 		{
@@ -320,21 +333,25 @@
 			"End": "2010-04",
 			"EnterpriseDescription": {
 				"PT": "Empresa de RH para avaliação de candidaturas a vagas. Possui um sistema online de questionários, tanto psicológicos, quanto criados por clientes - técnicos.",
-				"EN": "HR enterprise to evaluate job candidates. Has an online questionnaires system, both psychological and technical - this one made by clients."
+				"EN": "HR enterprise to evaluate job candidates. Has an online questionnaires system, both psychological and technical - this one made by clients.",
+				"ZZ": ""
 			},
 			"Role": {
 				"PT": "Programação",
-				"EN": "Programmer"
+				"EN": "Programmer",
+				"ZZ": ""
 			},
 			"Responsability": {
 				"PT": "Manutenção e criação de novas funcionalidades para sistema de questionários.",
-				"EN": "Maintenance and creation of new features to the questionnaires system."
+				"EN": "Maintenance and creation of new features to the questionnaires system.",
+				"ZZ": ""
 			},
 			"Details": [
 				{
 					"Text": {
 						"PT": "Tendo iniciado para substituir uma pessoa, após o segundo mês recebi a responsabilidade sobre todo o sistema: database, backend e frontend. Durante meus anos lá, tive três pessoas para ensinar e gerenciar. As tecnologias que aprendi foram ASP clássico, IIS, SQL, HTML, CSS e Javascript.",
-						"EN": "Starting to replace a colleague, after the second month I took sole responsibility over the entire system: database, backend and frontend. During my years there, I had three people to teach and manage. The technologies I learned there were classic ASP, IIS, SQL, HTML, CSS and Javascript."
+						"EN": "Starting to replace a colleague, after the second month I took sole responsibility over the entire system: database, backend and frontend. During my years there, I had three people to teach and manage. The technologies I learned there were classic ASP, IIS, SQL, HTML, CSS and Javascript.",
+						"ZZ": ""
 					}
 				}
 			],
@@ -342,19 +359,22 @@
 				{
 					"Text": {
 						"PT": "Entrei para cuidar de todo o sistema. Não tinha quase experiência e acreditaram que eu poderia assumir sozinho após o segundo mês;",
-						"EN": "I entered to take care of the entire system. I had too little experience and they trusted me to be doing the job by myself from the second month;"
+						"EN": "I entered to take care of the entire system. I had too little experience and they trusted me to be doing the job by myself from the second month;",
+						"ZZ": ""
 					}
 				},
 				{
 					"Text": {
 						"PT": "Tive outras três pessoas em estágio sob minha responsabilidade;",
-						"EN": "I had three other interns as my responsibility;"
+						"EN": "I had three other interns as my responsibility;",
+						"ZZ": ""
 					}
 				},
 				{
 					"Text": {
 						"PT": "Quando saí ainda trabalhei como freelancer para ensinar uma nova pessoa e resolver problemas.",
-						"EN": "When I left I still worked with them as freelancer to teach the new developer and solve bugs."
+						"EN": "When I left I still worked with them as freelancer to teach the new developer and solve bugs.",
+						"ZZ": ""
 					}
 				}
 			],
@@ -362,7 +382,8 @@
 				{
 					"Text": {
 						"PT": "Desenvolvimento e manutenção do sistema web, backend e frontend",
-						"EN": "Development and maintenance of web system, backend and frontend"
+						"EN": "Development and maintenance of web system, backend and frontend",
+						"ZZ": ""
 					},
 					"Tools": "ASP, SQL Server, HTML, CSS, Javascript"
 				}
@@ -374,21 +395,25 @@
 			"End": "2016-11",
 			"EnterpriseDescription": {
 				"PT": "Empresa de tecnologia e inovação que trabalha com metodologias ágeis e possui cultura de aprendizado contínuo. Possui projetos de diversos contextos técnicos, tais como sistemas web, aplicações mobile, consultoria e análise de negócio.",
-				"EN": "Technology and innovation enterprise which uses agile methodologies and has a continuous learning culture. Develop project in a variety of technical contexts as web systems, mobile apps, consulting and business analysis."
+				"EN": "Technology and innovation enterprise which uses agile methodologies and has a continuous learning culture. Develop project in a variety of technical contexts as web systems, mobile apps, consulting and business analysis.",
+				"ZZ": ""
 			},
 			"Role": {
 				"PT": "Análise e Programação",
-				"EN": "Analyst and Programmer"
+				"EN": "Analyst and Programmer",
+				"ZZ": ""
 			},
 			"Responsability": {
 				"PT": "Desenvolvimento e manutenção de sistemas para clientes, de hotsites a sistemas web mais complexos",
-				"EN": "Client system development and maintenance, from marketing site to more complex web systems"
+				"EN": "Client system development and maintenance, from marketing site to more complex web systems",
+				"ZZ": ""
 			},
 			"Details": [
 				{
 					"Text": {
 						"PT": "Trabalhei em muitos projetos na Inspira. Durante esse tempo evolui muito e cresci na área de desenvolvimento e como pessoa, e tive a oportunidade de ensinar outras pessoas.",
-						"EN": "I worked on several projects at Inspira. During my time there I evolved a lot and I grew as a developer and as a person and I had the opportunity to teach other developers."
+						"EN": "I worked on several projects at Inspira. During my time there I evolved a lot and I grew as a developer and as a person and I had the opportunity to teach other developers.",
+						"ZZ": ""
 					}
 				}
 			],
@@ -396,19 +421,22 @@
 				{
 					"Text": {
 						"PT": "Assumi quatro projetos ao mesmo tempo, tendo que balancear as tarefas e prioridades de projetos",
-						"EN": "I took responsibility of 4 project at same time, I had to balance the tasks of the project and priorities"
+						"EN": "I took responsibility of 4 project at same time, I had to balance the tasks of the project and priorities",
+						"ZZ": ""
 					}
 				},
 				{
 					"Text": {
 						"PT": "Ensinei outras pessoas sobre linguagens de programação e desenvolvimento",
-						"EN": "I taught interns in programming languages and development pathways"
+						"EN": "I taught interns in programming languages and development pathways",
+						"ZZ": ""
 					}
 				},
 				{
 					"Text": {
 						"PT": "Iniciei um projeto de testes automatizados com tecnologia aprendida em projeto independente e esse projeto ainda hoje é usado para ensinar pessoas na empresa",
-						"EN": "I started a project in automatic testing with a technology I had learned in my personal project and this is nowadays still used to teach people in the company"
+						"EN": "I started a project in automatic testing with a technology I had learned in my personal project and this is nowadays still used to teach people in the company",
+						"ZZ": ""
 					}
 				}
 			],
@@ -416,63 +444,72 @@
 				{
 					"Text": {
 						"PT": "Sistema de gerenciamento para esportes e fisioterapia",
-						"EN": "Sport and physiotherapy management system"
+						"EN": "Sport and physiotherapy management system",
+						"ZZ": ""
 					},
 					"Tools": ".NET, C#, MVC, NHibernate, SQL"
 				},
 				{
 					"Text": {
 						"PT": "Sistema de organização de ONGs",
-						"EN": "NGO organization system"
+						"EN": "NGO organization system",
+						"ZZ": ""
 					},
 					"Tools": ".NET, C#, WebForms, TSQL"
 				},
 				{
 					"Text": {
 						"PT": "Website de administradora de energia",
-						"EN": "Energy manager website"
+						"EN": "Energy manager website",
+						"ZZ": ""
 					},
 					"Tools": ".NET, C#"
 				},
 				{
 					"Text": {
 						"PT": "Website de empresa de aviação",
-						"EN": "Flight company website"
+						"EN": "Flight company website",
+						"ZZ": ""
 					},
 					"Tools": ".NET, C#"
 				},
 				{
 					"Text": {
 						"PT": "Hotsite de operadora de telefonia móvel",
-						"EN": "Mobile operator marketing site"
+						"EN": "Mobile operator marketing site",
+						"ZZ": ""
 					},
 					"Tools": ".NET, C#, TSQL"
 				},
 				{
 					"Text": {
 						"PT": "Sistema de cadastro de startup para colaboração",
-						"EN": "Startup collaboration system"
+						"EN": "Startup collaboration system",
+						"ZZ": ""
 					},
 					"Tools": ".NET, C#, MVC, NHibernate, SQL"
 				},
 				{
 					"Text": {
 						"PT": "E-commerce de editora de livros e escola de pós-graduação e cursos ",
-						"EN": "Book publishing and courses company e-commerce"
+						"EN": "Book publishing and courses company e-commerce",
+						"ZZ": ""
 					},
 					"Tools": ".NET, C#, NopCommerce, WebForms, EntityFramework"
 				},
 				{
 					"Text": {
 						"PT": "Sistema de gerenciamento de transações de cartão, parte Desktop e Web",
-						"EN": "Card transactions system site and desktop app"
+						"EN": "Card transactions system site and desktop app",
+						"ZZ": ""
 					},
 					"Tools": ".NET, Windows Forms, C#, MVC, NHibernate, MySQL"
 				},
 				{
 					"Text": {
 						"PT": "Escrita e implementação de Testes Automatizados para sistema de gerenciamento de assinaturas eletrônicas ",
-						"EN": "Writing and implementation of automated tests to an eletronic contract signing company"
+						"EN": "Writing and implementation of automated tests to an electronic contract signing company",
+						"ZZ": ""
 					},
 					"Tools": ".NET, C#, SpecFlow"
 				}
@@ -484,21 +521,25 @@
 			"End": "2019-08",
 			"EnterpriseDescription": {
 				"PT": "Backend de pagamentos de e-commerces",
-				"EN": "E-commerce payments backend"
+				"EN": "E-commerce payments backend",
+				"ZZ": ""
 			},
 			"Role": {
 				"PT": "Desenvolvimento Sênior",
-				"EN": "Senior Developer"
+				"EN": "Senior Developer",
+				"ZZ": ""
 			},
 			"Responsability": {
 				"PT": "Manutenção de mundo físico e de backend core",
-				"EN": "Maintenance of physical transactions sdks and company core backend"
+				"EN": "Maintenance of physical transactions sdks and company core backend",
+				"ZZ": ""
 			},
 			"Details": [
 				{
 					"Text": {
 						"PT": "Trabalhei em alguns projetos enquanto estava na Pagar.me. O primeiro foi um SDK .NET para comunicação com máquinas de pagamento. Depois disso, fiz parte da equipe responsável pela criação de uma nova biblioteca unificada de frontend para a empresa dona da Pagar.me, usando React. Em seguida iniciei o desenvolvimento da integração para utilização dos cartões refeição / alimentação nas máquinas de pagamento. Eu fiz parte de uma melhoria de segurança que a empresa teve que fazer, quando tive que trabalhar com várias equipes diferentes para alcançar os resultados. Como último projeto fui a uma equipe para iniciar um novo projeto, para atender clientes menores que precisavam de máquinas de pagamento para melhorar seus negócios e modernizar sua forma de vender seus produtos.",
-						"EN": "I've worked on some projects while working in Pagar.me. The first of it was a .NET SDK for communicating with payment machines. After that, I was part of the team that was responsible for creating a new unified frontend library for the mother-company of Pagar.me, using React. Then I started the development of integration to use voucher cards in payment machines. I was part of a security improvement the company had to make, when I had to pair with a bunch of different teams to achieve the results. As a last project I went to a team to start a new project, to attend smaller clients that needed payment machines to improve their business and modernize their way to sell their goods."
+						"EN": "I've worked on some projects while working in Pagar.me. The first of it was a .NET SDK for communicating with payment machines. After that, I was part of the team that was responsible for creating a new unified frontend library for the mother-company of Pagar.me, using React. Then I started the development of integration to use voucher cards in payment machines. I was part of a security improvement the company had to make, when I had to pair with a bunch of different teams to achieve the results. As a last project I went to a team to start a new project, to attend smaller clients that needed payment machines to improve their business and modernize their way to sell their goods.",
+						"ZZ": ""
 					}
 				}
 			],
@@ -506,19 +547,22 @@
 				{
 					"Text": {
 						"PT": "Fiz parte da equipe que iniciou o projeto de criação de uma UI padrão para toda a empresa desenvolver seus sites, em React",
-						"EN": "I was part of the team that started the project to create a default UI for the entire company to develop its websites, in React"
+						"EN": "I was part of the team that started the project to create a default UI for the entire company to develop its websites, in React",
+						"ZZ": ""
 					}
 				},
 				{
 					"Text": {
 						"PT": "Assumi a responsabilidade e lutei por um projeto para implementar algo que foi prometido a um cliente anos antes - o cliente chegou a ameaçar processar a empresa. Depois de aprovado, passei 15 dias trabalhando sem parar para fazer acontecer",
-						"EN": "I took responsibility and fought for a project to implement something that was promised to a client years before - the client was even threatening to sue out company. After it was approved, I spent 15 days working with no rest to make it happen"
+						"EN": "I took responsibility and fought for a project to implement something that was promised to a client years before - the client was even threatening to sue out company. After it was approved, I spent 15 days working with no rest to make it happen",
+						"ZZ": ""
 					}
 				},
 				{
 					"Text": {
 						"PT": "Comecei com duas pessoas um novo projeto para desenvolver uma aplicação para um novo produto da empresa. Eram pessoas novas na área e eu era o único que sabia a linguagem na empresa, fui eu que sugeri quando o projeto começou",
-						"EN": "I started with two colleagues a new project to develop an application to a new product of the company. They both were novice and I was the only one that knows the language at the company, I was the one that suggested it when the project started"
+						"EN": "I started with two colleagues a new project to develop an application to a new product of the company. They both were novice and I was the only one that knows the language at the company, I was the one that suggested it when the project started",
+						"ZZ": ""
 					}
 				}
 			],
@@ -526,35 +570,40 @@
 				{
 					"Text": {
 						"PT": "SDKs Mpos",
-						"EN": "Machines SDK"
+						"EN": "Machines SDK",
+						"ZZ": ""
 					},
 					"Tools": ".NET, Kotlin, Rust, Gradle"
 				},
 				{
 					"Text": {
 						"PT": "Aplicativo de comunicação de maquininha com site de cliente",
-						"EN": "App to communicate machine with client site"
+						"EN": "App to communicate machine with client site",
+						"ZZ": ""
 					},
 					"Tools": ".NET"
 				},
 				{
 					"Text": {
 						"PT": "Manutenções no sistema core",
-						"EN": "Maintenance at the company core system"
+						"EN": "Maintenance at the company core system",
+						"ZZ": ""
 					},
 					"Tools": "Node"
 				},
 				{
 					"Text": {
 						"PT": "Aplicativo de pagamento e gerenciamento de transações com cartões físicos",
-						"EN": "App of payment and transaction management with physical cards"
+						"EN": "App of payment and transaction management with physical cards",
+						"ZZ": ""
 					},
 					"Tools": "Kotlin, Gradle"
 				},
 				{
 					"Text": {
 						"PT": "Início de uma nova dashboard com unificação da identidade visual da empresa",
-						"EN": "Start of new dashboard with company visual identity unification"
+						"EN": "Start of new dashboard with company visual identity unification",
+						"ZZ": ""
 					},
 					"Tools": "React, Open Source"
 				}
@@ -566,33 +615,39 @@
 			"End": "2022-12",
 			"EnterpriseDescription": {
 				"PT": "Consultoria em TI",
-				"EN": "IT Consulting"
+				"EN": "IT Consulting",
+				"ZZ": ""
 			},
 			"Role": {
 				"PT": "Consultoria Sênior",
-				"EN": "Senior Consultant"
+				"EN": "Senior Consultant",
+				"ZZ": ""
 			},
 			"Responsability": {
 				"PT": "Consultoria em projetos clientes",
-				"EN": "Client projects consulting"
+				"EN": "Client projects consulting",
+				"ZZ": ""
 			},
 			"Details": [
 				{
 					"Text": {
 						"PT": "O trabalho era consultoria, desenvolvimento e manutenção de software de clientes e interno. A Thoughtworks segue as melhores práticas, melhoria contínua, pareamento, TDD e outras práticas ágeis.",
-						"EN": "The job was consultancy, development and maintenance of client and internal software. Thoughtworks follows best practices, continuous improvement, pairing, TDD and other agile practices."
+						"EN": "The job was consultancy, development and maintenance of client and internal software. Thoughtworks follows best practices, continuous improvement, pairing, TDD and other agile practices.",
+						"ZZ": ""
 					}
 				},
 				{
 					"Text": {
 						"PT": "O primeiro projeto foi interno, para facilitar o entendimento da saúde dos quadros kanban usando um estado de personagem fictício para mostrar como era o projeto. Isso me ajudou a melhorar meu conhecimento do Node. Alguns meses depois, fui a um projeto de cliente, que gerencia aluguel e venda de casas e apartamentos. Lá tive experiência com microsserviços com metodologia Java e BFF (backend-for-frontend). Então fui para o meu primeiro projeto internacional, implementando Observability usando Grafana e Docker.",
-						"EN": "The first project was an internal one, to make it easier to understand the health of the kanban boards using a fictional character state to show how the project was. This has helped me improve my Node knowledge. Some months later, I went to a client project that manages the rental and sale of houses and flats. There I had experience with microservices with Java and BFF methodology (backend-for-frontend). Then I went to my first international project, implementing Observability using Grafana and Docker."
+						"EN": "The first project was an internal one, to make it easier to understand the health of the kanban boards using a fictional character state to show how the project was. This has helped me improve my Node knowledge. Some months later, I went to a client project that manages the rental and sale of houses and flats. There I had experience with microservices with Java and BFF methodology (backend-for-frontend). Then I went to my first international project, implementing Observability using Grafana and Docker.",
+						"ZZ": ""
 					}
 				},
 				{
 					"Text": {
 						"PT": "O quarto projeto atendia clientes internos, utilizando Google AppScript, Docker, Postgres, TypeScript e TDD. Nesta equipe, eu era o security champion.",
-						"EN": "The fourth project attended internal clients, using Google AppScript, Docker, Postgres, TypeScript and TDD. In this team, I was the security champion."
+						"EN": "The fourth project attended internal clients, using Google AppScript, Docker, Postgres, TypeScript and TDD. In this team, I was the security champion.",
+						"ZZ": ""
 					}
 				}
 			],
@@ -600,19 +655,22 @@
 				{
 					"Text": {
 						"PT": "Sou reconhecido como alguém que conhece profundamente o git, e as pessoas me procuram quando têm um problema para resolver sobre",
-						"EN": "I'm recognized as someone that knows git deeply, and people come to me when they have a problem to solve in this matter"
+						"EN": "I'm recognized as someone that knows git deeply, and people come to me when they have a problem to solve in this matter",
+						"ZZ": ""
 					}
 				},
 				{
 					"Text": {
 						"PT": "Quando a equipe precisou de um security champion, as pessoas sugeriram que fosse eu, dado minha atenção a detalhes e riscos que nem todos conhecem, e essa era uma das minhas responsabilidades",
-						"EN": "When the team needed a security champion, people suggested that it was me, given my attention to details and risks that not everyone is aware to, and this was one of my responsibilities"
+						"EN": "When the team needed a security champion, people suggested that it was me, given my attention to details and risks that not everyone is aware to, and this was one of my responsibilities",
+						"ZZ": ""
 					}
 				},
 				{
 					"Text": {
 						"PT": "As pessoas me elogiam por estar sempre atento ao bem-estar das pessoas, tentando trazer um ambiente onde todos se sintam seguros",
-						"EN": "People praise me for being always alert to people welfare, trying to bring an environment where everyone feels safe"
+						"EN": "People praise me for being always alert to people welfare, trying to bring an environment where everyone feels safe",
+						"ZZ": ""
 					}
 				}
 			],
@@ -620,35 +678,40 @@
 				{
 					"Text": {
 						"PT": "Projeto de representação gráfica de métricas ágeis",
-						"EN": "Agile metrics graphical representation project"
+						"EN": "Agile metrics graphical representation project",
+						"ZZ": ""
 					},
 					"Tools": "Typescript, Node"
 				},
 				{
 					"Text": {
 						"PT": "Site para imobiliária",
-						"EN": "Real state agency website"
+						"EN": "Real estate agency website",
+						"ZZ": ""
 					},
 					"Tools": "Java, Node, Angular"
 				},
 				{
 					"Text": {
 						"PT": "Projeto de observação de métricas de funcionamento de infra",
-						"EN": "Infrastructure metrics for observability"
+						"EN": "Infrastructure metrics for observability",
+						"ZZ": ""
 					},
 					"Tools": "C#, Docker, Grafana"
 				},
 				{
 					"Text": {
 						"PT": "Automatização de planilhas financeiras usando addon",
-						"EN": "Finantial spreadsheet automation using addon"
+						"EN": "Financial spreadsheet automation using addon",
+						"ZZ": ""
 					},
 					"Tools": "Typescript, Node, Google App Script, Postgres"
 				},
 				{
 					"Text": {
 						"PT": "Sistema web para mentoria interna na empresa",
-						"EN": "Web system for enterprise internal mentoring"
+						"EN": "Web system for enterprise internal mentoring",
+						"ZZ": ""
 					},
 					"Tools": "Typescript, Node, Postgres"
 				}
@@ -660,21 +723,25 @@
 			"End": null,
 			"EnterpriseDescription": {
 				"PT": "Intermediadora entre empresas seguradoras e distribuidoras",
-				"EN": "Intermediary between insurers and distributor companies"
+				"EN": "Intermediary between insurers and distributor companies",
+				"ZZ": ""
 			},
 			"Role": {
 				"PT": "Desenvolvimento Sênior",
-				"EN": "Senior Developer"
+				"EN": "Senior Developer",
+				"ZZ": ""
 			},
 			"Responsability": {
 				"PT": "Parte da equipe de backend do produto",
-				"EN": "Part of product backend development"
+				"EN": "Part of product backend development",
+				"ZZ": ""
 			},
 			"Details": [
 				{
 					"Text": {
 						"PT": "Trabalho em equipe para desenvolver customizações para clientes no produto. Eu desenvolvo em Node usando a ferramenta Node-RED e em APIs em Python.",
-						"EN": "I work in a team to develop customizations for clients in the product. I develop in Node using the Node-RED tool in the Python core APIs."
+						"EN": "I work in a team to develop customizations for clients in the product. I develop in Node using the Node-RED tool in the Python core APIs.",
+						"ZZ": ""
 					}
 				}
 			],
@@ -682,7 +749,8 @@
 				{
 					"Text": {
 						"PT": "-",
-						"EN": "-"
+						"EN": "-",
+						"ZZ": ""
 					}
 				}
 			],
@@ -690,14 +758,16 @@
 				{
 					"Text": {
 						"PT": "Desenvolvimento em interface gráfica no browser com a ferramenta Node-RED",
-						"EN": "Development in browser graphic interface via Node-RED"
+						"EN": "Development in browser graphical interface via Node-RED",
+						"ZZ": ""
 					},
 					"Tools": "Node"
 				},
 				{
 					"Text": {
 						"PT": "Adição de novas funcionalidades e correção de bugs em APIs REST",
-						"EN": "New features and bug fixes in REST API"
+						"EN": "New features and bug fixes in REST API",
+						"ZZ": ""
 					},
 					"Tools": "Python"
 				}
@@ -709,21 +779,25 @@
 			"End": "2024-03",
 			"EnterpriseDescription": {
 				"PT": "Empresa de tecnologia e inovação que trabalha com metodologias ágeis e possui cultura de aprendizado contínuo. Possui projetos de diversos contextos técnicos, tais como sistemas web, aplicações mobile, consultoria e análise de negócio.",
-				"EN": "Technology and innovation enterprise which uses agile methodologies and has a continuous learning culture. Develop project in a variety of technical contexts as web systems, mobile apps, consulting and business analysis."
+				"EN": "Technology and innovation enterprise which uses agile methodologies and has a continuous learning culture. Develop project in a variety of technical contexts as web systems, mobile apps, consulting and business analysis.",
+				"ZZ": ""
 			},
 			"Role": {
 				"PT": "Consultor Sênior Freelance",
-				"EN": "Senior Developer Part Time"
+				"EN": "Senior Developer Part Time",
+				"ZZ": ""
 			},
 			"Responsability": {
 				"PT": "Desenvolvimento Backend e Frontend",
-				"EN": "Backend and Frontend Development"
+				"EN": "Backend and Frontend Development",
+				"ZZ": ""
 			},
 			"Details": [
 				{
 					"Text": {
 						"PT": "Trabalhei em dois projetos que precisavam de um reforço nos times, desenvolvendo, revisando código e auxiliando em decisões técnicas.",
-						"EN": "I worked in two projects that was in the need of technical reinforcement, developing, reviewing code and helping on technical decisions."
+						"EN": "I worked in two projects that was in the need of technical reinforcement, developing, reviewing code and helping on technical decisions.",
+						"ZZ": ""
 					}
 				}
 			],
@@ -731,7 +805,8 @@
 				{
 					"Text": {
 						"PT": "-",
-						"EN": "-"
+						"EN": "-",
+						"ZZ": ""
 					}
 				}
 			],
@@ -739,14 +814,16 @@
 				{
 					"Text": {
 						"PT": "Sistema online para Programa de Relacionamento entre empresa e clientes",
-						"EN": "Client/company relationship program Web System"
+						"EN": "Client/company relationship program Web System",
+						"ZZ": ""
 					},
 					"Tools": "Java, Spring Boot, Postgres, Docker"
 				},
 				{
 					"Text": {
 						"PT": "Sistema online de registro e acompanhamento de contratos",
-						"EN": "Covenants register and follow up Web System"
+						"EN": "Covenants register and follow up Web System",
+						"ZZ": ""
 					},
 					"Tools": "Java, Spring Boot, Postgres, Docker, React"
 				}
@@ -755,7 +832,8 @@
 	],
 	"ProfilesTitle": {
 		"PT": "Perfis",
-		"EN": "Profiles"
+		"EN": "Profiles",
+		"ZZ": ""
 	},
 	"Profiles": [
 		{
@@ -773,7 +851,8 @@
 	],
 	"IndependentTitle": {
 		"PT": "Projetos Independentes",
-		"EN": "Independent projects"
+		"EN": "Independent projects",
+		"ZZ": ""
 	},
 	"Independent": [
 		{
@@ -782,17 +861,20 @@
 			"End": null,
 			"EnterpriseDescription": {
 				"PT": "É um sistema de gerenciamento financeiro que visa uma forma simples de gerenciar os ganhos e gastos de uma pessoa.",
-				"EN": "It is a financial management system built to be a simple way to manage a person cash inflows and outflows"
+				"EN": "It is a financial management system built to be a simple way to manage a person cash inflows and outflows",
+				"ZZ": ""
 			},
 			"Role": {
 				"PT": "Projeto independente",
-				"EN": "Independent project"
+				"EN": "Independent project",
+				"ZZ": ""
 			},
 			"Details": [
 				{
 					"Text": {
 						"PT": "Mantenedor do sistema de gestão financeira pessoal, construído com C# .NET Core, Kotlin, Node e Rust. Para testes, utiliza BDD, TDD, puppeteer, specflow e roboeletric. Docker para execução local e no servidor, RDS DB e EC2 Linux para produção. Usa SES, Lambda e S3 para e-mails. Um dos objetivos é melhorar o CI: hoje em dia ele já roda todos os testes, o objetivo é fazer deploy também, se tornando um CD.",
-						"EN": "Maintainer of the personal financial management system, built with C# .NET Core, Kotlin, Node and Rust. For tests, using BDD, TDD, puppeteer, specflow and roboeletric. Docker for running locally and in the server, RDS DB and EC2 Linux for production. Uses SES, Lambda and S3 for e-mails. One goal is to improve the CI: nowadays it already runs all the tests, the objective is to make it deploy too, becoming a CD."
+						"EN": "Maintainer of the personal financial management system, built with C# .NET Core, Kotlin, Node and Rust. For tests, using BDD, TDD, puppeteer, specflow and roboeletric. Docker for running locally and in the server, RDS DB and EC2 Linux for production. Uses SES, Lambda and S3 for e-mails. One goal is to improve the CI: nowadays it already runs all the tests, the objective is to make it deploy too, becoming a CD.",
+						"ZZ": ""
 					}
 				}
 			],
@@ -800,19 +882,22 @@
 				{
 					"Text": {
 						"PT": "Este é um projeto que criei e mantenho desde 2010",
-						"EN": "This is a project I created and I still maintain since 2010"
+						"EN": "This is a project I created and I still maintain since 2010",
+						"ZZ": ""
 					}
 				},
 				{
 					"Text": {
 						"PT": "Possui uma boa gama de tecnologias diferentes e mantenho as bibliotecas sempre atualizadas",
-						"EN": "It has a good range of different technologies and I keep the libraries always up to date"
+						"EN": "It has a good range of different technologies and I keep the libraries always up to date",
+						"ZZ": ""
 					}
 				},
 				{
 					"Text": {
 						"PT": "Já tive que mudar o servidor de windows para linux, dada a diferença entre real brasileiro e dólar americano estava ficando muito caro ficar com windows, então tive que planejar e executar com cautela a migração de .NET Framework para .NET Core e do Windows para o Linux depois disso",
-						"EN": "I already had to change the server from windows to linux, given the difference between Brazilian Real and US dollar it was becoming too expensive to keep it as windows, so I had to plan and execute with caution the migration from .NET Framework to .NET Core and from Windows to Linux after that"
+						"EN": "I already had to change the server from windows to linux, given the difference between Brazilian Real and US dollar it was becoming too expensive to keep it as windows, so I had to plan and execute with caution the migration from .NET Framework to .NET Core and from Windows to Linux after that",
+						"ZZ": ""
 					}
 				}
 			],
@@ -828,56 +913,64 @@
 				{
 					"Text": {
 						"PT": "Biblioteca principal com a lógica de negócio, com testes automatizados",
-						"EN": "Core library with business logic with automated tests"
+						"EN": "Core library with business logic with automated tests",
+						"ZZ": ""
 					},
 					"Tools": ".NET, C#, NHibernate, BDD, Specflow"
 				},
 				{
 					"Text": {
 						"PT": "Site com testes automatizados de browser",
-						"EN": "Website with browser automated tests"
+						"EN": "Website with browser automated tests",
+						"ZZ": ""
 					},
 					"Tools": ".NET, C#, MVC, HTML, CSS, javascript, jQuery, Bootstrap, Puppeteer"
 				},
 				{
 					"Text": {
 						"PT": "API",
-						"EN": "API"
+						"EN": "API",
+						"ZZ": ""
 					},
 					"Tools": ".NET, C#, MVC"
 				},
 				{
 					"Text": {
 						"PT": "Aplicativo Android com testes automatizados",
-						"EN": "Android app with automated tests"
+						"EN": "Android app with automated tests",
+						"ZZ": ""
 					},
 					"Tools": "Kotlin, retrofit, junit, robolectric"
 				},
 				{
 					"Text": {
 						"PT": "Banco de dados",
-						"EN": "Database"
+						"EN": "Database",
+						"ZZ": ""
 					},
 					"Tools": "MySQL, AWS RDS"
 				},
 				{
 					"Text": {
 						"PT": "Servidor web",
-						"EN": "Webserver"
+						"EN": "Web Server",
+						"ZZ": ""
 					},
 					"Tools": "AWS EC2 / Route53, Docker"
 				},
 				{
 					"Text": {
 						"PT": "Integração com testes automatizados rodando a cada push",
-						"EN": "Integration with automated tests running at push"
+						"EN": "Integration with automated tests running at push",
+						"ZZ": ""
 					},
 					"Tools": "Circle CI, Docker"
 				},
 				{
 					"Text": {
 						"PT": "Envio de e-mails para notificações a quem usa o sistema",
-						"EN": "E-mail to send notifications to the people who uses the system"
+						"EN": "Email to send notifications to the people who uses the system",
+						"ZZ": ""
 					},
 					"Tools": "AWS SES / Lambda / S3"
 				}
@@ -886,72 +979,79 @@
 	],
 	"AcademicTitle": {
 		"PT": "Formação acadêmica",
-		"EN": "Academic"
+		"EN": "Academic",
+		"ZZ": ""
 	},
 	"Academic": [
 		{
 			"Instituition": "SENAC (Serviço Nacional de Aprendizagem Comercial)",
 			"Description": {
 				"PT": "Desenvolvimento Web com ferramentas Dreamweaver, Fireworks e Flash",
-				"EN": "Web Development with tools Dreamweaver, Fireworks e Flash"
+				"EN": "Web Development with tools Dreamweaver, Fireworks e Flash",
+				"ZZ": ""
 			},
 			"Start": "2005",
 			"End": "2005",
 			"Course": {
 				"PT": "Formação Web Designer",
-				"EN": "Web Designer"
+				"EN": "Web Designer",
+				"ZZ": ""
 			}
 		},
 		{
 			"Instituition": "FATEC (Faculdade de Tecnologia de São Paulo)",
 			"Description": {
 				"PT": "Análise e Programação em diversas linguagens: Pascal, C, Cobol, TSQL. Sistema Operacional Linux e fundamentos do funcionamento de Sistemas Operacionais. Documentação de sistemas.",
-				"EN": "Analysis and Programming in a number of languages: Pascal, C, Cobol, TSQL. OS Linux and fundamentals of OSs working. System documenting."
+				"EN": "Analysis and Programming in a number of languages: Pascal, C, Cobol, TSQL. OS Linux and fundamentals of OSs working. System documentation.",
+				"ZZ": ""
 			},
 			"Start": "2007",
 			"End": "2010",
 			"Course": {
 				"PT": "Tecnologia em Processamento de Dados",
-				"EN": "Bachelor Degree in Data Processing Technology (IT)"
+				"EN": "Bachelor Degree in Data Processing Technology (IT)",
+				"ZZ": ""
 			}
 		},
 		{
 			"Instituition": "Wizard",
 			"Description": {
 				"PT": "Nível intermediário e avançado",
-				"EN": "Intermediary and advanced levels"
+				"EN": "Intermediary and advanced levels",
+				"ZZ": ""
 			},
 			"Start": "2008",
 			"End": "2009",
 			"Course": {
 				"PT": "Inglês leitura, escrita e conversação",
-				"EN": "English reading, writing and conversation"
+				"EN": "English reading, writing and conversation",
+				"ZZ": ""
 			}
 		},
 		{
 			"Instituition": "Brás Figueiredo",
 			"Description": {
 				"PT": "Curso de .NET Framework sobre funcionalidades base e avançadas",
-				"EN": "Course about .NET Framework with Core and Advanced funcionalities"
+				"EN": "Course about .NET Framework with Core and Advanced functionalities",
+				"ZZ": ""
 			},
 			"Start": "2011",
 			"End": "2011",
-			"Course": {
-				"PT": ".NET Core and Advanced Foundation",
-				"EN": ".NET Core and Advanced Foundation"
-			}
+			"Course": ".NET Core and Advanced Foundation"
 		},
 		{
 			"Instituition": "SENAC (Serviço Nacional de Aprendizagem Comercial)",
 			"Description": {
 				"PT": "Pós-graduação focada em Jogos usando Unity 3D. Aprendido desde o projeto do jogo e design, música, modelagem e programação.",
-				"EN": "Post graduation focused in Games using Unity 3D. Learned from game project and design, music, modeling and programming."
+				"EN": "Post graduation focused in Games using Unity 3D. Learned from game project and design, music, modeling and programming.",
+				"ZZ": ""
 			},
 			"Start": "2013",
 			"End": "2014",
 			"Course": {
 				"PT": "Pós Graduação em Games: Produção e Programação",
-				"EN": "Post-graduation - Games: Production and Programming"
+				"EN": "Post-graduation - Games: Production and Programming",
+				"ZZ": ""
 			}
 		},
 		{
@@ -976,7 +1076,8 @@
 		{
 			"Title": {
 				"PT": "Eventos comparecidos",
-				"EN": "Attended events"
+				"EN": "Attended events",
+				"ZZ": ""
 			},
 			"Items": [
 				{
@@ -1020,41 +1121,43 @@
 		{
 			"Title": {
 				"PT": "Talks - canal Pagar.me",
-				"EN": "Talks - Pagar.me channel - in portuguese"
+				"EN": "Talks - Pagar.me channel - in portuguese",
+				"ZZ": ""
 			},
 			"Items": [
 				{
 					"Description": {
 						"PT": "Números binários",
-						"EN": "Binary numbers"
+						"EN": "Binary numbers",
+						"ZZ": ""
 					},
 					"Url": "https://www.youtube.com/watch?v=SNnO1ki2t78"
 				},
 				{
 					"Description": {
 						"PT": "Pessoas Trans",
-						"EN": "Transgender people"
+						"EN": "Transgender people",
+						"ZZ": ""
 					},
 					"Url": "https://www.youtube.com/watch?v=XAwhx1AZQIU&t"
 				},
 				{
 					"Description": {
 						"PT": "De Java a Kotlin",
-						"EN": "From Java to Kotlin"
+						"EN": "From Java to Kotlin",
+						"ZZ": ""
 					},
 					"Url": "https://www.youtube.com/watch?v=xcCLjD3kJRQ"
 				},
 				{
-					"Description": {
-						"PT": "Regex",
-						"EN": "Regex"
-					},
+					"Description": "Regex",
 					"Url": "https://www.youtube.com/watch?v=TPO3GGHME_s"
 				},
 				{
 					"Description": {
 						"PT": "Como tirar gênero de textos (de forma natural)",
-						"EN": "How to remove gender from text (in portuguese it is harder than english)"
+						"EN": "How to remove gender from text (in portuguese it is harder than english)",
+						"ZZ": ""
 					},
 					"Url": "https://www.youtube.com/watch?v=BMQRGt2T-sw"
 				}
