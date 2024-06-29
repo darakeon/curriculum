@@ -101,7 +101,7 @@
 		{
 			"Paragraph": {
 				"PT": "Hoje em dia trabalho na filial Portuguesa de uma companhia dos Estados Unidos, no time de desenvolvimento backend. Usamos a ferramenta Node-RED e Python para desenvolver customizações para clientes no sistema que conecta seguradoras e distribuidoras. Me mudei para Portugal para estar próximo a empresa e trabalhar presencial um dia por semana.",
-				"EN": "Nowadays I work in the Portuguese branch of a United States company in the backend development team. We use Python for API and Node with Node-RED to develop customizations for clients in the system that connects insurers and distributors. I moved to Portugal to be closer to the company, working in the site once a week.",
+				"EN": "Nowadays I work in the Portuguese branch of a United States company in the backend development team. We use Python for API and Node with Node-RED to develop customization for clients in the system that connects insurers and distributors. I moved to Portugal to be closer to the company, working in the site once a week.",
 				"NL": "Tegenwoordig werk ik in de Portugese vestiging van een Amerikaans bedrijf in het backend-ontwikkelteam. We gebruiken Python voor API en Node met Node-RED om maatwerk voor klanten te ontwikkelen in het systeem dat verzekeraars en distributeurs met elkaar verbindt. Ik ben naar Portugal verhuisd om dichter bij het bedrijf te zijn en één keer per week op de locatie te werken.",
 				"ES": "Actualmente trabajo en la sucursal portuguesa de una empresa estadounidense en el equipo de desarrollo backend. Usamos Python para API y Node con Node-RED para desarrollar personalizaciones para clientes en el sistema que conecta aseguradoras y distribuidores. Me mudé a Portugal para estar más cerca de la empresa, trabajando en el sitio una vez por semana.",
 				"FR": "Aujourd'hui, je travaille dans la succursale portugaise d'une entreprise américaine au sein de l'équipe de développement backend. Nous utilisons Python pour l'API et Node avec Node-RED pour développer des personnalisations pour les clients dans le système qui connecte les assureurs et les distributeurs. J'ai déménagé au Portugal pour me rapprocher de l'entreprise, travaillant sur le site une fois par semaine.",
@@ -938,7 +938,7 @@
 				{
 					"Text": {
 						"PT": "Trabalho em equipe para desenvolver customizações para clientes no produto. Eu desenvolvo em Node usando a ferramenta Node-RED e em APIs em Python.",
-						"EN": "I work in a team to develop customizations for clients in the product. I develop in Node using the Node-RED tool in the Python core APIs.",
+						"EN": "I work in a team to develop customization for clients in the product. I develop in Node using the Node-RED tool in the Python core APIs.",
 						"NL": "Ik werk in teamverband aan het ontwikkelen van maatwerk voor klanten in het product. Ik ontwikkel in Node met behulp van de Node-RED-tool in de Python-kern-API's.",
 						"ES": "Trabajo en equipo para desarrollar personalizaciones para los clientes en el producto. Desarrollo en Node usando la herramienta Node-RED en las API principales de Python.",
 						"FR": "Je travaille en équipe pour développer des personnalisations pour les clients dans le produit. Je développe dans Node en utilisant l'outil Node-RED dans les API principales de Python.",
