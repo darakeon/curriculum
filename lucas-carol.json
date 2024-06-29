@@ -1374,7 +1374,9 @@
 				"Set Up an App Dev Environment on Google Cloud",
 				"Essential Google Cloud Infrastructure: Foundation",
 				"Implement Load Balancing on Compute Engine",
-				"Google Cloud Fundamentals: Core Infrastructure"
+				"Google Cloud Fundamentals: Core Infrastructure",
+				"Getting Started with Google Kubernetes Engine",
+				"Elastic Google Cloud Infrastructure: Scaling and Automation"
 			],
 			"Start": "2024",
 			"End": "2024",
