@@ -12,6 +12,5 @@ WORKDIR /var/www
 
 ENV PERSON lucas-carol
 ENV LANGUAGE EN
-ENV HOSTNAME curriculum
 
 CMD node home.js
