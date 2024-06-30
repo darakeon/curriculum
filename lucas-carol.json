@@ -1376,7 +1376,8 @@
 				"Implement Load Balancing on Compute Engine",
 				"Google Cloud Fundamentals: Core Infrastructure",
 				"Getting Started with Google Kubernetes Engine",
-				"Elastic Google Cloud Infrastructure: Scaling and Automation"
+				"Elastic Google Cloud Infrastructure: Scaling and Automation",
+				"Reliable Google Cloud Infrastructure: Design and Process"
 			],
 			"Start": "2024",
 			"End": "2024",
