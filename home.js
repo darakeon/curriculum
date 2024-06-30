@@ -5,9 +5,8 @@ const fs = require('fs')
 
 const defaultPerson = process.env.PERSON
 const defaultLang = process.env.LANGUAGE
-const defaultHost = process.env.HOSTNAME
 
-const hostname = defaultHost || '0.0.0.0'
+const hostname = '0.0.0.0'
 const port = 3000
 
 const current = {
