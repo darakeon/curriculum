@@ -7,7 +7,7 @@ const defaultPerson = process.env.PERSON
 const defaultLang = process.env.LANGUAGE
 const defaultHost = process.env.HOSTNAME
 
-const hostname = defaultHost || '127.0.0.1'
+const hostname = defaultHost || '0.0.0.0'
 const port = 3000
 
 const current = {
