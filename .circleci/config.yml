@@ -30,6 +30,20 @@ jobs:
           name: Push
           command: make push
 
+  static:
+    docker:
+      - image: python
+      - image: darakeon/curriculum
+    steps:
+      - checkout
+      - run:
+          name: Dependencies
+          command: pip install requests boto3
+      - run:
+          name: Crowler
+          path: static
+          command: python crowler.py
+
 workflows:
   deploy:
     jobs:
@@ -37,6 +51,12 @@ workflows:
       - docker:
           requires:
             - trufflehog
+          filters:
+            branches:
+              only: main
+      - static:
+          requires:
+            - docker
           filters:
             branches:
               only: main
