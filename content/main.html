@@ -20,7 +20,7 @@
 			}
 		</style>
 
-		<link href='/main.css' rel='stylesheet' />
+		<link href="/main.css" rel="stylesheet" />
 		<meta content="text/html;charset=utf-8" http-equiv="Content-Type">
 		<meta content="utf-8" http-equiv="encoding">
 	</head>
@@ -28,10 +28,10 @@
 	<body>
 		<section class="cover-letter">
 			<h1>{{CoverLetterTitle}}</h1>
-			<h2>{{Name}}</h2>
+			<h2 class="copy-me">{{Name}}</h2>
 			<dl>{{Contacts}}</dl>
 
-			<article>
+			<article class="copy-me">
 				{{CoverLetter}}
 
 				<p>
@@ -44,11 +44,11 @@
 		<section class="knowledges">
 			<h2>{{KnowledgesTitle}}</h2>
 
-			{{KnowledgesList}}
+			<div class="copy-me">{{KnowledgesList}}</div>
 		</section>
 
 		<section class="curriculum">
-			<h2>{{Name}}</h2>
+			<h2 class="copy-me">{{Name}}</h2>
 			<dl>{{Contacts:H2}}</dl>
 
 			<div>
@@ -75,6 +75,8 @@
 				{{Additional}}
 			</div>
 		</section>
+
+		<script src="/main.js" type="text/javascript"></script>
 	</body>
 
 </html>

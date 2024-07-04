@@ -6,6 +6,10 @@
 	font-size: 12px;
 }
 
+.copy-me {
+	cursor: copy;
+}
+
 @media screen {
 	html {
 		background-color: #666;
@@ -24,6 +28,10 @@
 
 h1, h2, h3, h4, h5, h6 {
 	margin-bottom: 0;
+}
+
+h1>span, h2>span, h3>span, h4>span, h5>span, h6>span {
+	font-size: inherit;
 }
 
 h1 {

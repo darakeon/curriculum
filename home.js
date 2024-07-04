@@ -127,6 +127,9 @@ const server = http.createServer((req, res) => {
 	if (req.url == '/main.css')
 		return exit(res, 200, 'css', getFile('main.css'))
 
+	if (req.url == '/main.js')
+		return exit(res, 200, 'javascript', getFile('main.js'))
+
 	let path = req.url.split('/')
 
 	if (path.length < 3) {
