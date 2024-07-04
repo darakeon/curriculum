@@ -1,7 +1,6 @@
 const copyContent = async (obj) => {
 	try {
 		await navigator.clipboard.writeText(obj.innerText);
-		await navigator.clipboard.writeText(' class="copy-me"');
 		console.log(obj.innerText);
 	} catch (err) {
 		console.error('Failed to copy: ', err);
