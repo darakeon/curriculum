@@ -720,7 +720,7 @@
 		{
 			"Enterprise": "Habit",
 			"Start": "2023-01",
-			"End": null,
+			"End": "2024-09",
 			"EnterpriseDescription": {
 				"PT": "Intermediadora entre empresas seguradoras e distribuidoras",
 				"EN": "Intermediary between insurers and distributor companies",
@@ -828,6 +828,45 @@
 					"Tools": "Java, Spring Boot, Postgres, Docker, React"
 				}
 			]
+		},
+		{
+			"Enterprise": "Hitachi Digital Services",
+			"Start": "2024-09",
+			"End": null,
+			"EnterpriseDescription": {
+				"PT": "Construção de Serviços Digitais para Cloud e Data",
+				"EN": "Development of Digital Services for Cloud and Data",
+				"ZZ": ""
+			},
+			"Role": {
+				"PT": "Senior Full Stack",
+				"EN": "Senior Full Stack",
+				"ZZ": ""
+			},
+			"Responsability": {
+				"PT": "Desenvolvimento Backend e Frontend",
+				"EN": "Backend and Frontend Development",
+				"ZZ": ""
+			},
+			"Details": [
+				{
+					"Text": {
+						"PT": "Desenvolvimento com ReactJS e .NET Core",
+						"EN": "Development using ReactJS and .NET Core",
+						"ZZ": ""
+					}
+				}
+			],
+			"Highlights": [
+				{
+					"Text": {
+						"PT": "-",
+						"EN": "-",
+						"ZZ": ""
+					}
+				}
+			],
+			"Projects": []
 		}
 	],
 	"ProfilesTitle": {
