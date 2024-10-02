@@ -10,9 +10,6 @@
 			"Name": {
 				"PT": "E-mail",
 				"EN": "Mail",
-				"NL": "E-mail",
-				"ES": "Correo",
-				"FR": "Mail",
 				"ZZ": ""
 			},
 			"Value": "lc.sales.duarte@gmail.com"
@@ -25,9 +22,6 @@
 			"Name": {
 				"PT": "Telemóvel",
 				"EN": "Cellphone",
-				"NL": "Mobiele telefoon",
-				"ES": "Teléfono móvil",
-				"FR": "Téléphone portable",
 				"ZZ": ""
 			},
 			"Value": "+351 912 646 993"
@@ -42,9 +36,6 @@
 	"CoverLetterTitle": {
 		"PT": "carta de apresentação",
 		"EN": "cover letter",
-		"NL": "Voorblad",
-		"ES": "carta de presentación",
-		"FR": "lettre de motivation",
 		"ZZ": ""
 	},
 	"CoverLetter": [
@@ -52,9 +43,6 @@
 			"Paragraph": {
 				"PT": "Trabalho com desenvolvimento de software desde 2007. Já trabalhei com C# .NET, Node, Kotlin, tecnologias de Frontend (HTML, CSS e Javascript), Python e Rust; TDD e BDD para testes; bancos de dados MySQL, Postgres e SQL Server; e Docker, Docker Compose e AWS para infraestrutura.",
 				"EN": "I have been a software developer since 2007. I've worked already with C# .NET, Node, Kotlin, Frontend technologies (HTML, CSS and Javascript), Python and Rust; TDD and BDD for testing; MySQL, Postgres and SQL Server databases; and Docker, Docker Compose, AWS and GCP for infrastructure.",
-				"NL": "Ik ben softwareontwikkelaar sinds 2007. Ik heb al gewerkt met C# .NET, Node, Kotlin, Frontend-technologieën (HTML, CSS en Javascript), Python en Rust; TDD en BDD voor testen; MySQL-, Postgres- en SQL Server-databases; en Docker, Docker Compose, AWS en GCP voor infrastructuur.",
-				"ES": "Soy desarrollador de software desde 2007. Ya he trabajado con C# .NET, Node, Kotlin, tecnologías Frontend (HTML, CSS y Javascript), Python y Rust; TDD y BDD para pruebas; Bases de datos MySQL, Postgres y SQL Server; y Docker, Docker Compose, AWS y GCP para infraestructura.",
-				"FR": "Je suis développeur de logiciels depuis 2007. J'ai déjà travaillé avec C# .NET, Node, Kotlin, les technologies Frontend (HTML, CSS et Javascript), Python et Rust ; TDD et BDD pour les tests ; Bases de données MySQL, Postgres et SQL Server ; et Docker, Docker Compose, AWS et GCP pour l'infrastructure.",
 				"ZZ": ""
 			}
 		},
@@ -62,9 +50,6 @@
 			"Paragraph": {
 				"PT": "Antes da faculdade fiz um curso de desenvolvimento web. Trabalhei como freelancer fazendo alguns sites simples. Um mês após entrar na faculdade uma pessoa me chamou para lhe substituir na empresa devido a minha capacidade com lógica. Depois disso, assumi todo o sistema, desde o banco de dados até o frontend. Porém lá eram usadas apenas tecnologias e práticas desatualizadas.",
 				"EN": "Before college, I took a web developer course. I worked as a freelancer making some simple websites. One month after starting college, a colleague called me to replace them at the company given my abilities with logic. There I took care of the whole system, from database to frontend. It was a legacy system, using old technologies and practices.",
-				"NL": "Voordat ik ging studeren, heb ik een cursus webontwikkelaar gevolgd. Ik werkte als freelancer aan het maken van enkele eenvoudige websites. Een maand nadat ik met de universiteit was begonnen, belde een collega me om ze bij het bedrijf te vervangen, gezien mijn capaciteiten met logica. Daar verzorgde ik het hele systeem, van database tot frontend. Het was een verouderd systeem, dat gebruik maakte van oude technologieën en praktijken.",
-				"ES": "Antes de la universidad, tomé un curso de desarrollador web. Trabajé como autónomo creando algunos sitios web sencillos. Un mes después de empezar la universidad, un compañero me llamó para reemplazarlos en la empresa dadas mis habilidades con la lógica. Allí me ocupé de todo el sistema, desde la base de datos hasta el frontend. Era un sistema heredado, que utilizaba tecnologías y prácticas antiguas.",
-				"FR": "Avant l'université, j'ai suivi un cours de développeur Web. J'ai travaillé en tant qu'indépendant en créant des sites Web simples. Un mois après avoir commencé l'université, un collègue m'a appelé pour le remplacer dans l'entreprise étant donné mes capacités en logique. Là, je me suis occupé de l'ensemble du système, de la base de données au frontend. Il s’agissait d’un système existant, utilisant d’anciennes technologies et pratiques.",
 				"ZZ": ""
 			}
 		},
@@ -72,9 +57,6 @@
 			"Paragraph": {
 				"PT": "Mudei para uma empresa de consultoria em desenvolvimento. Na nova empresa, aprendi melhores práticas, como versionamento, orientação a objetos, princípios e práticas ágeis. Tenho orgulho de ter trabalhado nessa empresa até os dias de hoje. Enquanto estava lá, iniciei meu projeto pessoal, chamado Don't fly Money, de controle financeiro pessoal; este ainda hoje é meu espaço para testes e uma grande fonte de aprendizado. Usei nele tecnologias e conceitos que mais tarde usaria para resolver problemas de clientes.",
 				"EN": "Then I moved to a software development consultancy. There I learned better practices, such as versioning, object oriented programming, agile principles and practices. While there, I started my personal project, called Don't fly Money, a system for personal financial management. It is my sandbox and a great source of learning since then. I used technologies in it that later I would use to solve problems of my companies' clients.",
-				"NL": "Daarna ben ik overgestapt naar een softwareontwikkelingsadviesbureau. Daar leerde ik betere praktijken, zoals versiebeheer, objectgeoriënteerd programmeren, agile principes en praktijken. Terwijl ik daar was, begon ik mijn persoonlijke project, genaamd Don't Fly Money, een systeem voor persoonlijk financieel beheer. Het is mijn sandbox en sindsdien een geweldige bron van leerervaring. Ik gebruikte er technologieën in die ik later zou gebruiken om de problemen van de klanten van mijn bedrijf op te lossen.",
-				"ES": "Luego me mudé a una consultoría de desarrollo de software. Allí aprendí mejores prácticas, como versionamiento, programación orientada a objetos, principios y prácticas ágiles. Estando allí comencé mi proyecto personal, llamado Don't fly Money, un sistema de gestión financiera personal. Es mi entorno de pruebas y una gran fuente de aprendizaje desde entonces. Utilicé en él tecnologías que luego utilizaría para resolver problemas de los clientes de mis empresas.",
-				"FR": "Ensuite, j'ai rejoint un cabinet de conseil en développement logiciel. Là, j'ai appris de meilleures pratiques, telles que le versioning, la programmation orientée objet, les principes et pratiques agiles. Là-bas, j'ai lancé mon projet personnel, appelé Don't fly Money, un système de gestion financière personnelle. C'est mon bac à sable et une grande source d'apprentissage depuis. J'y ai utilisé des technologies que j'utiliserais plus tard pour résoudre les problèmes des clients de mon entreprise.",
 				"ZZ": ""
 			}
 		},
@@ -82,9 +64,6 @@
 			"Paragraph": {
 				"PT": "Depois disso, trabalhei em uma empresa do ramo de pagamentos. Tinham seu próprio produtos e usavam muitas tecnologias novas, no desenvolvimento e na arquitetura. Lá aprendi Node e Rust. E trabalhei com Kotlin pela primeira vez, mas já conhecia, por ter usado no Don't fly money.",
 				"EN": "After that, I worked in a company in the payment industry. They had their own product and they used a bunch of new technologies, in development and architecture. There I learned Node and Rust. And I worked with Kotlin for the first time, but I already knew it, because of Don't fly Money.",
-				"NL": "Daarna heb ik gewerkt bij een bedrijf in de betaalbranche. Ze hadden hun eigen product en gebruikten een heleboel nieuwe technologieën, op het gebied van ontwikkeling en architectuur. Daar leerde ik Node en Rust. En ik werkte voor het eerst met Kotlin, maar ik wist het al, vanwege Don't fly Money.",
-				"ES": "Después de eso, trabajé en una empresa del sector de pagos. Tenían su propio producto y utilizaban un montón de tecnologías nuevas, en desarrollo y arquitectura. Allí aprendí Node y Rust. Y trabajé con Kotlin por primera vez, pero ya lo sabía, gracias a Don't fly Money.",
-				"FR": "Après cela, j'ai travaillé dans une entreprise du secteur des paiements. Ils avaient leur propre produit et utilisaient un tas de nouvelles technologies, en matière de développement et d’architecture. Là, j'ai appris Node et Rust. Et j'ai travaillé avec Kotlin pour la première fois, mais je le savais déjà, grâce à Don't fly Money.",
 				"ZZ": ""
 			}
 		},
@@ -92,9 +71,6 @@
 			"Paragraph": {
 				"PT": "De 2019 a 2022 trabalhei em uma empresa internacional de excelência em consultoria. Participei de quatro projetos dentro da empresa. Os projetos incluíram tecnologias como Node, Java, microserviços, Observabilidade, Grafana, Docker, Typescript e Google AppScripts. Fui \"security champion\" de meu último time, dada a minha atenção à segurança e detalhes que pessoas normalmente não costumam olhar.",
 				"EN": "From 2019 to 2022 I worked for an international software excellence consultant. I took part in four projects at the company. The projects included technologies like Node, Java, microservices, Observability, Grafana, Docker, Typescript and Google AppScripts. Since 2020, because of the world pandemic, I have worked fully remote. I was the security champion of the last team, given my attention to security and details people don't use to notice.",
-				"NL": "Van 2019 tot 2022 werkte ik voor een internationale software Excellence consultant. Ik heb deelgenomen aan vier projecten bij het bedrijf. De projecten omvatten technologieën als Node, Java, microservices, Observability, Grafana, Docker, Typescript en Google AppScripts. Vanwege de wereldwijde pandemie werk ik sinds 2020 volledig op afstand. Ik was de beveiligingskampioen van het vorige team, gezien mijn aandacht voor beveiliging en details die mensen normaal gesproken niet opmerken.",
-				"ES": "Del 2019 al 2022 trabajé para una consultora internacional de excelencia en software. Participé en cuatro proyectos en la empresa. Los proyectos incluyeron tecnologías como Node, Java, microservicios, Observability, Grafana, Docker, Typecript y Google AppScripts. Desde 2020, debido a la pandemia mundial, trabajo de forma totalmente remota. Fui el campeón de seguridad del último equipo, dada mi atención a la seguridad y a los detalles que la gente no suele notar.",
-				"FR": "De 2019 à 2022, j'ai travaillé pour un consultant international en excellence logicielle. J'ai participé à quatre projets au sein de l'entreprise. Les projets comprenaient des technologies telles que Node, Java, les microservices, Observability, Grafana, Docker, Typescript et Google AppScripts. Depuis 2020, en raison de la pandémie mondiale, je travaille entièrement à distance. J'étais le champion de la sécurité de la dernière équipe, compte tenu de mon attention portée à la sécurité et aux détails que les gens n'avaient pas l'habitude de remarquer.",
 				"ZZ": ""
 			}
 		},
@@ -102,9 +78,6 @@
 			"Paragraph": {
 				"PT": "Hoje em dia trabalho na filial Portuguesa de uma companhia dos Estados Unidos, no time de desenvolvimento backend. Usamos a ferramenta Node-RED e Python para desenvolver customizações para clientes no sistema que conecta seguradoras e distribuidoras. Me mudei para Portugal para estar próximo a empresa e trabalhar presencial um dia por semana.",
 				"EN": "Nowadays I work in the Portuguese branch of a United States company in the backend development team. We use Python for API and Node with Node-RED to develop customization for clients in the system that connects insurers and distributors. I moved to Portugal to be closer to the company, working in the site once a week.",
-				"NL": "Tegenwoordig werk ik in de Portugese vestiging van een Amerikaans bedrijf in het backend-ontwikkelteam. We gebruiken Python voor API en Node met Node-RED om maatwerk voor klanten te ontwikkelen in het systeem dat verzekeraars en distributeurs met elkaar verbindt. Ik ben naar Portugal verhuisd om dichter bij het bedrijf te zijn en één keer per week op de locatie te werken.",
-				"ES": "Actualmente trabajo en la sucursal portuguesa de una empresa estadounidense en el equipo de desarrollo backend. Usamos Python para API y Node con Node-RED para desarrollar personalizaciones para clientes en el sistema que conecta aseguradoras y distribuidores. Me mudé a Portugal para estar más cerca de la empresa, trabajando en el sitio una vez por semana.",
-				"FR": "Aujourd'hui, je travaille dans la succursale portugaise d'une entreprise américaine au sein de l'équipe de développement backend. Nous utilisons Python pour l'API et Node avec Node-RED pour développer des personnalisations pour les clients dans le système qui connecte les assureurs et les distributeurs. J'ai déménagé au Portugal pour me rapprocher de l'entreprise, travaillant sur le site une fois par semaine.",
 				"ZZ": ""
 			}
 		},
@@ -112,9 +85,6 @@
 			"Paragraph": {
 				"PT": "Busco uma nova oportunidade para crescimento profissional e novos aprendizados, assim me desenvolver ainda mais com equipes ágeis que tenham como alvo qualidade de software e produto, segurança e foco nas necessidade das pessoas a quem as aplicações este atendem.",
 				"EN": "I'm looking for a new opportunity for professional growth and knowledge improvement, this way developing myself even more with agile teams that focus on software and product quality, security and the needs of people who use the applications we develop.",
-				"NL": "Ik ben op zoek naar een nieuwe kans voor professionele groei en kennisverbetering, waarbij ik mezelf nog meer kan ontwikkelen met agile teams die zich richten op software- en productkwaliteit, beveiliging en de behoeften van mensen die de applicaties gebruiken die wij ontwikkelen.",
-				"ES": "Busco una nueva oportunidad de crecimiento profesional y mejora de conocimientos, desarrollándome aún más con equipos ágiles que se enfoquen en la calidad del software y del producto, la seguridad y las necesidades de las personas que utilizan las aplicaciones que desarrollamos.",
-				"FR": "Je recherche une nouvelle opportunité de croissance professionnelle et d'amélioration de mes connaissances, me développant ainsi encore plus avec des équipes agiles qui se concentrent sur la qualité des logiciels et des produits, la sécurité et les besoins des personnes qui utilisent les applications que nous développons.",
 				"ZZ": ""
 			}
 		}
@@ -122,9 +92,6 @@
 	"KnowledgesTitle": {
 		"PT": "Conhecimento",
 		"EN": "Skills",
-		"NL": "Vaardigheden",
-		"ES": "Habilidades",
-		"FR": "Compétences",
 		"ZZ": ""
 	},
 	"KnowledgesList": [
@@ -352,17 +319,11 @@
 	"CoverLetterClosing": {
 		"PT": "sincera e respeitosamente",
 		"EN": "sincerely and respectfully",
-		"NL": "oprecht en respectvol",
-		"ES": "sincera y respetuosamente",
-		"FR": "sincèrement et respectueusement",
 		"ZZ": ""
 	},
 	"ProfessionalTitle": {
 		"PT": "Experiência profissional",
 		"EN": "Professional experience",
-		"NL": "Professionele ervaring",
-		"ES": "Experiencia profesional",
-		"FR": "Expérience professionnelle",
 		"ZZ": ""
 	},
 	"Professional": [
@@ -373,25 +334,16 @@
 			"EnterpriseDescription": {
 				"PT": "Empresa de RH para avaliação de candidaturas a vagas. Possui um sistema online de questionários, tanto psicológicos, quanto criados por clientes - técnicos.",
 				"EN": "HR enterprise to evaluate job candidates. Has an online questionnaires system, both psychological and technical - this one made by clients.",
-				"NL": "HR-onderneming om sollicitanten te evalueren. Heeft een online vragenlijstsysteem, zowel psychologisch als technisch - dit is gemaakt door klanten.",
-				"ES": "Empresa de recursos humanos para evaluar candidatos a puestos de trabajo. Dispone de un sistema de cuestionarios online, tanto psicológicos como técnicos, este realizado por los clientes.",
-				"FR": "Entreprise RH pour évaluer les candidats. Dispose d'un système de questionnaires en ligne, à la fois psychologiques et techniques - celui-ci réalisé par les clients.",
 				"ZZ": ""
 			},
 			"Role": {
 				"PT": "Programação",
 				"EN": "Programmer",
-				"NL": "Programmeur",
-				"ES": "Programador",
-				"FR": "Programmeur",
 				"ZZ": ""
 			},
 			"Responsability": {
 				"PT": "Manutenção e criação de novas funcionalidades para sistema de questionários.",
 				"EN": "Maintenance and creation of new features to the questionnaires system.",
-				"NL": "Onderhoud en creatie van nieuwe functies voor het vragenlijstsysteem.",
-				"ES": "Mantenimiento y creación de nuevas funcionalidades al sistema de cuestionarios.",
-				"FR": "Maintenance et création de nouvelles fonctionnalités au système de questionnaires.",
 				"ZZ": ""
 			},
 			"Details": [
@@ -399,9 +351,6 @@
 					"Text": {
 						"PT": "Tendo iniciado para substituir uma pessoa, após o segundo mês recebi a responsabilidade sobre todo o sistema: database, backend e frontend. Durante meus anos lá, tive três pessoas para ensinar e gerenciar. As tecnologias que aprendi foram ASP clássico, IIS, SQL, HTML, CSS e Javascript.",
 						"EN": "Starting to replace a colleague, after the second month I took sole responsibility over the entire system: database, backend and frontend. During my years there, I had three people to teach and manage. The technologies I learned there were classic ASP, IIS, SQL, HTML, CSS and Javascript.",
-						"NL": "Ik begon een collega te vervangen en nam na de tweede maand de volledige verantwoordelijkheid over het hele systeem: database, backend en frontend. Tijdens mijn jaren daar had ik drie mensen om les te geven en leiding te geven. De technologieën die ik daar leerde waren klassieke ASP, IIS, SQL, HTML, CSS en Javascript.",
-						"ES": "Comencé a reemplazar a un colega y después del segundo mes asumí la responsabilidad exclusiva de todo el sistema: base de datos, backend y frontend. Durante mis años allí, tuve tres personas a quienes enseñar y administrar. Las tecnologías que aprendí allí fueron ASP clásico, IIS, SQL, HTML, CSS y Javascript.",
-						"FR": "Commençant à remplacer un collègue, après le deuxième mois j'ai pris l'entière responsabilité de l'ensemble du système : base de données, backend et frontend. Durant mes années là-bas, j'avais trois personnes à enseigner et à gérer. Les technologies que j'y ai apprises étaient les classiques ASP, IIS, SQL, HTML, CSS et Javascript.",
 						"ZZ": ""
 					}
 				}
@@ -411,9 +360,6 @@
 					"Text": {
 						"PT": "Entrei para cuidar de todo o sistema. Não tinha quase experiência e acreditaram que eu poderia assumir sozinho após o segundo mês;",
 						"EN": "I entered to take care of the entire system. I had too little experience and they trusted me to be doing the job by myself from the second month;",
-						"NL": "Ik kwam binnen om voor het hele systeem te zorgen. Ik had te weinig ervaring en ze vertrouwden erop dat ik vanaf de tweede maand de klus alleen zou klaren;",
-						"ES": "Entré para encargarme de todo el sistema. Tenía muy poca experiencia y confiaron en mí para hacer el trabajo yo solo desde el segundo mes;",
-						"FR": "Je suis entré pour m'occuper de tout le système. J'avais trop peu d'expérience et ils m'ont fait confiance pour faire le travail moi-même dès le deuxième mois ;",
 						"ZZ": ""
 					}
 				},
@@ -421,9 +367,6 @@
 					"Text": {
 						"PT": "Tive outras três pessoas em estágio sob minha responsabilidade;",
 						"EN": "I had three other interns as my responsibility;",
-						"NL": "Ik had nog drie andere stagiaires als mijn verantwoordelijkheid;",
-						"ES": "Tenía otros tres pasantes a mi cargo;",
-						"FR": "J'avais trois autres stagiaires sous ma responsabilité ;",
 						"ZZ": ""
 					}
 				},
@@ -431,9 +374,6 @@
 					"Text": {
 						"PT": "Quando saí ainda trabalhei como freelancer para ensinar uma nova pessoa e resolver problemas.",
 						"EN": "When I left I still worked with them as freelancer to teach the new developer and solve bugs.",
-						"NL": "Toen ik wegging, werkte ik nog steeds als freelancer met hen samen om de nieuwe ontwikkelaar les te geven en bugs op te lossen.",
-						"ES": "Cuando me fui, todavía trabajaba con ellos como autónomo para enseñar al nuevo desarrollador y resolver errores.",
-						"FR": "Quand je suis parti, je travaillais toujours avec eux en tant que freelance pour former les nouveaux développeurs et résoudre les bugs.",
 						"ZZ": ""
 					}
 				}
@@ -443,9 +383,6 @@
 					"Text": {
 						"PT": "Desenvolvimento e manutenção do sistema web, backend e frontend",
 						"EN": "Development and maintenance of web system, backend and frontend",
-						"NL": "Ontwikkeling en onderhoud van websysteem, backend en frontend",
-						"ES": "Desarrollo y mantenimiento de sistema web, backend y frontend.",
-						"FR": "Développement et maintenance du système web, backend et frontend",
 						"ZZ": ""
 					},
 					"Tools": "ASP, SQL Server, HTML, CSS, Javascript"
@@ -459,25 +396,16 @@
 			"EnterpriseDescription": {
 				"PT": "Empresa de tecnologia e inovação que trabalha com metodologias ágeis e possui cultura de aprendizado contínuo. Possui projetos de diversos contextos técnicos, tais como sistemas web, aplicações mobile, consultoria e análise de negócio.",
 				"EN": "Technology and innovation enterprise which uses agile methodologies and has a continuous learning culture. Develop project in a variety of technical contexts as web systems, mobile apps, consulting and business analysis.",
-				"NL": "Technologie- en innovatieonderneming die gebruik maakt van agile methodologieën en een continue leercultuur heeft. Ontwikkel projecten in verschillende technische contexten, zoals websystemen, mobiele apps, advies en bedrijfsanalyse.",
-				"ES": "Empresa de tecnología e innovación que utiliza metodologías ágiles y tiene una cultura de aprendizaje continuo. Desarrollar proyectos en una variedad de contextos técnicos como sistemas web, aplicaciones móviles, consultoría y análisis de negocios.",
-				"FR": "Entreprise de technologie et d’innovation qui utilise des méthodologies agiles et possède une culture d’apprentissage continu. Développer des projets dans une variété de contextes techniques tels que les systèmes Web, les applications mobiles, le conseil et l'analyse commerciale.",
 				"ZZ": ""
 			},
 			"Role": {
 				"PT": "Análise e Programação",
 				"EN": "Analyst and Programmer",
-				"NL": "Analist en Programmeur",
-				"ES": "Analista y Programador",
-				"FR": "Analyste et programmeur",
 				"ZZ": ""
 			},
 			"Responsability": {
 				"PT": "Desenvolvimento e manutenção de sistemas para clientes, de hotsites a sistemas web mais complexos",
 				"EN": "Client system development and maintenance, from marketing site to more complex web systems",
-				"NL": "Ontwikkeling en onderhoud van klantsystemen, van marketingsites tot complexere websystemen",
-				"ES": "Desarrollo y mantenimiento de sistemas de clientes, desde sitios de marketing hasta sistemas web más complejos.",
-				"FR": "Développement et maintenance de systèmes clients, du site marketing aux systèmes Web plus complexes",
 				"ZZ": ""
 			},
 			"Details": [
@@ -485,9 +413,6 @@
 					"Text": {
 						"PT": "Trabalhei em muitos projetos na Inspira. Durante esse tempo evolui muito e cresci na área de desenvolvimento e como pessoa, e tive a oportunidade de ensinar outras pessoas.",
 						"EN": "I worked on several projects at Inspira. During my time there I evolved a lot and I grew as a developer and as a person and I had the opportunity to teach other developers.",
-						"NL": "Bij Inspira heb ik aan verschillende projecten gewerkt. Gedurende mijn tijd daar heb ik veel geëvolueerd en ben ik gegroeid als ontwikkelaar en als persoon en kreeg ik de kans om andere ontwikkelaars les te geven.",
-						"ES": "Trabajé en varios proyectos en Inspira. Durante mi tiempo allí evolucioné mucho y crecí como desarrollador y como persona y tuve la oportunidad de enseñar a otros desarrolladores.",
-						"FR": "J'ai travaillé sur plusieurs projets chez Inspira. Pendant mon séjour là-bas, j'ai beaucoup évolué et j'ai grandi en tant que développeur et en tant que personne et j'ai eu l'opportunité d'enseigner à d'autres développeurs.",
 						"ZZ": ""
 					}
 				}
@@ -497,9 +422,6 @@
 					"Text": {
 						"PT": "Assumi quatro projetos ao mesmo tempo, tendo que balancear as tarefas e prioridades de projetos",
 						"EN": "I took responsibility of 4 project at same time, I had to balance the tasks of the project and priorities",
-						"NL": "Ik nam tegelijkertijd de verantwoordelijkheid voor 4 projecten, ik moest de taken van het project en de prioriteiten in evenwicht brengen",
-						"ES": "Asumí la responsabilidad de 4 proyectos al mismo tiempo, tuve que equilibrar las tareas del proyecto y las prioridades.",
-						"FR": "J'ai pris la responsabilité de 4 projets en même temps, j'ai dû équilibrer les tâches du projet et les priorités",
 						"ZZ": ""
 					}
 				},
@@ -507,9 +429,6 @@
 					"Text": {
 						"PT": "Ensinei outras pessoas sobre linguagens de programação e desenvolvimento",
 						"EN": "I taught interns in programming languages and development pathways",
-						"NL": "Ik gaf stagiaires les in programmeertalen en ontwikkelingstrajecten",
-						"ES": "Enseñé a pasantes en lenguajes de programación y vías de desarrollo.",
-						"FR": "J'ai enseigné aux stagiaires les langages de programmation et les parcours de développement",
 						"ZZ": ""
 					}
 				},
@@ -517,9 +436,6 @@
 					"Text": {
 						"PT": "Iniciei um projeto de testes automatizados com tecnologia aprendida em projeto independente e esse projeto ainda hoje é usado para ensinar pessoas na empresa",
 						"EN": "I started a project in automatic testing with a technology I had learned in my personal project and this is nowadays still used to teach people in the company",
-						"NL": "Ik startte een project in automatisch testen met een technologie die ik in mijn persoonlijke project had geleerd en deze wordt tegenwoordig nog steeds gebruikt om mensen in het bedrijf les te geven",
-						"ES": "Empecé un proyecto de pruebas automáticas con una tecnología que había aprendido en mi proyecto personal y que hoy en día todavía se utiliza para enseñar a la gente de la empresa.",
-						"FR": "J'ai démarré un projet de tests automatiques avec une technologie que j'avais apprise dans mon projet personnel et qui est encore utilisée aujourd'hui pour enseigner aux gens de l'entreprise.",
 						"ZZ": ""
 					}
 				}
@@ -529,9 +445,6 @@
 					"Text": {
 						"PT": "Sistema de gerenciamento para esportes e fisioterapia",
 						"EN": "Sport and physiotherapy management system",
-						"NL": "Beheersysteem voor sport en fysiotherapie",
-						"ES": "Sistema de gestión del deporte y fisioterapia.",
-						"FR": "Système de gestion du sport et de la physiothérapie",
 						"ZZ": ""
 					},
 					"Tools": ".NET, C#, MVC, NHibernate, SQL"
@@ -540,9 +453,6 @@
 					"Text": {
 						"PT": "Sistema de organização de ONGs",
 						"EN": "NGO organization system",
-						"NL": "NGO-organisatiesysteem",
-						"ES": "Sistema de organización de ONG",
-						"FR": "Système d'organisation des ONG",
 						"ZZ": ""
 					},
 					"Tools": ".NET, C#, WebForms, TSQL"
@@ -551,9 +461,6 @@
 					"Text": {
 						"PT": "Website de administradora de energia",
 						"EN": "Energy manager website",
-						"NL": "Website energiemanager",
-						"ES": "Sitio web del administrador de energía",
-						"FR": "Site du gestionnaire de l'énergie",
 						"ZZ": ""
 					},
 					"Tools": ".NET, C#"
@@ -562,9 +469,6 @@
 					"Text": {
 						"PT": "Website de empresa de aviação",
 						"EN": "Flight company website",
-						"NL": "Website van vluchtmaatschappij",
-						"ES": "Sitio web de la compañía de vuelos",
-						"FR": "Site Internet de la compagnie aérienne",
 						"ZZ": ""
 					},
 					"Tools": ".NET, C#"
@@ -573,9 +477,6 @@
 					"Text": {
 						"PT": "Hotsite de operadora de telefonia móvel",
 						"EN": "Mobile operator marketing site",
-						"NL": "Marketingsite voor mobiele operators",
-						"ES": "Sitio de marketing de operadores móviles",
-						"FR": "Site marketing des opérateurs mobiles",
 						"ZZ": ""
 					},
 					"Tools": ".NET, C#, TSQL"
@@ -584,9 +485,6 @@
 					"Text": {
 						"PT": "Sistema de cadastro de startup para colaboração",
 						"EN": "Startup collaboration system",
-						"NL": "Samenwerkingssysteem voor startups",
-						"ES": "Sistema de colaboración de inicio",
-						"FR": "Système de collaboration de démarrage",
 						"ZZ": ""
 					},
 					"Tools": ".NET, C#, MVC, NHibernate, SQL"
@@ -595,9 +493,6 @@
 					"Text": {
 						"PT": "E-commerce de editora de livros e escola de pós-graduação e cursos ",
 						"EN": "Book publishing and courses company e-commerce",
-						"NL": "Boekuitgeverij en cursussen bedrijf e-commerce",
-						"ES": "Empresa editorial de libros y cursos de comercio electrónico.",
-						"FR": "Entreprise d'édition de livres et de cours e-commerce",
 						"ZZ": ""
 					},
 					"Tools": ".NET, C#, NopCommerce, WebForms, EntityFramework"
@@ -606,9 +501,6 @@
 					"Text": {
 						"PT": "Sistema de gerenciamento de transações de cartão, parte Desktop e Web",
 						"EN": "Card transactions system site and desktop app",
-						"NL": "Kaarttransactiesysteemsite en desktop-app",
-						"ES": "Sitio del sistema de transacciones con tarjeta y aplicación de escritorio",
-						"FR": "Site du système de transactions par carte et application de bureau",
 						"ZZ": ""
 					},
 					"Tools": ".NET, Windows Forms, C#, MVC, NHibernate, MySQL"
@@ -617,9 +509,6 @@
 					"Text": {
 						"PT": "Escrita e implementação de Testes Automatizados para sistema de gerenciamento de assinaturas eletrônicas ",
 						"EN": "Writing and implementation of automated tests to an electronic contract signing company",
-						"NL": "Schrijven en implementeren van geautomatiseerde tests bij een bedrijf dat elektronische contracten tekent",
-						"ES": "Redacción e implementación de pruebas automatizadas a una empresa de firma de contrato electrónico.",
-						"FR": "Rédaction et mise en œuvre de tests automatisés auprès d'une société de signature électronique de contrats",
 						"ZZ": ""
 					},
 					"Tools": ".NET, C#, SpecFlow"
@@ -633,25 +522,16 @@
 			"EnterpriseDescription": {
 				"PT": "Backend de pagamentos de e-commerces",
 				"EN": "E-commerce payments backend",
-				"NL": "Backend voor e-commercebetalingen",
-				"ES": "Backend de pagos de comercio electrónico",
-				"FR": "Backend de paiement pour le commerce électronique",
 				"ZZ": ""
 			},
 			"Role": {
 				"PT": "Desenvolvimento Sênior",
 				"EN": "Senior Developer",
-				"NL": "Senior ontwikkelaar",
-				"ES": "Desarrollador Senior",
-				"FR": "DEVELOPPEUR sénior",
 				"ZZ": ""
 			},
 			"Responsability": {
 				"PT": "Manutenção de mundo físico e de backend core",
 				"EN": "Maintenance of physical transactions sdks and company core backend",
-				"NL": "Onderhoud van fysieke transactie-SDK's en bedrijfskern-backend",
-				"ES": "Mantenimiento de SDK de transacciones físicas y backend central de la empresa.",
-				"FR": "Maintenance des SDK de transactions physiques et du backend principal de l'entreprise",
 				"ZZ": ""
 			},
 			"Details": [
@@ -659,9 +539,6 @@
 					"Text": {
 						"PT": "Trabalhei em alguns projetos enquanto estava na Pagar.me. O primeiro foi um SDK .NET para comunicação com máquinas de pagamento. Depois disso, fiz parte da equipe responsável pela criação de uma nova biblioteca unificada de frontend para a empresa dona da Pagar.me, usando React. Em seguida iniciei o desenvolvimento da integração para utilização dos cartões refeição / alimentação nas máquinas de pagamento. Eu fiz parte de uma melhoria de segurança que a empresa teve que fazer, quando tive que trabalhar com várias equipes diferentes para alcançar os resultados. Como último projeto fui a uma equipe para iniciar um novo projeto, para atender clientes menores que precisavam de máquinas de pagamento para melhorar seus negócios e modernizar sua forma de vender seus produtos.",
 						"EN": "I've worked on some projects while working in Pagar.me. The first of it was a .NET SDK for communicating with payment machines. After that, I was part of the team that was responsible for creating a new unified frontend library for the mother-company of Pagar.me, using React. Then I started the development of integration to use voucher cards in payment machines. I was part of a security improvement the company had to make, when I had to pair with a bunch of different teams to achieve the results. As a last project I went to a team to start a new project, to attend smaller clients that needed payment machines to improve their business and modernize their way to sell their goods.",
-						"NL": "Ik heb aan een aantal projecten gewerkt terwijl ik in Pagar.me werkte. De eerste was een .NET SDK voor communicatie met betaalautomaten. Daarna maakte ik deel uit van het team dat verantwoordelijk was voor het creëren van een nieuwe unified frontend-bibliotheek voor het moederbedrijf van Pagar.me, met behulp van React. Vervolgens ben ik begonnen met de ontwikkeling van de integratie om voucherkaarten in betaalautomaten te gebruiken. Ik maakte deel uit van een beveiligingsverbetering die het bedrijf moest doorvoeren, waarbij ik met een aantal verschillende teams moest samenwerken om de resultaten te bereiken. Als laatste project ging ik naar een team om een ​​nieuw project te starten, om kleinere klanten te helpen die betaalautomaten nodig hadden om hun bedrijf te verbeteren en hun manier om hun goederen te verkopen te moderniseren.",
-						"ES": "He trabajado en algunos proyectos mientras trabajaba en Pagar.me. El primero fue un SDK .NET para comunicarse con máquinas de pago. Después de eso, formé parte del equipo responsable de crear una nueva biblioteca frontend unificada para la empresa matriz de Pagar.me, utilizando React. Luego comencé el desarrollo de la integración para utilizar tarjetas de vales en máquinas de pago. Fui parte de una mejora de seguridad que la empresa tenía que realizar, cuando tuve que trabajar con varios equipos diferentes para lograr los resultados. Como último proyecto acudí a un equipo para iniciar un nuevo proyecto, para atender a clientes más pequeños que necesitaban máquinas de pago para mejorar su negocio y modernizar su forma de vender sus productos.",
-						"FR": "J'ai travaillé sur certains projets tout en travaillant chez Pagar.me. Le premier était un SDK .NET pour communiquer avec les machines de paiement. Après cela, j'ai fait partie de l'équipe chargée de créer une nouvelle bibliothèque frontend unifiée pour la société mère de Pagar.me, en utilisant React. Ensuite, j'ai commencé le développement de l'intégration pour utiliser les cartes de bons d'achat dans les automates de paiement. J'ai fait partie d'une amélioration de la sécurité que l'entreprise devait apporter, lorsque j'ai dû faire équipe avec un groupe d'équipes différentes pour obtenir les résultats. Comme dernier projet, j'ai rejoint une équipe pour démarrer un nouveau projet, pour assister des petits clients qui avaient besoin de machines de paiement pour améliorer leur activité et moderniser leur façon de vendre leurs marchandises.",
 						"ZZ": ""
 					}
 				}
@@ -671,9 +548,6 @@
 					"Text": {
 						"PT": "Fiz parte da equipe que iniciou o projeto de criação de uma UI padrão para toda a empresa desenvolver seus sites, em React",
 						"EN": "I was part of the team that started the project to create a default UI for the entire company to develop its websites, in React",
-						"NL": "Ik maakte deel uit van het team dat het project startte om een ​​standaard gebruikersinterface te creëren waarmee het hele bedrijf zijn websites kon ontwikkelen, in React",
-						"ES": "Fui parte del equipo que inició el proyecto de crear una UI predeterminada para que toda la empresa desarrollara sus sitios web, en React",
-						"FR": "Je faisais partie de l'équipe qui a démarré le projet de création d'une UI par défaut pour toute l'entreprise afin de développer ses sites web, en React",
 						"ZZ": ""
 					}
 				},
@@ -681,9 +555,6 @@
 					"Text": {
 						"PT": "Assumi a responsabilidade e lutei por um projeto para implementar algo que foi prometido a um cliente anos antes - o cliente chegou a ameaçar processar a empresa. Depois de aprovado, passei 15 dias trabalhando sem parar para fazer acontecer",
 						"EN": "I took responsibility and fought for a project to implement something that was promised to a client years before - the client was even threatening to sue out company. After it was approved, I spent 15 days working with no rest to make it happen",
-						"NL": "Ik nam de verantwoordelijkheid en vocht voor een project om iets te implementeren dat jaren geleden aan een klant was beloofd - de klant dreigde zelfs een bedrijf voor de rechter te dagen. Nadat het was goedgekeurd, heb ik vijftien dagen zonder rust gewerkt om het te realiseren",
-						"ES": "Asumí la responsabilidad y luché por un proyecto para implementar algo que se le había prometido a un cliente años antes; el cliente incluso amenazó con demandar a la empresa. Después de que se aprobó, pasé 15 días trabajando sin descanso para hacerlo realidad.",
-						"FR": "J'ai pris mes responsabilités et je me suis battu pour un projet visant à mettre en œuvre quelque chose qui avait été promis à un client des années auparavant - le client menaçait même de poursuivre l'entreprise en justice. Après son approbation, j'ai passé 15 jours à travailler sans repos pour y parvenir.",
 						"ZZ": ""
 					}
 				},
@@ -691,9 +562,6 @@
 					"Text": {
 						"PT": "Comecei com duas pessoas um novo projeto para desenvolver uma aplicação para um novo produto da empresa. Eram pessoas novas na área e eu era o único que sabia a linguagem na empresa, fui eu que sugeri quando o projeto começou",
 						"EN": "I started with two colleagues a new project to develop an application to a new product of the company. They both were novice and I was the only one that knows the language at the company, I was the one that suggested it when the project started",
-						"NL": "Ik ben met twee collega's een nieuw project gestart om een ​​applicatie te ontwikkelen voor een nieuw product van het bedrijf. Ze waren allebei nieuw en ik was de enige die de taal kende binnen het bedrijf, ik was degene die dit voorstelde toen het project begon",
-						"ES": "Comencé con dos compañeros un nuevo proyecto para desarrollar una aplicación a un nuevo producto de la empresa. Ambos eran novatos y yo era el único que conocía el idioma en la empresa, fui yo quien lo sugirió cuando empezó el proyecto.",
-						"FR": "J'ai démarré avec deux collègues un nouveau projet visant à développer une application sur un nouveau produit de l'entreprise. Ils étaient tous les deux novices et j'étais le seul à connaître la langue de l'entreprise, c'est moi qui l'ai suggéré au démarrage du projet.",
 						"ZZ": ""
 					}
 				}
@@ -703,9 +571,6 @@
 					"Text": {
 						"PT": "SDKs Mpos",
 						"EN": "Machines SDK",
-						"NL": "Machines-SDK",
-						"ES": "SDK de máquinas",
-						"FR": "SDK Machines",
 						"ZZ": ""
 					},
 					"Tools": ".NET, Kotlin, Rust, Gradle"
@@ -714,9 +579,6 @@
 					"Text": {
 						"PT": "Aplicativo de comunicação de maquininha com site de cliente",
 						"EN": "App to communicate machine with client site",
-						"NL": "App om machine te communiceren met de klantsite",
-						"ES": "Aplicación para comunicar la máquina con el sitio del cliente.",
-						"FR": "Application pour communiquer la machine avec le site client",
 						"ZZ": ""
 					},
 					"Tools": ".NET"
@@ -725,9 +587,6 @@
 					"Text": {
 						"PT": "Manutenções no sistema core",
 						"EN": "Maintenance at the company core system",
-						"NL": "Onderhoud in het kernsysteem van het bedrijf",
-						"ES": "Mantenimiento del sistema central de la empresa.",
-						"FR": "Maintenance du système central de l'entreprise",
 						"ZZ": ""
 					},
 					"Tools": "Node"
@@ -736,9 +595,6 @@
 					"Text": {
 						"PT": "Aplicativo de pagamento e gerenciamento de transações com cartões físicos",
 						"EN": "App of payment and transaction management with physical cards",
-						"NL": "App voor betalings- en transactiebeheer met fysieke kaarten",
-						"ES": "App de gestión de pagos y transacciones con tarjetas físicas",
-						"FR": "Application de paiement et de gestion des transactions avec cartes physiques",
 						"ZZ": ""
 					},
 					"Tools": "Kotlin, Gradle"
@@ -747,9 +603,6 @@
 					"Text": {
 						"PT": "Início de uma nova dashboard com unificação da identidade visual da empresa",
 						"EN": "Start of new dashboard with company visual identity unification",
-						"NL": "Start van nieuw dashboard met unificatie van de visuele identiteit van het bedrijf",
-						"ES": "Inicio de nuevo tablero con unificación de identidad visual de la empresa",
-						"FR": "Démarrage d'un nouveau tableau de bord avec unification de l'identité visuelle de l'entreprise",
 						"ZZ": ""
 					},
 					"Tools": "React, Open Source"
@@ -763,25 +616,16 @@
 			"EnterpriseDescription": {
 				"PT": "Consultoria em TI",
 				"EN": "IT Consulting",
-				"NL": "IT-advies",
-				"ES": "Consultoría TI",
-				"FR": "Conseil informatique",
 				"ZZ": ""
 			},
 			"Role": {
 				"PT": "Consultoria Sênior",
 				"EN": "Senior Consultant",
-				"NL": "Senior consultant",
-				"ES": "Consultor sénior",
-				"FR": "Consultant senior",
 				"ZZ": ""
 			},
 			"Responsability": {
 				"PT": "Consultoria em projetos clientes",
 				"EN": "Client projects consulting",
-				"NL": "Advisering van klantprojecten",
-				"ES": "Consultoría de proyectos de clientes.",
-				"FR": "Conseil en projets clients",
 				"ZZ": ""
 			},
 			"Details": [
@@ -789,9 +633,6 @@
 					"Text": {
 						"PT": "O trabalho era consultoria, desenvolvimento e manutenção de software de clientes e interno. A Thoughtworks segue as melhores práticas, melhoria contínua, pareamento, TDD e outras práticas ágeis.",
 						"EN": "The job was consultancy, development and maintenance of client and internal software. Thoughtworks follows best practices, continuous improvement, pairing, TDD and other agile practices.",
-						"NL": "De taak bestond uit het adviseren, ontwikkelen en onderhouden van klant- en interne software. Thoughtworks volgt best practices, continue verbetering, koppeling, TDD en andere agile praktijken.",
-						"ES": "El trabajo consistía en consultoría, desarrollo y mantenimiento de software interno y de cliente. Thoughtworks sigue las mejores prácticas, mejora continua, emparejamiento, TDD y otras prácticas ágiles.",
-						"FR": "Le travail consistait en un conseil, un développement et une maintenance de logiciels clients et internes. Thoughtworks suit les meilleures pratiques, l'amélioration continue, le jumelage, le TDD et d'autres pratiques agiles.",
 						"ZZ": ""
 					}
 				},
@@ -799,9 +640,6 @@
 					"Text": {
 						"PT": "O primeiro projeto foi interno, para facilitar o entendimento da saúde dos quadros kanban usando um estado de personagem fictício para mostrar como era o projeto. Isso me ajudou a melhorar meu conhecimento do Node. Alguns meses depois, fui a um projeto de cliente, que gerencia aluguel e venda de casas e apartamentos. Lá tive experiência com microsserviços com metodologia Java e BFF (backend-for-frontend). Então fui para o meu primeiro projeto internacional, implementando Observability usando Grafana e Docker.",
 						"EN": "The first project was an internal one, to make it easier to understand the health of the kanban boards using a fictional character state to show how the project was. This has helped me improve my Node knowledge. Some months later, I went to a client project that manages the rental and sale of houses and flats. There I had experience with microservices with Java and BFF methodology (backend-for-frontend). Then I went to my first international project, implementing Observability using Grafana and Docker.",
-						"NL": "Het eerste project was een intern project, om het gemakkelijker te maken de gezondheid van de kanbanborden te begrijpen door gebruik te maken van een fictieve karakterstatus om te laten zien hoe het project was. Dit heeft mij geholpen mijn Node-kennis te verbeteren. Enkele maanden later ging ik naar een klantproject dat de verhuur en verkoop van huizen en appartementen beheert. Daar had ik ervaring met microservices met Java en BFF-methodiek (backend-voor-frontend). Daarna ging ik naar mijn eerste internationale project, waarbij ik Observability implementeerde met Grafana en Docker.",
-						"ES": "El primer proyecto fue interno, para facilitar la comprensión del estado de los tableros kanban utilizando un estado de personaje ficticio para mostrar cómo era el proyecto. Esto me ha ayudado a mejorar mi conocimiento de Node. Unos meses después, acudí al proyecto de un cliente que gestiona el alquiler y venta de casas y pisos. Allí tuve experiencia con microservicios con Java y metodología BFF (backend-for-frontend). Luego fui a mi primer proyecto internacional, implementando Observability usando Grafana y Docker.",
-						"FR": "Le premier projet était un projet interne, destiné à faciliter la compréhension de l'état des tableaux Kanban en utilisant l'état d'un personnage fictif pour montrer comment se déroulait le projet. Cela m'a aidé à améliorer mes connaissances sur Node. Quelques mois plus tard, je me suis rendu sur un projet client qui gère la location et la vente de maisons et d'appartements. Là, j'ai eu de l'expérience avec les microservices avec la méthodologie Java et BFF (backend-for-frontend). Ensuite, je me suis lancé dans mon premier projet international, implémentant l'observabilité à l'aide de Grafana et Docker.",
 						"ZZ": ""
 					}
 				},
@@ -809,9 +647,6 @@
 					"Text": {
 						"PT": "O quarto projeto atendia clientes internos, utilizando Google AppScript, Docker, Postgres, TypeScript e TDD. Nesta equipe, eu era o security champion.",
 						"EN": "The fourth project attended internal clients, using Google AppScript, Docker, Postgres, TypeScript and TDD. In this team, I was the security champion.",
-						"NL": "Het vierde project was bij interne klanten, waarbij gebruik werd gemaakt van Google AppScript, Docker, Postgres, TypeScript en TDD. In dit team was ik de beveiligingskampioen.",
-						"ES": "El cuarto proyecto atendió a clientes internos, utilizando Google AppScript, Docker, Postgres, TypeScript y TDD. En este equipo, yo era el campeón de seguridad.",
-						"FR": "Le quatrième projet concernait des clients internes, utilisant Google AppScript, Docker, Postgres, TypeScript et TDD. Dans cette équipe, j'étais le champion de la sécurité.",
 						"ZZ": ""
 					}
 				}
@@ -821,9 +656,6 @@
 					"Text": {
 						"PT": "Sou reconhecido como alguém que conhece profundamente o git, e as pessoas me procuram quando têm um problema para resolver sobre",
 						"EN": "I'm recognized as someone that knows git deeply, and people come to me when they have a problem to solve in this matter",
-						"NL": "Ik word erkend als iemand die diepgaande kennis heeft van git, en mensen komen naar mij toe als ze een probleem op dit gebied moeten oplossen",
-						"ES": "Soy reconocido como alguien que conoce profundamente git y la gente acude a mí cuando tiene un problema que resolver en este asunto.",
-						"FR": "Je suis reconnu comme quelqu'un qui connaît profondément tout ça, et les gens viennent me voir lorsqu'ils ont un problème à résoudre dans ce domaine.",
 						"ZZ": ""
 					}
 				},
@@ -831,9 +663,6 @@
 					"Text": {
 						"PT": "Quando a equipe precisou de um security champion, as pessoas sugeriram que fosse eu, dado minha atenção a detalhes e riscos que nem todos conhecem, e essa era uma das minhas responsabilidades",
 						"EN": "When the team needed a security champion, people suggested that it was me, given my attention to details and risks that not everyone is aware to, and this was one of my responsibilities",
-						"NL": "Toen het team een ​​beveiligingskampioen nodig had, suggereerden mensen dat ik het was, gezien mijn aandacht voor details en risico's waarvan niet iedereen zich bewust was, en dit was een van mijn verantwoordelijkheden",
-						"ES": "Cuando el equipo necesitaba un campeón de seguridad, la gente sugirió que fuera yo, dada mi atención a los detalles y riesgos que no todos conocen, y esta era una de mis responsabilidades.",
-						"FR": "Lorsque l'équipe avait besoin d'un champion de la sécurité, les gens ont suggéré que c'était moi, étant donné mon attention aux détails et aux risques dont tout le monde n'est pas conscient, et c'était l'une de mes responsabilités.",
 						"ZZ": ""
 					}
 				},
@@ -841,9 +670,6 @@
 					"Text": {
 						"PT": "As pessoas me elogiam por estar sempre atento ao bem-estar das pessoas, tentando trazer um ambiente onde todos se sintam seguros",
 						"EN": "People praise me for being always alert to people welfare, trying to bring an environment where everyone feels safe",
-						"NL": "Mensen prijzen mij omdat ik altijd alert ben op het welzijn van mensen en probeer een omgeving te creëren waarin iedereen zich veilig voelt",
-						"ES": "La gente me elogia por estar siempre alerta al bienestar de las personas, tratando de crear un entorno donde todos se sientan seguros.",
-						"FR": "Les gens me félicitent d'être toujours attentif au bien-être des gens, en essayant de créer un environnement dans lequel chacun se sent en sécurité.",
 						"ZZ": ""
 					}
 				}
@@ -853,9 +679,6 @@
 					"Text": {
 						"PT": "Projeto de representação gráfica de métricas ágeis",
 						"EN": "Agile metrics graphical representation project",
-						"NL": "Agile metrics grafisch representatieproject",
-						"ES": "Proyecto de representación gráfica de métricas ágiles.",
-						"FR": "Projet de représentation graphique de métriques agiles",
 						"ZZ": ""
 					},
 					"Tools": "Typescript, Node"
@@ -864,9 +687,6 @@
 					"Text": {
 						"PT": "Site para imobiliária",
 						"EN": "Real estate agency website",
-						"NL": "Website van makelaarskantoor",
-						"ES": "Sitio web de la agencia inmobiliaria",
-						"FR": "Site de l'agence immobilière",
 						"ZZ": ""
 					},
 					"Tools": "Java, Node, Angular"
@@ -875,9 +695,6 @@
 					"Text": {
 						"PT": "Projeto de observação de métricas de funcionamento de infra",
 						"EN": "Infrastructure metrics for observability",
-						"NL": "Infrastructuurmetrieken voor observatie",
-						"ES": "Métricas de infraestructura para la observabilidad",
-						"FR": "Métriques d'infrastructure pour l'observabilité",
 						"ZZ": ""
 					},
 					"Tools": "C#, Docker, Grafana"
@@ -886,9 +703,6 @@
 					"Text": {
 						"PT": "Automatização de planilhas financeiras usando addon",
 						"EN": "Financial spreadsheet automation using addon",
-						"NL": "Automatisering van financiële spreadsheets met behulp van add-on",
-						"ES": "Automatización de hojas de cálculo financieras mediante complemento",
-						"FR": "Automatisation d'une feuille de calcul financière à l'aide d'un module complémentaire",
 						"ZZ": ""
 					},
 					"Tools": "Typescript, Node, Google App Script, Postgres"
@@ -897,9 +711,6 @@
 					"Text": {
 						"PT": "Sistema web para mentoria interna na empresa",
 						"EN": "Web system for enterprise internal mentoring",
-						"NL": "Websysteem voor interne mentoring van ondernemingen",
-						"ES": "Sistema web para mentoría interna empresarial",
-						"FR": "Système Web pour le mentorat interne de l'entreprise",
 						"ZZ": ""
 					},
 					"Tools": "Typescript, Node, Postgres"
@@ -913,25 +724,16 @@
 			"EnterpriseDescription": {
 				"PT": "Intermediadora entre empresas seguradoras e distribuidoras",
 				"EN": "Intermediary between insurers and distributor companies",
-				"NL": "Intermediair tussen verzekeraars en distributeurs",
-				"ES": "Intermediario entre aseguradoras y empresas distribuidoras",
-				"FR": "Intermédiaire entre les assureurs et les sociétés distributrices",
 				"ZZ": ""
 			},
 			"Role": {
 				"PT": "Desenvolvimento Sênior",
 				"EN": "Senior Developer",
-				"NL": "Senior Software Developer",
-				"ES": "Desarrollador Senior",
-				"FR": "DEVELOPPEUR sénior",
 				"ZZ": ""
 			},
 			"Responsability": {
 				"PT": "Parte da equipe de backend do produto",
 				"EN": "Part of product backend development",
-				"NL": "Onderdeel van product-backend-ontwikkeling",
-				"ES": "Parte del desarrollo backend del producto.",
-				"FR": "Une partie du développement backend du produit",
 				"ZZ": ""
 			},
 			"Details": [
@@ -939,9 +741,6 @@
 					"Text": {
 						"PT": "Trabalho em equipe para desenvolver customizações para clientes no produto. Eu desenvolvo em Node usando a ferramenta Node-RED e em APIs em Python.",
 						"EN": "I work in a team to develop customization for clients in the product. I develop in Node using the Node-RED tool in the Python core APIs.",
-						"NL": "Ik werk in teamverband aan het ontwikkelen van maatwerk voor klanten in het product. Ik ontwikkel in Node met behulp van de Node-RED-tool in de Python-kern-API's.",
-						"ES": "Trabajo en equipo para desarrollar personalizaciones para los clientes en el producto. Desarrollo en Node usando la herramienta Node-RED en las API principales de Python.",
-						"FR": "Je travaille en équipe pour développer des personnalisations pour les clients dans le produit. Je développe dans Node en utilisant l'outil Node-RED dans les API principales de Python.",
 						"ZZ": ""
 					}
 				}
@@ -951,9 +750,6 @@
 					"Text": {
 						"PT": "-",
 						"EN": "-",
-						"NL": "-",
-						"ES": "-",
-						"FR": "-",
 						"ZZ": ""
 					}
 				}
@@ -963,9 +759,6 @@
 					"Text": {
 						"PT": "Desenvolvimento em interface gráfica no browser com a ferramenta Node-RED",
 						"EN": "Development in browser graphical interface via Node-RED",
-						"NL": "Ontwikkeling in grafische browserinterface via Node-RED",
-						"ES": "Desarrollo en interfaz gráfica del navegador vía Node-RED",
-						"FR": "Développement dans l'interface graphique du navigateur via Node-RED",
 						"ZZ": ""
 					},
 					"Tools": "Node"
@@ -974,9 +767,6 @@
 					"Text": {
 						"PT": "Adição de novas funcionalidades e correção de bugs em APIs REST",
 						"EN": "New features and bug fixes in REST API",
-						"NL": "Nieuwe functies en bugfixes in REST API",
-						"ES": "Nuevas funciones y correcciones de errores en REST API",
-						"FR": "Nouvelles fonctionnalités et corrections de bugs dans l'API REST",
 						"ZZ": ""
 					},
 					"Tools": "Python"
@@ -990,25 +780,16 @@
 			"EnterpriseDescription": {
 				"PT": "Empresa de tecnologia e inovação que trabalha com metodologias ágeis e possui cultura de aprendizado contínuo. Possui projetos de diversos contextos técnicos, tais como sistemas web, aplicações mobile, consultoria e análise de negócio.",
 				"EN": "Technology and innovation enterprise which uses agile methodologies and has a continuous learning culture. Develop project in a variety of technical contexts as web systems, mobile apps, consulting and business analysis.",
-				"NL": "Technologie- en innovatieonderneming die gebruik maakt van agile methodologieën en een continue leercultuur heeft. Ontwikkel projecten in verschillende technische contexten, zoals websystemen, mobiele apps, advies en bedrijfsanalyse.",
-				"ES": "Empresa de tecnología e innovación que utiliza metodologías ágiles y tiene una cultura de aprendizaje continuo. Desarrollar proyectos en una variedad de contextos técnicos como sistemas web, aplicaciones móviles, consultoría y análisis de negocios.",
-				"FR": "Entreprise de technologie et d’innovation qui utilise des méthodologies agiles et possède une culture d’apprentissage continu. Développer des projets dans une variété de contextes techniques tels que les systèmes Web, les applications mobiles, le conseil et l'analyse commerciale.",
 				"ZZ": ""
 			},
 			"Role": {
 				"PT": "Consultor Sênior Freelance",
 				"EN": "Senior Developer Part Time",
-				"NL": "Senior ontwikkelaar parttime",
-				"ES": "Desarrollador sénior a tiempo parcial",
-				"FR": "Développeur senior à temps partiel",
 				"ZZ": ""
 			},
 			"Responsability": {
 				"PT": "Desenvolvimento Backend e Frontend",
 				"EN": "Backend and Frontend Development",
-				"NL": "Back-end en front-end softwareontwikkeling",
-				"ES": "Desarrollo backend y frontend",
-				"FR": "Développement back-end et front-end",
 				"ZZ": ""
 			},
 			"Details": [
@@ -1016,9 +797,6 @@
 					"Text": {
 						"PT": "Trabalhei em dois projetos que precisavam de um reforço nos times, desenvolvendo, revisando código e auxiliando em decisões técnicas.",
 						"EN": "I worked in two projects that was in the need of technical reinforcement, developing, reviewing code and helping on technical decisions.",
-						"NL": "Ik werkte in twee projecten die behoefte hadden aan technische versterking, het ontwikkelen, beoordelen van code en het helpen bij technische beslissingen.",
-						"ES": "Trabajé en dos proyectos que necesitaban refuerzo técnico, desarrollando, revisando código y ayudando en decisiones técnicas.",
-						"FR": "J'ai travaillé sur deux projets qui avaient besoin d'un renforcement technique, en développant, en révisant le code et en aidant aux décisions techniques.",
 						"ZZ": ""
 					}
 				}
@@ -1028,9 +806,6 @@
 					"Text": {
 						"PT": "-",
 						"EN": "-",
-						"NL": "-",
-						"ES": "-",
-						"FR": "-",
 						"ZZ": ""
 					}
 				}
@@ -1040,9 +815,6 @@
 					"Text": {
 						"PT": "Sistema online para Programa de Relacionamento entre empresa e clientes",
 						"EN": "Client/company relationship program Web System",
-						"NL": "Klant/bedrijf relatieprogramma Web System",
-						"ES": "Programa de relación cliente/empresa Sistema Web",
-						"FR": "Programme de relation client/entreprise Web System",
 						"ZZ": ""
 					},
 					"Tools": "Java, Spring Boot, Postgres, Docker"
@@ -1051,9 +823,6 @@
 					"Text": {
 						"PT": "Sistema online de registro e acompanhamento de contratos",
 						"EN": "Covenants register and follow up Web System",
-						"NL": "Convenanten registreren en opvolgen Websysteem",
-						"ES": "Registro y seguimiento de convenios Sistema Web",
-						"FR": "Enregistrement et suivi des engagements Système Web",
 						"ZZ": ""
 					},
 					"Tools": "Java, Spring Boot, Postgres, Docker, React"
@@ -1064,9 +833,6 @@
 	"ProfilesTitle": {
 		"PT": "Perfis",
 		"EN": "Profiles",
-		"NL": "Profielen",
-		"ES": "Perfiles",
-		"FR": "Profils",
 		"ZZ": ""
 	},
 	"Profiles": [
@@ -1086,9 +852,6 @@
 	"IndependentTitle": {
 		"PT": "Projetos Independentes",
 		"EN": "Independent projects",
-		"NL": "Onafhankelijke projecten",
-		"ES": "Proyectos independientes",
-		"FR": "Projets indépendants",
 		"ZZ": ""
 	},
 	"Independent": [
@@ -1099,17 +862,11 @@
 			"EnterpriseDescription": {
 				"PT": "É um sistema de gerenciamento financeiro que visa uma forma simples de gerenciar os ganhos e gastos de uma pessoa.",
 				"EN": "It is a financial management system built to be a simple way to manage a person cash inflows and outflows",
-				"NL": "Het is een financieel beheersysteem dat is gebouwd als een eenvoudige manier om de in- en uitstroom van contant geld van een persoon te beheren",
-				"ES": "Es un sistema de gestión financiera creado para ser una forma sencilla de gestionar las entradas y salidas de efectivo de una persona.",
-				"FR": "Il s'agit d'un système de gestion financière conçu pour être un moyen simple de gérer les entrées et sorties de trésorerie d'une personne.",
 				"ZZ": ""
 			},
 			"Role": {
 				"PT": "Projeto independente",
 				"EN": "Independent project",
-				"NL": "Onafhankelijk project",
-				"ES": "Proyecto independiente",
-				"FR": "Projet indépendant",
 				"ZZ": ""
 			},
 			"Details": [
@@ -1117,9 +874,6 @@
 					"Text": {
 						"PT": "Mantenedor do sistema de gestão financeira pessoal, construído com C# .NET Core, Kotlin, Node e Rust. Para testes, utiliza BDD, TDD, puppeteer, specflow e roboeletric. Docker para execução local e no servidor, RDS DB e EC2 Linux para produção. Usa SES, Lambda e S3 para e-mails. Um dos objetivos é melhorar o CI: hoje em dia ele já roda todos os testes, o objetivo é fazer deploy também, se tornando um CD.",
 						"EN": "Maintainer of the personal financial management system, built with C# .NET Core, Kotlin, Node and Rust. For tests, using BDD, TDD, puppeteer, specflow and roboeletric. Docker for running locally and in the server, RDS DB and EC2 Linux for production. Uses SES, Lambda and S3 for e-mails. One goal is to improve the CI: nowadays it already runs all the tests, the objective is to make it deploy too, becoming a CD.",
-						"NL": "Onderhouder van het persoonlijke financiële beheersysteem, gebouwd met C# .NET Core, Kotlin, Node en Rust. Voor tests met BDD, TDD, poppenspeler, specflow en roboeletric. Docker voor lokaal gebruik en op de server, RDS DB en EC2 Linux voor productie. Gebruikt SES, Lambda en S3 voor e-mails. Eén doel is om de CI te verbeteren: tegenwoordig worden alle tests al uitgevoerd, het doel is om deze ook te laten implementeren en een CD te worden.",
-						"ES": "Mantenedor del sistema de gestión financiera personal, construido con C# .NET Core, Kotlin, Node y Rust. Para pruebas, utilizando BDD, TDD, puppeteer, specflow y roboeletric. Docker para ejecución local y en servidor, RDS DB y EC2 Linux para producción. Utiliza SES, Lambda y S3 para correos electrónicos. Un objetivo es mejorar el CI: hoy en día ya ejecuta todas las pruebas, el objetivo es hacerlo desplegar también, convirtiéndose en un CD.",
-						"FR": "Mainteneur du système de gestion financière personnelle, construit avec C# .NET Core, Kotlin, Node et Rust. Pour les tests, utilisant BDD, TDD, marionnettiste, specflow et roboeletric. Docker pour l'exécution locale et sur le serveur, RDS DB et EC2 Linux pour la production. Utilise SES, Lambda et S3 pour les e-mails. Un objectif est d'améliorer le CI : aujourd'hui il fait déjà tous les tests, l'objectif est de le faire déployer aussi, devenant un CD.",
 						"ZZ": ""
 					}
 				}
@@ -1129,9 +883,6 @@
 					"Text": {
 						"PT": "Este é um projeto que criei e mantenho desde 2010",
 						"EN": "This is a project I created and I still maintain since 2010",
-						"NL": "Dit is een project dat ik heb gemaakt en dat ik nog steeds onderhoud sinds 2010",
-						"ES": "Este es un proyecto que creé y sigo manteniendo desde 2010.",
-						"FR": "C'est un projet que j'ai créé et que je maintiens toujours depuis 2010",
 						"ZZ": ""
 					}
 				},
@@ -1139,9 +890,6 @@
 					"Text": {
 						"PT": "Possui uma boa gama de tecnologias diferentes e mantenho as bibliotecas sempre atualizadas",
 						"EN": "It has a good range of different technologies and I keep the libraries always up to date",
-						"NL": "Het heeft een goed aanbod aan verschillende technologieën en ik houd de bibliotheken altijd up-to-date",
-						"ES": "Tiene una buena gama de tecnologías diferentes y mantengo las bibliotecas siempre actualizadas.",
-						"FR": "Il dispose d'une bonne gamme de technologies différentes et je garde les bibliothèques toujours à jour",
 						"ZZ": ""
 					}
 				},
@@ -1149,9 +897,6 @@
 					"Text": {
 						"PT": "Já tive que mudar o servidor de windows para linux, dada a diferença entre real brasileiro e dólar americano estava ficando muito caro ficar com windows, então tive que planejar e executar com cautela a migração de .NET Framework para .NET Core e do Windows para o Linux depois disso",
 						"EN": "I already had to change the server from windows to linux, given the difference between Brazilian Real and US dollar it was becoming too expensive to keep it as windows, so I had to plan and execute with caution the migration from .NET Framework to .NET Core and from Windows to Linux after that",
-						"NL": "Ik moest de server al veranderen van Windows naar Linux, gezien het verschil tussen de Braziliaanse real en de Amerikaanse dollar werd het te duur om deze als Windows te behouden, dus moest ik de migratie van .NET Framework naar .NET met voorzichtigheid plannen en uitvoeren. Core en daarna van Windows naar Linux",
-						"ES": "Ya tuve que cambiar el servidor de windows a linux, dada la diferencia entre el real brasileño y el dólar americano se estaba volviendo demasiado costoso mantenerlo como windows, por lo que tuve que planificar y ejecutar con precaución la migración de .NET Framework a .NET Core y de Windows a Linux después de eso",
-						"FR": "J'ai déjà dû changer le serveur de Windows à Linux, étant donné la différence entre le réal brésilien et le dollar américain, il devenait trop cher de le conserver sous Windows, j'ai donc dû planifier et exécuter avec prudence la migration de .NET Framework vers .NET. Core et de Windows vers Linux après cela",
 						"ZZ": ""
 					}
 				}
@@ -1169,9 +914,6 @@
 					"Text": {
 						"PT": "Biblioteca principal com a lógica de negócio, com testes automatizados",
 						"EN": "Core library with business logic with automated tests",
-						"NL": "Kernbibliotheek met bedrijfslogica met geautomatiseerde tests",
-						"ES": "Biblioteca central con lógica empresarial con pruebas automatizadas",
-						"FR": "Bibliothèque principale avec logique métier avec tests automatisés",
 						"ZZ": ""
 					},
 					"Tools": ".NET, C#, NHibernate, BDD, Specflow"
@@ -1180,9 +922,6 @@
 					"Text": {
 						"PT": "Site com testes automatizados de browser",
 						"EN": "Website with browser automated tests",
-						"NL": "Website met geautomatiseerde browsertests",
-						"ES": "Sitio web con pruebas automatizadas del navegador.",
-						"FR": "Site Web avec tests automatisés du navigateur",
 						"ZZ": ""
 					},
 					"Tools": ".NET, C#, MVC, HTML, CSS, javascript, jQuery, Bootstrap, Puppeteer"
@@ -1191,9 +930,6 @@
 					"Text": {
 						"PT": "API",
 						"EN": "API",
-						"NL": "API",
-						"ES": "API",
-						"FR": "API",
 						"ZZ": ""
 					},
 					"Tools": ".NET, C#, MVC"
@@ -1202,9 +938,6 @@
 					"Text": {
 						"PT": "Aplicativo Android com testes automatizados",
 						"EN": "Android app with automated tests",
-						"NL": "Android-app met geautomatiseerde tests",
-						"ES": "Aplicación de Android con pruebas automatizadas",
-						"FR": "Application Android avec tests automatisés",
 						"ZZ": ""
 					},
 					"Tools": "Kotlin, retrofit, junit, robolectric"
@@ -1213,9 +946,6 @@
 					"Text": {
 						"PT": "Banco de dados",
 						"EN": "Database",
-						"NL": "Database",
-						"ES": "Base de datos",
-						"FR": "Base de données",
 						"ZZ": ""
 					},
 					"Tools": "MySQL, AWS RDS"
@@ -1224,9 +954,6 @@
 					"Text": {
 						"PT": "Servidor web",
 						"EN": "Web Server",
-						"NL": "Web Server",
-						"ES": "Servidor web",
-						"FR": "Serveur Web",
 						"ZZ": ""
 					},
 					"Tools": "AWS EC2 / Route53, Docker"
@@ -1235,9 +962,6 @@
 					"Text": {
 						"PT": "Integração com testes automatizados rodando a cada push",
 						"EN": "Integration with automated tests running at push",
-						"NL": "Integratie met geautomatiseerde tests die op push worden uitgevoerd",
-						"ES": "Integración con pruebas automatizadas que se ejecutan al instante.",
-						"FR": "Intégration avec des tests automatisés exécutés en push",
 						"ZZ": ""
 					},
 					"Tools": "Circle CI, Docker"
@@ -1246,9 +970,6 @@
 					"Text": {
 						"PT": "Envio de e-mails para notificações a quem usa o sistema",
 						"EN": "Email to send notifications to the people who uses the system",
-						"NL": "E-mail om meldingen te sturen naar de mensen die het systeem gebruiken",
-						"ES": "Correo electrónico para enviar notificaciones a las personas que utilizan el sistema.",
-						"FR": "E-mail pour envoyer des notifications aux personnes qui utilisent le système",
 						"ZZ": ""
 					},
 					"Tools": "AWS SES / Lambda / S3"
@@ -1259,9 +980,6 @@
 	"AcademicTitle": {
 		"PT": "Formação acadêmica",
 		"EN": "Academic",
-		"NL": "Academisch onderwijs",
-		"ES": "Académico",
-		"FR": "Académique",
 		"ZZ": ""
 	},
 	"Academic": [
@@ -1270,9 +988,6 @@
 			"Description": {
 				"PT": "Desenvolvimento Web com ferramentas Dreamweaver, Fireworks e Flash",
 				"EN": "Web Development with tools Dreamweaver, Fireworks e Flash",
-				"NL": "Webontwikkeling met tools Dreamweaver, Fireworks en Flash",
-				"ES": "Desarrollo Web con herramientas Dreamweaver, Fireworks y Flash",
-				"FR": "Développement Web avec les outils Dreamweaver, Fireworks et Flash",
 				"ZZ": ""
 			},
 			"Start": "2005",
@@ -1280,9 +995,6 @@
 			"Course": {
 				"PT": "Formação Web Designer",
 				"EN": "Web Designer",
-				"NL": "Webdesigner",
-				"ES": "Diseñador web",
-				"FR": "Concepteur Web",
 				"ZZ": ""
 			}
 		},
@@ -1291,9 +1003,6 @@
 			"Description": {
 				"PT": "Análise e Programação em diversas linguagens: Pascal, C, Cobol, TSQL. Sistema Operacional Linux e fundamentos do funcionamento de Sistemas Operacionais. Documentação de sistemas.",
 				"EN": "Analysis and Programming in a number of languages: Pascal, C, Cobol, TSQL. OS Linux and fundamentals of OSs working. System documentation.",
-				"NL": "Analyse en programmering in een aantal talen: Pascal, C, Cobol, SQL. OS Linux en de basisprincipes van werkende besturingssystemen. Systeemdocumentatie.",
-				"ES": "Análisis y Programación en varios lenguajes: Pascal, C, Cobol, TSQL. SO Linux y fundamentos del funcionamiento de los SO. Documentación del sistema.",
-				"FR": "Analyse et programmation dans de nombreux langages : Pascal, C, Cobol, TSQL. OS Linux et principes fondamentaux du fonctionnement des OS. Documentation du système.",
 				"ZZ": ""
 			},
 			"Start": "2007",
@@ -1301,9 +1010,6 @@
 			"Course": {
 				"PT": "Tecnologia em Processamento de Dados",
 				"EN": "Bachelor Degree in Data Processing Technology (IT)",
-				"NL": "Bachelordiploma in gegevensverwerkingstechnologie (IT)",
-				"ES": "Licenciatura en Tecnología de Procesamiento de Datos (TI)",
-				"FR": "Baccalauréat en technologie du traitement des données (informatique)",
 				"ZZ": ""
 			}
 		},
@@ -1312,9 +1018,6 @@
 			"Description": {
 				"PT": "Nível intermediário e avançado",
 				"EN": "Intermediary and advanced levels",
-				"NL": "Intermediair en gevorderd niveau",
-				"ES": "Niveles intermedio y avanzado",
-				"FR": "Niveaux intermédiaire et avancé",
 				"ZZ": ""
 			},
 			"Start": "2008",
@@ -1322,9 +1025,6 @@
 			"Course": {
 				"PT": "Inglês leitura, escrita e conversação",
 				"EN": "English reading, writing and conversation",
-				"NL": "Engels lezen, schrijven en converseren",
-				"ES": "Lectura, escritura y conversación en inglés.",
-				"FR": "Lecture, écriture et conversation en anglais",
 				"ZZ": ""
 			}
 		},
@@ -1333,9 +1033,6 @@
 			"Description": {
 				"PT": "Curso de .NET Framework sobre funcionalidades base e avançadas",
 				"EN": "Course about .NET Framework with Core and Advanced functionalities",
-				"NL": "Cursus over .NET Framework met Core en Advanced functionaliteiten",
-				"ES": "Curso sobre .NET Framework con funcionalidades Core y Advanced",
-				"FR": "Cours sur .NET Framework avec fonctionnalités Core et Advanced",
 				"ZZ": ""
 			},
 			"Start": "2011",
@@ -1347,9 +1044,6 @@
 			"Description": {
 				"PT": "Pós-graduação focada em Jogos usando Unity 3D. Aprendido desde o projeto do jogo e design, música, modelagem e programação.",
 				"EN": "Post graduation focused in Games using Unity 3D. Learned from game project and design, music, modeling and programming.",
-				"NL": "Na het afstuderen gericht op games met Unity 3D. Geleerd van gameproject en -ontwerp, muziek, modellering en programmeren.",
-				"ES": "Postgrado enfocado en Juegos usando Unity 3D. Aprendí del proyecto y diseño de juegos, música, modelado y programación.",
-				"FR": "Post-diplôme axé sur les jeux utilisant Unity 3D. Appris du projet et de la conception de jeux, de la musique, de la modélisation et de la programmation.",
 				"ZZ": ""
 			},
 			"Start": "2013",
@@ -1357,9 +1051,6 @@
 			"Course": {
 				"PT": "Pós Graduação em Games: Produção e Programação",
 				"EN": "Post-graduation - Games: Production and Programming",
-				"NL": "Postdoctoraal - Games: productie en programmering",
-				"ES": "Postgrado - Juegos: Producción y Programación",
-				"FR": "Post-diplôme - Jeux : Production et Programmation",
 				"ZZ": ""
 			}
 		},
@@ -1389,9 +1080,6 @@
 			"Title": {
 				"PT": "Eventos comparecidos",
 				"EN": "Attended events",
-				"NL": "Bijgewoonde evenementen",
-				"ES": "Eventos asistidos",
-				"FR": "Événements auxquels nous avons participé",
 				"ZZ": ""
 			},
 			"Items": [
@@ -1437,9 +1125,6 @@
 			"Title": {
 				"PT": "Talks - canal Pagar.me",
 				"EN": "Talks - Pagar.me channel - in portuguese",
-				"NL": "Talks - Pagar.me-kanaal - in het Portugees",
-				"ES": "Charlas - canal Pagar.me - en portugués",
-				"FR": "Discussions - Chaîne Pagar.me - en portugais",
 				"ZZ": ""
 			},
 			"Items": [
@@ -1447,9 +1132,6 @@
 					"Description": {
 						"PT": "Números binários",
 						"EN": "Binary numbers",
-						"NL": "Binaire getallen",
-						"ES": "Numeros binarios",
-						"FR": "Nombres binaires",
 						"ZZ": ""
 					},
 					"Url": "https://www.youtube.com/watch?v=SNnO1ki2t78"
@@ -1458,9 +1140,6 @@
 					"Description": {
 						"PT": "Pessoas Trans",
 						"EN": "Transgender people",
-						"NL": "Transgenders",
-						"ES": "personas transgénero",
-						"FR": "Personnes transgenres",
 						"ZZ": ""
 					},
 					"Url": "https://www.youtube.com/watch?v=XAwhx1AZQIU&t"
@@ -1469,9 +1148,6 @@
 					"Description": {
 						"PT": "De Java a Kotlin",
 						"EN": "From Java to Kotlin",
-						"NL": "Van Java tot Kotlin",
-						"ES": "De Java a Kotlin",
-						"FR": "De Java à Kotlin",
 						"ZZ": ""
 					},
 					"Url": "https://www.youtube.com/watch?v=xcCLjD3kJRQ"
@@ -1484,9 +1160,6 @@
 					"Description": {
 						"PT": "Como tirar gênero de textos (de forma natural)",
 						"EN": "How to remove gender from text (in portuguese it is harder than english)",
-						"NL": "Hoe geslacht uit tekst te verwijderen (in het Portugees en Latijn is dit moeilijker)",
-						"ES": "Cómo eliminar el género del texto",
-						"FR": "Comment supprimer le genre d'un texte",
 						"ZZ": ""
 					},
 					"Url": "https://www.youtube.com/watch?v=BMQRGt2T-sw"
