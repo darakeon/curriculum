@@ -260,7 +260,7 @@ function processChildren(html, childHtmlName, regex, content, lang) {
 }
 
 function sort(content) {
-	if (!content[0].Start) return content
+	if (!content.length || !content[0].Start) return content
 
 	content = content.sort((a, b) => {
 		if (a.End == b.End) {
@@ -281,7 +281,7 @@ function sort(content) {
 }
 
 function translateAndAddDates(content, lang) {
-	if (!content[0].Start) return content
+	if (!content.length || !content[0].Start) return content
 
 	content = content.map((e) => {
 		e.StartText = toDate(e.Start, lang)
