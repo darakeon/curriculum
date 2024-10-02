@@ -5,7 +5,13 @@
 
 		<style>
 			* {
-				font-family: {{Font}};
+				font-family: {{FontScreen}};
+			}
+
+			@media print {
+				* {
+					font-family: {{FontPrint}};
+				}
 			}
 
 			li:before {

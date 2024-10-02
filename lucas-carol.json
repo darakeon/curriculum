@@ -32,7 +32,8 @@
 	"SubtitleColor": "511",
 	"DarkColor": "622",
 	"LightColor": "FAA",
-	"Font": "Calibri",
+	"FontScreen": "Calibri",
+	"FontPrint": "Arial",
 	"CoverLetterTitle": {
 		"PT": "carta de apresentação",
 		"EN": "cover letter",
