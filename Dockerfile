@@ -4,7 +4,7 @@ RUN maintain
 
 RUN apt-get install -y nodejs
 
-COPY . /var/www
+COPY src /var/www
 
 EXPOSE 3000
 

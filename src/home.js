@@ -144,7 +144,7 @@ const server = http.createServer((req, res) => {
 	const person = path[1]
 	const lang = path[2]
 
-	const json = `./${person}.json`
+	const json = `./content/${person}.json`
 	if (!fs.existsSync(json)) {
 		const message = `not found ${json}`
 		return exit(res, 404, 'plain', message)
@@ -172,7 +172,7 @@ function exit(res, code, type, result) {
 }
 
 function getFile(name) {
-	name = `content/${name.toLowerCase()}`
+	name = `structure/${name.toLowerCase()}`
 
 	if (fs.existsSync(name))
 		return fs.readFileSync(name).toString()
