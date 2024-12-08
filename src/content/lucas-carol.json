@@ -746,15 +746,7 @@
 					}
 				}
 			],
-			"Highlights": [
-				{
-					"Text": {
-						"PT": "-",
-						"EN": "-",
-						"ZZ": ""
-					}
-				}
-			],
+			"Highlights": [],
 			"Projects": [
 				{
 					"Text": {
@@ -802,15 +794,7 @@
 					}
 				}
 			],
-			"Highlights": [
-				{
-					"Text": {
-						"PT": "-",
-						"EN": "-",
-						"ZZ": ""
-					}
-				}
-			],
+			"Highlights": [],
 			"Projects": [
 				{
 					"Text": {
@@ -858,15 +842,7 @@
 					}
 				}
 			],
-			"Highlights": [
-				{
-					"Text": {
-						"PT": "-",
-						"EN": "-",
-						"ZZ": ""
-					}
-				}
-			],
+			"Highlights": [],
 			"Projects": []
 		}
 	],
