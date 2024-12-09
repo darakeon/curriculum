@@ -1,0 +1,28 @@
+{
+  "name": "curriculum-dk",
+  "version": "1.0.0",
+  "description": "Dara Keon's curriculum",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darakeon/curriculum.git"
+  },
+  "keywords": [
+    "curriculum",
+    "developer"
+  ],
+  "author": "Dara Keon",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/darakeon/curriculum/issues"
+  },
+  "homepage": "https://github.com/darakeon/curriculum#readme",
+  "dependencies": {
+    "next": "^15.0.4",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}

@@ -27,13 +27,6 @@
 			"Value": "+351 912 646 993"
 		}
 	],
-	"Marker": "LCSD",
-	"TitleColor": "204",
-	"SubtitleColor": "511",
-	"DarkColor": "622",
-	"LightColor": "FAA",
-	"FontScreen": "Calibri",
-	"FontPrint": "Arial",
 	"CoverLetterTitle": {
 		"PT": "carta de apresentação",
 		"EN": "cover letter",

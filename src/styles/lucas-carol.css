@@ -1,0 +1,20 @@
+* {
+    font-family: Calibri;
+}
+
+@media print {
+    * {
+        font-family: Arial;
+    }
+}
+
+li:before {
+    content: 'LCSD ';
+}
+
+:root {
+    --title: #204;
+    --subtitle: #511;
+    --dark: #622;
+    --light: #FAA;
+}
