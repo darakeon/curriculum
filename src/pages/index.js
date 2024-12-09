@@ -1,4 +1,4 @@
-import content from "../content/lucas-carol.json"
+import content from "./lucas-carol.json"
 import CoverLetter from "./cover-letter"
 import Knowledge from "./knowledge"
 import Curriculum from "./curriculum"
