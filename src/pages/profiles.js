@@ -1,5 +1,5 @@
 function Profiles({ content, lang }) {
-	return (
+	return (content &&
 		<div className="keep-together">
 			<h3>{content.ProfilesTitle[lang]}</h3>
 			{content.Profiles.map((p, pi) => (

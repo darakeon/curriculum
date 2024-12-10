@@ -2,7 +2,7 @@ import sortByDates from "../utils/sort-by-dates"
 import toHumanDate from "../utils/to-human-date"
 
 function Professional({ content, lang }) {
-	return (
+	return (content &&
 		<div>
 			<h3>{content.ProfessionalTitle[lang]}</h3>
 			{sortByDates(content.Professional).map((p, pi) => (

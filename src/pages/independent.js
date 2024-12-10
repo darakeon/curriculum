@@ -1,7 +1,7 @@
 import toHumanDate from "../utils/to-human-date"
 
 function Independent({ content, lang }) {
-	return (
+	return (content &&
 		<div>
 			<h3>{content.IndependentTitle[lang]}</h3>
 			{content.Independent.map((i, ii) => (

@@ -1,7 +1,7 @@
 import { Fragment } from "react"
 
 function Knowledge({ content, lang }) {
-	return (
+	return (content &&
 		<section className="knowledges">
 			<h2>{content.KnowledgesTitle[lang]}</h2>
 
