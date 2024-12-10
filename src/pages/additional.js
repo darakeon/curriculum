@@ -1,5 +1,5 @@
 function Additional({ content, lang }) {
-	return (
+	return (content && content.Additional &&
 		<div>
 			{content.Additional.map((a, ai) => (
 				<div className="keep-together" key={ai}>
