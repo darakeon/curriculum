@@ -1,7 +1,7 @@
 import { Fragment } from 'react'
 
 function CoverLetter({ content, lang }) {
-	return (
+	return (content && content.CoverLetterTitle &&
 		<section className="cover-letter">
 			<h1>{content.CoverLetterTitle[lang]}</h1>
 			<h2 className="copy-me">{content.Name}</h2>
