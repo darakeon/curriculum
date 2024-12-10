@@ -7,7 +7,7 @@ import Independent from "./independent"
 import Additional from "./additional"
 
 function Curriculum({ content, lang }) {
-	return (
+	return (content &&
 		<section className="curriculum">
 			<h2 className="copy-me">{content.Name}</h2>
 			<dl>
