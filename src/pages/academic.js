@@ -2,9 +2,9 @@ import sortByDates from "../utils/sort-by-dates"
 import toHumanDate from "../utils/to-human-date"
 
 function Academic({ content, lang }) {
-	return (
+	return (content.AcademicTitle &&
 		<div>
-			<h3>{content.AcademicTitle && content.AcademicTitle[lang]}</h3>
+			<h3>{content.AcademicTitle[lang]}</h3>
 			{sortByDates(content.Academic).map((a, ai) => (
 				<div className="keep-together academic" key={ai}>
 					<div className="date">
