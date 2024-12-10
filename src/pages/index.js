@@ -6,7 +6,7 @@ import Curriculum from "./curriculum"
 function Home() {
 	const lang = "EN"
 
-	return (
+	return (content &&
 		<>
 			<CoverLetter content={content} lang={lang} />
 			<Knowledge content={content} lang={lang} />
