@@ -70,8 +70,15 @@
 		},
 		{
 			"Paragraph": {
-				"PT": "Hoje em dia trabalho na filial Portuguesa de uma companhia dos Estados Unidos, no time de desenvolvimento backend. Usamos a ferramenta Node-RED e Python para desenvolver customizações para clientes no sistema que conecta seguradoras e distribuidoras. Me mudei para Portugal para estar próximo a empresa e trabalhar presencial um dia por semana.",
-				"EN": "Nowadays I work in the Portuguese branch of a United States company in the backend development team. We use Python for API and Node with Node-RED to develop customization for clients in the system that connects insurers and distributors. I moved to Portugal to be closer to the company, working in the site once a week.",
+				"PT": "Entre 2023 e 2024 trabalhei em uma empresa Portuguesa, no time de desenvolvimento backend. Usamos a ferramenta Node-RED e Python para desenvolver customizações para clientes no sistema que conecta seguradoras e distribuidoras. Me mudei para Portugal para estar próximo a empresa e trabalhar presencial um dia por semana.",
+				"EN": "Between 2023 and 2024 I worked in the Portuguesecompany in the backend development team. We use Python for API and Node with Node-RED to develop customization for clients in the system that connects insurers and distributors. I moved to Portugal to be closer to the company, working in the site once a week.",
+				"ZZ": ""
+			}
+		},
+		{
+			"Paragraph": {
+				"PT": "No final de 2024, entrei para uma consultoria global para trabalhar em projetos de desenvolvimento web. Embora eu tenha sido contratado inicialmente para C# e React, já contribuí para outro projeto, onde necessidades urgentes exigiam minha senioridade e expertise além do escopo original.",
+				"EN": "At the end of 2024, I joined a global consultancy to work on web development projects. Although I was initially hired for C# and React, I have already contributed to another project, where urgent needs required my seniority and expertise beyond the original scope.",
 				"ZZ": ""
 			}
 		},
