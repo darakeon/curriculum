@@ -877,14 +877,31 @@
 			"Details": [
 				{
 					"Text": {
-						"PT": "Desenvolvimento com ReactJS e .NET Core",
-						"EN": "Development using ReactJS and .NET Core",
+						"PT": "Trabalho em projetos de integração de sistemas e desenvolvimento web. O primeiro projeto envolveu a integração de um aplicativo web Java com um programa Java local para interagir com uma biblioteca C++ para reconhecimento biométrico. Outro projeto focou no desenvolvimento de um sistema web baseado em microsserviços usando C#, .NET Core e Azure, centrado em desenvolvimento de backend e testes automatizados.",
+						"EN": "Working on system integration and web development projects. One project involved integrating a Java web application with a local Java program to interface with a C++ library for biometric recognition. Another project is developing a microservices-based web system using C#, .NET Core, and Azure, with a focus on backend development and automated testing.",
 						"ZZ": ""
 					}
 				}
 			],
 			"Highlights": [],
-			"Projects": []
+			"Projects": [
+				{
+					"Text": {
+						"PT": "Sistema de integração com biometria",
+						"EN": "Biometric system integration",
+						"ZZ": ""
+					},
+					"Tools": "Java, C++, Websocket, Keycloak"
+				},
+				{
+					"Text": {
+						"PT": "Projeto com microserviços para menu de restaurante",
+						"EN": "Web system for restaurant menu",
+						"ZZ": ""
+					},
+					"Tools": "Microservices, C#, .NET Core, Azure"
+				}
+			]
 		}
 	],
 	"ProfilesTitle": {
