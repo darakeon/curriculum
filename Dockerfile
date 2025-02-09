@@ -10,7 +10,8 @@ EXPOSE 3000
 
 WORKDIR /var/www
 
-ENV PERSON lucas-carol
-ENV LANGUAGE EN
+ENV PERSON=lucas-carol
+ENV LANGUAGE=EN
 
+SHELL ["/bin/bash", "-c"]
 CMD node home.js
