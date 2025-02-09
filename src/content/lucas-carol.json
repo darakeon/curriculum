@@ -83,12 +83,12 @@
 			}
 		}
 	],
-	"KnowledgesTitle": {
+	"SkillsTitle": {
 		"PT": "Conhecimento",
 		"EN": "Skills",
 		"ZZ": ""
 	},
-	"KnowledgesList": [
+	"SkillsList": [
 		{
 			"Tech": ".NET",
 			"Level": 5

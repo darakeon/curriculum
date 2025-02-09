@@ -164,7 +164,7 @@ ul.columns li {
 	padding-inline-end: 1em;
 }
 
-.cover-letter, .knowledges {
+.cover-letter, .skills {
 	page-break-after: always;
 }
 
@@ -182,41 +182,41 @@ ul.columns li {
 	display: none;
 }
 
-.knowledges {
+.skills {
 	text-align: center;
 }
 
-	span.knowledge {
+	span.skill {
 		white-space: nowrap;
 		margin: 0 0.2em;
 	}
 
-	span.knowledge-break {
+	span.skill-break {
 		color: #FFF;
 		font-size: 0.1em;
 	}
 
-	span.knowledge.level-1 {
+	span.skill.level-1 {
 		font-size: 1.5em;
 	}
 
-	span.knowledge.level-2 {
+	span.skill.level-2 {
 		font-size: 2.4em;
 	}
 
-	span.knowledge.level-3 {
+	span.skill.level-3 {
 		font-size: 3.3em;
 	}
 
-	span.knowledge.level-4 {
+	span.skill.level-4 {
 		font-size: 4.2em;
 	}
 
-	span.knowledge.level-5 {
+	span.skill.level-5 {
 		font-size: 5.1em;
 	}
 
-	span.knowledge.level-1 ~ span.knowledge.level-1 {
+	span.skill.level-1 ~ span.skill.level-1 {
 		content: '-';
 	}
 
