@@ -808,6 +808,54 @@
 			]
 		},
 		{
+			"Enterprise": "Inspira Tecnologia",
+			"Start": "2024-11",
+			"End": "2024-12",
+			"EnterpriseDescription": {
+				"PT": "Empresa de tecnologia e inovação que trabalha com metodologias ágeis e possui cultura de aprendizado contínuo. Possui projetos de diversos contextos técnicos, tais como sistemas web, aplicações mobile, consultoria e análise de negócio.",
+				"EN": "Technology and innovation enterprise which uses agile methodologies and has a continuous learning culture. Develop project in a variety of technical contexts as web systems, mobile apps, consulting and business analysis.",
+				"ZZ": ""
+			},
+			"Role": {
+				"PT": "Consultor Sênior Freelance",
+				"EN": "Senior Developer Part Time",
+				"ZZ": ""
+			},
+			"Responsability": {
+				"PT": "Desenvolvimento Backend e Frontend",
+				"EN": "Backend and Frontend Development",
+				"ZZ": ""
+			},
+			"Details": [
+				{
+					"Text": {
+						"PT": "Trabalhei na manutenção e aprimoramento de dois aplicativos. Um era um aplicativo de localização de carros, onde trabalhei com Dart e Flutter para melhorar a funcionalidade e corrigir problemas. O outro era um sistema de gerenciamento de serviços de reparo para filiais de restaurantes, revisando o código e corrigindo bugs no aplicativo móvel (Dart, Flutter) e na plataforma web (Python, Django).",
+						"EN": "Worked on the maintenance and enhancement of two applications. One was a car localization app, where I worked with Dart and Flutter to improve functionality and fix issues. The other was a repair service management system for restaurant branches, reviewing code and fix bugs in both the mobile app (Dart, Flutter) and the web platform (Python, Django).",
+						"ZZ": ""
+					}
+				}
+			],
+			"Highlights": [],
+			"Projects": [
+				{
+					"Text": {
+						"PT": "App para localização de veículos",
+						"EN": "Cars localization app",
+						"ZZ": ""
+					},
+					"Tools": "Dart, Flutter"
+				},
+				{
+					"Text": {
+						"PT": "Sistema de gerenciamento de serviços de reparo para filiais de restaurantes",
+						"EN": "Restaurant branches repair service management system",
+						"ZZ": ""
+					},
+					"Tools": "Dart, Flutter, Python, Django"
+				}
+			]
+		},
+		{
 			"Enterprise": "Hitachi Digital Services",
 			"Start": "2024-09",
 			"End": null,
