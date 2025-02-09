@@ -10,7 +10,7 @@ run:
 	@docker run -d --name ${MACHINE_NAME} --network host ${IMAGE_NAME}
 
 run-dev:
-	@docker run -d --name ${MACHINE_NAME} -v ${PWD}:/var/www --network host ${IMAGE_NAME}
+	@cd src && npm i && npm run dev
 
 log:
 	@docker logs ${MACHINE_NAME}
