@@ -158,20 +158,28 @@
 			"Level": 4
 		},
 		{
-			"Tech": "Django",
+			"Tech": "Dart",
 			"Level": 2
+		},
+		{
+			"Tech": "Django",
+			"Level": 3
 		},
 		{
 			"Tech": "Docker",
-			"Level": 2
+			"Level": 3
 		},
 		{
 			"Tech": "Docker Compose",
+			"Level": 3
+		},
+		{
+			"Tech": "Flutter",
 			"Level": 2
 		},
 		{
 			"Tech": "GCP",
-			"Level": 1
+			"Level": 2
 		},
 		{
 			"Tech": "git",
@@ -207,7 +215,7 @@
 		},
 		{
 			"Tech": "Kanban",
-			"Level": 4
+			"Level": 5
 		},
 		{
 			"Tech": "Kotlin",
@@ -219,7 +227,7 @@
 		},
 		{
 			"Tech": "Microservices",
-			"Level": 2
+			"Level": 3
 		},
 		{
 			"Tech": "Mobile",
@@ -239,11 +247,11 @@
 		},
 		{
 			"Tech": "Node",
-			"Level": 2
+			"Level": 3
 		},
 		{
 			"Tech": "Node-RED",
-			"Level": 1
+			"Level": 2
 		},
 		{
 			"Tech": "PostgreSQL",
@@ -255,11 +263,11 @@
 		},
 		{
 			"Tech": "Python",
-			"Level": 2
+			"Level": 3
 		},
 		{
 			"Tech": "React",
-			"Level": 1
+			"Level": 2
 		},
 		{
 			"Tech": "Rust",
@@ -267,7 +275,7 @@
 		},
 		{
 			"Tech": "Scrum",
-			"Level": 3
+			"Level": 4
 		},
 		{
 			"Tech": "Selenium",
@@ -279,7 +287,7 @@
 		},
 		{
 			"Tech": "Specflow",
-			"Level": 2
+			"Level": 3
 		},
 		{
 			"Tech": "SQL",
@@ -287,7 +295,7 @@
 		},
 		{
 			"Tech": "SQL Server",
-			"Level": 2
+			"Level": 3
 		},
 		{
 			"Tech": "SQLite",
@@ -299,7 +307,7 @@
 		},
 		{
 			"Tech": "Terraform",
-			"Level": 1
+			"Level": 2
 		},
 		{
 			"Tech": "TypeScript",
