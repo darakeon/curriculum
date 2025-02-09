@@ -1,4 +1,4 @@
-function Additional({ content, lang }) {
+function Additional({ content, lang, copier }) {
 	return (content &&
 		<div>
 			{content.Additional.map((a, ai) => (
@@ -8,7 +8,7 @@ function Additional({ content, lang }) {
 					<ul>
 						{a.Items.map((i, ii) => (
 							<li key={ii}>
-								<span className="copy-me">
+								<span className="copy-me" onClick={copier}>
 									{i.Description[lang] ?? i.Description}
 								</span>
 								<span className="additional-item-url copy-me">

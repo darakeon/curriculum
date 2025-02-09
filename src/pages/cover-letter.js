@@ -1,20 +1,20 @@
 import { Fragment } from 'react'
 
-function CoverLetter({ content, lang }) {
+function CoverLetter({ content, lang, copier }) {
 	return (content &&
 		<section className="cover-letter">
 			<h1>{content.CoverLetterTitle[lang]}</h1>
-			<h2 className="copy-me">{content.Name}</h2>
+			<h2 className="copy-me" onClick={copier}>{content.Name}</h2>
 			<dl>
 				{content.Contacts.map((c, ci) => (
 					<Fragment key={ci}>
 						<dt>{c.Name[lang] ?? c.Name}</dt>
-						<dd className="copy-me">{c.Value}</dd>
+						<dd className="copy-me" onClick={copier}>{c.Value}</dd>
 					</Fragment>
 				))}
 			</dl>
 
-			<article className="copy-me">
+			<article className="copy-me" onClick={copier}>
 				{content.CoverLetter.map((c, ci) => (
 					<p key={ci}>{c.Paragraph[lang]}</p>
 				))}

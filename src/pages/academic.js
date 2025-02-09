@@ -1,7 +1,7 @@
 import sortByDates from "../utils/sort-by-dates"
 import toHumanDate from "../utils/to-human-date"
 
-function Academic({ content, lang }) {
+function Academic({ content, lang, copier }) {
 	return (content &&
 		<div>
 			<h3>{content.AcademicTitle[lang]}</h3>
@@ -18,17 +18,17 @@ function Academic({ content, lang }) {
 					</div>
 
 					<h4>
-						<span className="copy-me">{a.Instituition}</span>
-						<small className="copy-me">
+						<span className="copy-me" onClick={copier}>{a.Instituition}</span>
+						<small className="copy-me" onClick={copier}>
 							{a.Course[lang] ?? a.Course}
 						</small>
 					</h4>
 
 					<div>
-						<span className="copy-me">
+						<span className="copy-me" onClick={copier}>
 							{a.Description && a.Description[lang]}
 						</span>
-						<ul className="copy-me">
+						<ul className="copy-me" onClick={copier}>
 							{a.Modules &&
 								a.Modules.map((m, mi) => <li key={mi}>{m}</li>)}
 						</ul>

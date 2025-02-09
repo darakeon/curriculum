@@ -1,11 +1,11 @@
 import { Fragment } from "react"
 
-function Skills({ content, lang }) {
+function Skills({ content, lang, copier }) {
 	return (content &&
 		<section className="skills">
 			<h2>{content.SkillsTitle[lang]}</h2>
 
-			<div className="copy-me">
+			<div className="copy-me" onClick={copier}>
 				{content.SkillsList.map((k, ki) => (
 					<Fragment key={ki}>
 						<span className={"skill level-" + k.Level}>
