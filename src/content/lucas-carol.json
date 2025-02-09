@@ -961,35 +961,20 @@
 			"Details": [
 				{
 					"Text": {
-						"PT": "Mantenedor do sistema de gestão financeira pessoal, construído com C# .NET Core, Kotlin, Node e Rust. Para testes, utiliza BDD, TDD, puppeteer, specflow e roboeletric. Docker para execução local e no servidor, RDS DB e EC2 Linux para produção. Usa SES, Lambda e S3 para e-mails. Um dos objetivos é melhorar o CI: hoje em dia ele já roda todos os testes, o objetivo é fazer deploy também, se tornando um CD.",
-						"EN": "Maintainer of the personal financial management system, built with C# .NET Core, Kotlin, Node and Rust. For tests, using BDD, TDD, puppeteer, specflow and roboeletric. Docker for running locally and in the server, RDS DB and EC2 Linux for production. Uses SES, Lambda and S3 for e-mails. One goal is to improve the CI: nowadays it already runs all the tests, the objective is to make it deploy too, becoming a CD.",
-						"ZZ": ""
-					}
-				}
-			],
-			"Highlights": [
-				{
-					"Text": {
-						"PT": "Este é um projeto que criei e mantenho desde 2010",
-						"EN": "This is a project I created and I still maintain since 2010",
+						"PT": "Este é um projeto que criei e mantenho desde 2010. É um sistema de gerenciamento financeiro pessoal construído com C# .NET Core, Kotlin, Node e Rust. Para testes, ele usa BDD, TDD, Puppeteer, SpecFlow e Robolectric. O sistema roda no Docker localmente e em produção, com RDS e EC2 Linux. Ele também integra SES, Lambda e S3 para envio de e-mails. Uma pipeline CI/CD garante que todos os testes sejam executados, e o site, API e aplicativo mobile sejam automaticamente atualizados em produção após a aprovação.",
+						"EN": "This is a project I created and have maintained since 2010. It is a personal financial management system built with C# .NET Core, Kotlin, Node, and Rust. For testing, it uses BDD, TDD, Puppeteer, SpecFlow, and Robolectric. The system runs on Docker both locally and in production, with RDS DB and EC2 Linux. It also integrates SES, Lambda, and S3 for email handling. A CI/CD pipeline ensures that all tests are executed, and the site, API, and mobile app are automatically deployed upon approval.",
 						"ZZ": ""
 					}
 				},
 				{
 					"Text": {
-						"PT": "Possui uma boa gama de tecnologias diferentes e mantenho as bibliotecas sempre atualizadas",
-						"EN": "It has a good range of different technologies and I keep the libraries always up to date",
-						"ZZ": ""
-					}
-				},
-				{
-					"Text": {
-						"PT": "Já tive que mudar o servidor de windows para linux, dada a diferença entre real brasileiro e dólar americano estava ficando muito caro ficar com windows, então tive que planejar e executar com cautela a migração de .NET Framework para .NET Core e do Windows para o Linux depois disso",
-						"EN": "I already had to change the server from windows to linux, given the difference between Brazilian Real and US dollar it was becoming too expensive to keep it as windows, so I had to plan and execute with caution the migration from .NET Framework to .NET Core and from Windows to Linux after that",
+						"PT": "Devido à taxa de câmbio entre o Real Brasileiro e o Dólar Americano, manter um servidor Windows se tornou muito custoso. Para resolver isso, planejei e executei cuidadosamente uma migração do .NET Framework para o .NET Core e do Windows para o Linux, garantindo uma transição sem percalços.",
+						"EN": "Due to the exchange rate between the Brazilian Real and US Dollar, maintaining a Windows server became too costly. To address this, I carefully planned and executed a migration from .NET Framework to .NET Core and from Windows to Linux, ensuring a smooth transition.",
 						"ZZ": ""
 					}
 				}
 			],
+			"Highlights": [],
 			"Urls": [
 				{
 					"Url": "http://dontflymoney.com"
