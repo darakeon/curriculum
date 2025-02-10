@@ -168,6 +168,10 @@ ul.columns li {
 	page-break-after: always;
 }
 
+.start-page {
+	page-break-before: always;
+}
+
 .keep-together {
 	page-break-inside: avoid;
 }

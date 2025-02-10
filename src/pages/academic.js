@@ -3,7 +3,7 @@ import toHumanDate from "../utils/to-human-date"
 
 function Academic({ content, lang, copier }) {
 	return (content &&
-		<div>
+		<div className="start-page">
 			<h3>{content.AcademicTitle[lang]}</h3>
 			{sortByDates(content.Academic).map((a, ai) => (
 				<div className="keep-together academic" key={ai}>

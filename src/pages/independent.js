@@ -2,7 +2,7 @@ import toHumanDate from "../utils/to-human-date"
 
 function Independent({ content, lang, copier }) {
 	return (content &&
-		<div>
+		<div className="start-page">
 			<h3>{content.IndependentTitle[lang]}</h3>
 			{content.Independent.map((i, ii) => (
 				<div className="keep-together" key={ii}>
