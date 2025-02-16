@@ -174,7 +174,7 @@ class Crowler:
 
 crowler = Crowler(
 	environ.get('LOCAL_SITE', '127.0.0.1:3000'),
-	'meak.com.br',
+	'darakeon.com',
 	environ.get('ACCESS_KEY'),
 	environ.get('SECRET_KEY'),
 	environ.get('BUCKET'),
