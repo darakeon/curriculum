@@ -1,6 +1,8 @@
 import toHumanDate from "../utils/to-human-date"
+import copyContent from "../utils/copy-content"
 
-function Independent({ content, lang, copier }) {
+
+function Independent({ content, lang }) {
 	return (content &&
 		<div className="start-page">
 			<h3>{content.IndependentTitle[lang]}</h3>
@@ -17,32 +19,32 @@ function Independent({ content, lang, copier }) {
 					</div>
 
 					<h4>
-						<span className="copy-me" onClick={copier}>{i.Enterprise}</span>
-						<small className="copy-me" onClick={copier}>
+						<span className="copy-me" onClick={copyContent}>{i.Enterprise}</span>
+						<small className="copy-me" onClick={copyContent}>
 							{i.EnterpriseDescription[lang]}
 						</small>
 					</h4>
 
 					<ul>
 						{i.Urls.map((u, ui) => (
-							<li className="copy-me" onClick={copier} key={ui}>
+							<li className="copy-me" onClick={copyContent} key={ui}>
 								{u.Url}
 							</li>
 						))}
 					</ul>
 
 					<h5>
-						<span className="copy-me" onClick={copier}>{i.Role[lang]}</span>
-						<small className="copy-me" onClick={copier}>{i.Responsability}</small>
+						<span className="copy-me" onClick={copyContent}>{i.Role[lang]}</span>
+						<small className="copy-me" onClick={copyContent}>{i.Responsability}</small>
 					</h5>
 
-					<article className="copy-me" onClick={copier}>
+					<article className="copy-me" onClick={copyContent}>
 						{i.Details.map((d, di) => (
 							<p key={di}>{d.Text[lang]}</p>
 						))}
 					</article>
 
-					<ul className="copy-me" onClick={copier}>
+					<ul className="copy-me" onClick={copyContent}>
 						{i.Highlights.map((h, hi) => (
 							<li key={hi}>{h.Text[lang]}</li>
 						))}
