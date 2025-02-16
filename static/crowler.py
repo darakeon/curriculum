@@ -123,7 +123,7 @@ class Crowler:
 
 
 	def upload_static(self):
-		site_path = path.join('..', 'content')
+		site_path = path.join('..', 'src', 'content')
 		files = self._get_files(site_path, '', r'.+\.html')
 
 		for file in files:
