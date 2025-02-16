@@ -10,8 +10,10 @@ EXPOSE 3000
 
 WORKDIR /var/www
 
+RUN npm i
+
 ENV PERSON=lucas-carol
 ENV LANGUAGE=EN
 
 SHELL ["/bin/bash", "-c"]
-CMD node home.js
+CMD npm run dev
