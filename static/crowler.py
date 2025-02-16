@@ -23,13 +23,16 @@ class Crowler:
 		self.local_url = f'http://{local_url}'
 		self.public_url = public_url
 
-		self.s3 = client(
-			's3', 
-			aws_access_key_id=access_key,
-			aws_secret_access_key=secret_key,
-		)
+		self.dry_run = not bucket
 
-		self.bucket = bucket
+		if bucket:
+			self.s3 = client(
+				's3',
+				aws_access_key_id=access_key,
+				aws_secret_access_key=secret_key,
+			)
+
+			self.bucket = bucket
 
 
 	def upload_dynamic(self):
@@ -155,6 +158,10 @@ class Crowler:
 
 
 	def _upload(self, path, object, extra_args):
+		if self.dry_run:
+			print('No bucket for ', object)
+			return
+
 		print('Upload', object)
 		self.s3.upload_file(
 			path,
@@ -166,11 +173,11 @@ class Crowler:
 
 
 crowler = Crowler(
-	environ['LOCAL_SITE'],
+	environ.get('LOCAL_SITE', '127.0.0.1:3000'),
 	'meak.com.br',
-	environ['ACCESS_KEY'],
-	environ['SECRET_KEY'],
-	environ['BUCKET'],
+	environ.get('ACCESS_KEY'),
+	environ.get('SECRET_KEY'),
+	environ.get('BUCKET'),
 )
 
 crowler.upload_dynamic()
