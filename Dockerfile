@@ -2,7 +2,7 @@ FROM darakeon/ubuntu
 LABEL maintainer="Dara Keon <laboon@darakeon.com>"
 RUN maintain
 
-RUN apt-get install -y nodejs
+RUN apt-get install -y nodejs npm
 
 COPY src /var/www
 
