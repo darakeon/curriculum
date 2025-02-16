@@ -15,13 +15,13 @@
 		background-color: #666;
 	}
 
-	body {
+	section {
 		width: 21cm;
-		margin: 0.5cm auto;
+		margin: 0.5cm auto 1cm auto;
 		padding: 1.5cm 2cm;
 		box-sizing: border-box;
 		background-color: #FFF;
-		border: #000 1px solid;
+		border: #444 1px solid;
 		box-shadow: 0px 0px 30px 0px #333;
 	}
 }
