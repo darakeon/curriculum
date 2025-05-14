@@ -779,6 +779,61 @@
 			]
 		},
 		{
+			"Enterprise": "Hitachi Digital Services",
+			"Start": "2024-09",
+			"End": null,
+			"EnterpriseDescription": {
+				"PT": "Construção de Serviços Digitais para Cloud e Data",
+				"EN": "Development of Digital Services for Cloud and Data",
+				"ZZ": ""
+			},
+			"Role": {
+				"PT": "Senior Full Stack",
+				"EN": "Senior Full Stack",
+				"ZZ": ""
+			},
+			"Responsability": {
+				"PT": "Desenvolvimento Backend e Frontend",
+				"EN": "Backend and Frontend Development",
+				"ZZ": ""
+			},
+			"Details": [
+				{
+					"Text": {
+						"PT": "Trabalho em projetos de integração de sistemas e desenvolvimento web. O primeiro projeto envolveu a integração de um aplicativo web Java com um programa Java local para interagir com uma biblioteca C++ para reconhecimento biométrico. Outro projeto focou no desenvolvimento de um sistema web baseado em microsserviços usando C#, .NET Core e Azure, centrado em desenvolvimento de backend e testes automatizados.",
+						"EN": "Working on system integration and web development projects. One project involved integrating a Java web application with a local Java program to interface with a C++ library for biometric recognition. Another project is developing a microservices-based web system using C#, .NET Core, and Azure, with a focus on backend development and automated testing.",
+						"ZZ": ""
+					}
+				}
+			],
+			"Highlights": [],
+			"Projects": [
+				{
+					"Text": {
+						"PT": "Sistema de integração com biometria",
+						"EN": "Biometric system integration",
+						"ZZ": ""
+					},
+					"Tools": "Java, C++, Websocket, Keycloak"
+				},
+				{
+					"Text": {
+						"PT": "Projeto com microserviços para menu de restaurante",
+						"EN": "Web system for restaurant menu",
+						"ZZ": ""
+					},
+					"Tools": "Microservices, C#, .NET Core, Azure"
+				}
+			]
+		}
+	],
+	"FreelanceTitle": {
+		"PT": "Outras experiências",
+		"EN": "Other experiences",
+		"ZZ": ""
+	},
+	"Freelance": [
+		{
 			"Enterprise": "Inspira Tecnologia",
 			"Start": "2023-11",
 			"End": "2024-03",
@@ -871,54 +926,6 @@
 						"ZZ": ""
 					},
 					"Tools": "Dart, Flutter, Python, Django"
-				}
-			]
-		},
-		{
-			"Enterprise": "Hitachi Digital Services",
-			"Start": "2024-09",
-			"End": null,
-			"EnterpriseDescription": {
-				"PT": "Construção de Serviços Digitais para Cloud e Data",
-				"EN": "Development of Digital Services for Cloud and Data",
-				"ZZ": ""
-			},
-			"Role": {
-				"PT": "Senior Full Stack",
-				"EN": "Senior Full Stack",
-				"ZZ": ""
-			},
-			"Responsability": {
-				"PT": "Desenvolvimento Backend e Frontend",
-				"EN": "Backend and Frontend Development",
-				"ZZ": ""
-			},
-			"Details": [
-				{
-					"Text": {
-						"PT": "Trabalho em projetos de integração de sistemas e desenvolvimento web. O primeiro projeto envolveu a integração de um aplicativo web Java com um programa Java local para interagir com uma biblioteca C++ para reconhecimento biométrico. Outro projeto focou no desenvolvimento de um sistema web baseado em microsserviços usando C#, .NET Core e Azure, centrado em desenvolvimento de backend e testes automatizados.",
-						"EN": "Working on system integration and web development projects. One project involved integrating a Java web application with a local Java program to interface with a C++ library for biometric recognition. Another project is developing a microservices-based web system using C#, .NET Core, and Azure, with a focus on backend development and automated testing.",
-						"ZZ": ""
-					}
-				}
-			],
-			"Highlights": [],
-			"Projects": [
-				{
-					"Text": {
-						"PT": "Sistema de integração com biometria",
-						"EN": "Biometric system integration",
-						"ZZ": ""
-					},
-					"Tools": "Java, C++, Websocket, Keycloak"
-				},
-				{
-					"Text": {
-						"PT": "Projeto com microserviços para menu de restaurante",
-						"EN": "Web system for restaurant menu",
-						"ZZ": ""
-					},
-					"Tools": "Microservices, C#, .NET Core, Azure"
 				}
 			]
 		}
