@@ -1,5 +1,8 @@
 import { Fragment } from 'react'
 
+import CurriculumLanguage from '../domain/curriculum-language'
+
+import byLang from "../utils/by-lang"
 import copyContent from "../utils/copy-content"
 
 import Professional from "./professional"
@@ -10,15 +13,15 @@ import Independent from "./independent"
 import Additional from "./additional"
 
 
-function Curriculum({ content, lang }) {
+function Curriculum({ content, lang }: CurriculumLanguage) {
 	return (content &&
 		<section className="curriculum">
-			<h2 className="copy-me" onClick={copyContent}>{content.Name}</h2>
+			<h2 className="copy-me" onClick={copyContent}>{content.name}</h2>
 			<dl>
-				{content.Contacts.map((c, ci) => (
+				{content.contacts.map((c, ci) => (
 					<Fragment key={ci}>
-						<dt>{c.Name[lang] ?? c.Name}</dt>
-						<dd className="copy-me" onClick={copyContent}>{c.Value}</dd>
+						<dt>{byLang(c.name, lang)}</dt>
+						<dd className="copy-me" onClick={copyContent}>{c.value}</dd>
 					</Fragment>
 				))}
 			</dl>

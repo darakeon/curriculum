@@ -1,4 +1,6 @@
-import content from "../content/lucas-carol.json"
+import curriculum from "../domain/curriculum"
+
+import json from "../content/lucas-carol.json"
 import CoverLetter from "./cover-letter"
 import Skills from "./skills"
 import Curriculum from "./curriculum"
@@ -6,6 +8,8 @@ import Curriculum from "./curriculum"
 
 function Home() {
 	const lang = "EN"
+
+	const content: curriculum = json
 
 	return (content &&
 		<>

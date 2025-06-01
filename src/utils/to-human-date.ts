@@ -1,4 +1,7 @@
-const current = {
+import byLang from "./by-lang"
+
+
+const current: { [key: string]: string } = {
 	AF: "huidige",
 	AM: "ወቅታዊ",
 	AR: "حاضِر",
@@ -109,10 +112,10 @@ const current = {
 	ZZ: "zzz...",
 }
 
-function toHumanDate(date, lang) {
-	if (!date) return current[lang].toUpperCase()
+function toHumanDate(date: string | null, lang: string) {
+	if (!date) return byLang(current, lang).toUpperCase()
 
-	const parts = date.split("-")
+	const parts = date.split("-").map(t => parseInt(t))
 	switch (parts.length) {
 		case 2:
 			const javaMonth = parts[1] - 1

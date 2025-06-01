@@ -1,21 +1,24 @@
+import CurriculumLanguage from "../domain/curriculum-language"
+
+import byLang from "../utils/by-lang"
 import copyContent from "../utils/copy-content"
 
 
-function Additional({ content, lang }) {
+function Additional({ content, lang }: CurriculumLanguage) {
 	return (content &&
 		<div>
-			{content.Additional.map((a, ai) => (
+			{content.additional.map((a, ai) => (
 				<div className="keep-together" key={ai}>
-					<h3>{a.Title[lang]}</h3>
+					<h3>{byLang(a.title, lang)}</h3>
 
 					<ul>
-						{a.Items.map((i, ii) => (
+						{a.items.map((i, ii) => (
 							<li key={ii}>
 								<span className="copy-me" onClick={copyContent}>
-									{i.Description[lang] ?? i.Description}
+									{byLang(i.description, lang)}
 								</span>
 								<span className="additional-item-url copy-me">
-									{i.Url && ": " + i.Url}
+									{i.url && ": " + i.url}
 								</span>
 							</li>
 						))}

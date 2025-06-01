@@ -228,7 +228,7 @@ function processParent(html, data, lang, parent) {
 			}
 		} else {
 			while (groups = regex.exec(html)) {
-				let text = content[lang] || content
+				let text = byLang(content, lang) || content
 				if (text === "-") text = ""
 				html = html.replace(regex, text)
 			}
@@ -289,7 +289,7 @@ function translateAndAddDates(content, lang) {
 
 		e.EndText = e.End
 			? toDate(e.End, lang)
-			: current[lang].toUpperCase()
+			: byLang(current, lang).toUpperCase()
 		delete e.End
 
 		if (e.StartText == e.EndText)
