@@ -90,6 +90,11 @@
 			}
 		}
 	],
+	"CoverLetterClosing": {
+		"PT": "sincera e respeitosamente",
+		"EN": "sincerely and respectfully",
+		"ZZ": ""
+	},
 	"SkillsTitle": {
 		"PT": "Conhecimento",
 		"EN": "Skills",
@@ -329,11 +334,6 @@
 			"Level": 1
 		}
 	],
-	"CoverLetterClosing": {
-		"PT": "sincera e respeitosamente",
-		"EN": "sincerely and respectfully",
-		"ZZ": ""
-	},
 	"ProfessionalTitle": {
 		"PT": "Experiência profissional",
 		"EN": "Professional experience",
