@@ -354,7 +354,7 @@
 				"EN": "Programmer",
 				"ZZ": ""
 			},
-			"Responsability": {
+			"Responsibility": {
 				"PT": "Manutenção e criação de novas funcionalidades para sistema de questionários.",
 				"EN": "Maintenance and creation of new features to the questionnaires system.",
 				"ZZ": ""
@@ -416,7 +416,7 @@
 				"EN": "Analyst and Programmer",
 				"ZZ": ""
 			},
-			"Responsability": {
+			"Responsibility": {
 				"PT": "Desenvolvimento e manutenção de sistemas para clientes, de hotsites a sistemas web mais complexos",
 				"EN": "Client system development and maintenance, from marketing site to more complex web systems",
 				"ZZ": ""
@@ -542,7 +542,7 @@
 				"EN": "Senior Developer",
 				"ZZ": ""
 			},
-			"Responsability": {
+			"Responsibility": {
 				"PT": "Manutenção de mundo físico e de backend core",
 				"EN": "Maintenance of physical transactions sdks and company core backend",
 				"ZZ": ""
@@ -636,7 +636,7 @@
 				"EN": "Senior Consultant",
 				"ZZ": ""
 			},
-			"Responsability": {
+			"Responsibility": {
 				"PT": "Consultoria em projetos clientes",
 				"EN": "Client projects consulting",
 				"ZZ": ""
@@ -744,7 +744,7 @@
 				"EN": "Senior Developer",
 				"ZZ": ""
 			},
-			"Responsability": {
+			"Responsibility": {
 				"PT": "Parte da equipe de backend do produto",
 				"EN": "Part of product backend development",
 				"ZZ": ""
@@ -792,7 +792,7 @@
 				"EN": "Senior Full Stack",
 				"ZZ": ""
 			},
-			"Responsability": {
+			"Responsibility": {
 				"PT": "Desenvolvimento Backend e Frontend",
 				"EN": "Backend and Frontend Development",
 				"ZZ": ""
@@ -847,7 +847,7 @@
 				"EN": "Senior Developer Part Time",
 				"ZZ": ""
 			},
-			"Responsability": {
+			"Responsibility": {
 				"PT": "Desenvolvimento Backend e Frontend",
 				"EN": "Backend and Frontend Development",
 				"ZZ": ""
@@ -895,7 +895,7 @@
 				"EN": "Senior Developer Part Time",
 				"ZZ": ""
 			},
-			"Responsability": {
+			"Responsibility": {
 				"PT": "Desenvolvimento Backend e Frontend",
 				"EN": "Backend and Frontend Development",
 				"ZZ": ""
@@ -1069,7 +1069,7 @@
 	},
 	"Academic": [
 		{
-			"Instituition": "SENAC (Serviço Nacional de Aprendizagem Comercial)",
+			"Institution": "SENAC (Serviço Nacional de Aprendizagem Comercial)",
 			"Description": {
 				"PT": "Desenvolvimento Web com ferramentas Dreamweaver, Fireworks e Flash",
 				"EN": "Web Development with tools Dreamweaver, Fireworks e Flash",
@@ -1084,7 +1084,7 @@
 			}
 		},
 		{
-			"Instituition": "FATEC (Faculdade de Tecnologia de São Paulo)",
+			"Institution": "FATEC (Faculdade de Tecnologia de São Paulo)",
 			"Description": {
 				"PT": "Análise e Programação em diversas linguagens: Pascal, C, Cobol, TSQL. Sistema Operacional Linux e fundamentos do funcionamento de Sistemas Operacionais. Documentação de sistemas.",
 				"EN": "Analysis and Programming in a number of languages: Pascal, C, Cobol, TSQL. OS Linux and fundamentals of OSs working. System documentation.",
@@ -1099,7 +1099,7 @@
 			}
 		},
 		{
-			"Instituition": "Wizard",
+			"Institution": "Wizard",
 			"Description": {
 				"PT": "Nível intermediário e avançado",
 				"EN": "Intermediary and advanced levels",
@@ -1114,7 +1114,7 @@
 			}
 		},
 		{
-			"Instituition": "Brás Figueiredo",
+			"Institution": "Brás Figueiredo",
 			"Description": {
 				"PT": "Curso de .NET Framework sobre funcionalidades base e avançadas",
 				"EN": "Course about .NET Framework with Core and Advanced functionalities",
@@ -1125,7 +1125,7 @@
 			"Course": ".NET Core and Advanced Foundation"
 		},
 		{
-			"Instituition": "SENAC (Serviço Nacional de Aprendizagem Comercial)",
+			"Institution": "SENAC (Serviço Nacional de Aprendizagem Comercial)",
 			"Description": {
 				"PT": "Pós-graduação focada em Jogos usando Unity 3D. Aprendido desde o projeto do jogo e design, música, modelagem e programação.",
 				"EN": "Post graduation focused in Games using Unity 3D. Learned from game project and design, music, modeling and programming.",
@@ -1140,7 +1140,7 @@
 			}
 		},
 		{
-			"Instituition": "Google Cloud Skills Boost",
+			"Institution": "Google Cloud Skills Boost",
 			"Modules": [
 				"Build Infrastructure with Terraform on Google Cloud",
 				"Develop your Google Cloud Network",

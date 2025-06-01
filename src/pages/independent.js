@@ -35,7 +35,7 @@ function Independent({ content, lang }) {
 
 					<h5>
 						<span className="copy-me" onClick={copyContent}>{i.Role[lang]}</span>
-						<small className="copy-me" onClick={copyContent}>{i.Responsability}</small>
+						<small className="copy-me" onClick={copyContent}>{i.Responsibility}</small>
 					</h5>
 
 					<article className="copy-me" onClick={copyContent}>

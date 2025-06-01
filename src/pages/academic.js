@@ -20,7 +20,7 @@ function Academic({ content, lang }) {
 					</div>
 
 					<h4>
-						<span className="copy-me" onClick={copyContent}>{a.Instituition}</span>
+						<span className="copy-me" onClick={copyContent}>{a.Institution}</span>
 						<small className="copy-me" onClick={copyContent}>
 							{a.Course[lang] ?? a.Course}
 						</small>

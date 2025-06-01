@@ -29,7 +29,7 @@ function Freelance({ content, lang }) {
 					<h5>
 						<span className="copy-me" onClick={copyContent}>{p.Role[lang]}</span>
 						<small className="copy-me" onClick={copyContent}>
-							{p.Responsability[lang]}
+							{p.Responsibility[lang]}
 						</small>
 					</h5>
 
