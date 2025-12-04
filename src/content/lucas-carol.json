@@ -65,16 +65,30 @@
 		},
 		{
 			"paragraph": {
-				"PT": "No final de 2024, entrei para uma consultoria global para trabalhar em projetos de desenvolvimento web. Embora eu tenha sido contratado inicialmente para C# e React, já contribuí para outro projeto, onde necessidades urgentes exigiam minha senioridade e expertise além do escopo original.",
-				"EN": "At the end of 2024, I joined a global consultancy to work on web development projects. Although I was initially hired for C# and React, I have already contributed to another project, where urgent needs required my seniority and expertise beyond the original scope.",
+				"PT": "Entre meio e final de 2024, entrei para uma consultoria global para trabalhar em projetos de desenvolvimento web. Embora eu tenha sido contratado inicialmente para C#, contribuí antes para outro projeto, onde necessidades urgentes exigiam minha senioridade e expertise além do escopo original, com IoT, C++ e Java, apenas depois indo para o projeto C# .NET com Azure.",
+				"EN": "Between the middle and the end of 2024, I joined a global consultancy to work on web development projects. Although I was initially hired for C#, I contributed to another project, where urgent needs required my seniority and expertise beyond the original scope with IoT, C++ and Java, only after that going to the project with C# .NET with Azure.",
 				"ZZ": ""
 			}
 		},
 		{
 			"paragraph": {
-				"PT": "Busco uma nova oportunidade para crescimento profissional e novos aprendizados, assim me desenvolver ainda mais com equipes ágeis que tenham como alvo qualidade de software e produto, segurança e foco nas necessidade das pessoas a quem as aplicações este atendem.",
-				"EN": "I'm looking for a new opportunity for professional growth and knowledge improvement, this way developing myself even more with agile teams that focus on software and product quality, security and the needs of people who use the applications we develop.",
+				"PT": "No final de 2025 entrei para uma empresa focada em IA. Meu time mantém e aprimora as automações internas que suportam as operações diárias da empresa. Trabalhando com Node.js e integrações com Slack, garantindo que os fluxos de trabalho internos permaneçam confiáveis, eficientes e fáceis para as equipes usarem.",
+				"EN": "On the end of 2025 I went to a AI focused company. My team maintain and enhance the internal automations that support the company's daily operations. Working with Node.js and Slack integrations, ensuring that internal workflows stay reliable, efficient, and easy for teams to depend on.",
 				"ZZ": ""
+			}
+		},
+		{
+			"paragraph": {
+				"companies": {
+					"PT": "Busco oportunidades para crescimento profissional e novos aprendizados, assim como me desenvolver ainda mais com equipes ágeis que tenham como alvo qualidade de software e produto, segurança e foco nas necessidade das pessoas a quem as aplicações este atendem.",
+					"EN": "I look for news opportunities for professional growth and knowledge improvement, this way developing myself even more with agile teams that focus on software and product quality, security and the needs of people who use the applications we develop.",
+					"ZZ": ""
+				},
+				"freelance": {
+					"PT": "Eu busco oportunidades para crescimento profissional e novos aprendizados, assim como me desenvolver ainda mais com foco em qualidade de software e produto, segurança e nas necessidades das pessoas que usam as aplicações que desenvolvemos.",
+					"ENV": "I'm looking for opportunities for professional growth and knowledge improvement, this way developing myself even more with focus on software and product quality, security and the needs of people who use the applications we develop.",
+					"ZZ": ""
+				}
 			}
 		}
 	],
@@ -769,7 +783,7 @@
 		{
 			"enterprise": "Hitachi Digital Services",
 			"start": "2024-09",
-			"end": null,
+			"end": "2025-11",
 			"enterpriseDescription": {
 				"PT": "Construção de Serviços Digitais para Cloud e Data",
 				"EN": "Development of Digital Services for Cloud and Data",
@@ -812,6 +826,38 @@
 					},
 					"tools": "Microservices, C#, .NET Core, Azure"
 				}
+			]
+		},
+		{
+			"enterprise": "ManyChat",
+			"start": "2025-12",
+			"end": null,
+			"enterpriseDescription": {
+				"PT": "Plataforma para construção de automações e fluxos de chat",
+				"EN": "Platform for building chat automations and workflows",
+				"ZZ": ""
+			},
+			"role": {
+				"PT": "Senior Software Engineer",
+				"EN": "Senior Software Engineer",
+				"ZZ": ""
+			},
+			"responsibility": {
+				"PT": "Desenvolvimento Backend",
+				"EN": "Backend Development",
+				"ZZ": ""
+			},
+			"details": [
+				{
+					"text": {
+						"PT": "Responsável por manter e aprimorar automações e fluxos internos. O trabalho envolve desenvolver, otimizar e solucionar problemas em scripts Node.js, bem como gerenciar integrações com o Slack.",
+						"EN": "Responsible for maintaining and improving internal automations and workflows. Work involves developing, optimizing, and troubleshooting Node.js scripts, as well as managing Slack integrations",
+						"ZZ": ""
+					}
+				}
+			],
+			"highlights": [],
+			"projects": [
 			]
 		}
 	],
