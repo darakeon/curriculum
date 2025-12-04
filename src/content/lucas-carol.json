@@ -79,16 +79,9 @@
 		},
 		{
 			"paragraph": {
-				"companies": {
-					"PT": "Busco oportunidades para crescimento profissional e novos aprendizados, assim como me desenvolver ainda mais com equipes ágeis que tenham como alvo qualidade de software e produto, segurança e foco nas necessidade das pessoas a quem as aplicações este atendem.",
-					"EN": "I look for news opportunities for professional growth and knowledge improvement, this way developing myself even more with agile teams that focus on software and product quality, security and the needs of people who use the applications we develop.",
-					"ZZ": ""
-				},
-				"freelance": {
-					"PT": "Eu busco oportunidades para crescimento profissional e novos aprendizados, assim como me desenvolver ainda mais com foco em qualidade de software e produto, segurança e nas necessidades das pessoas que usam as aplicações que desenvolvemos.",
-					"ENV": "I'm looking for opportunities for professional growth and knowledge improvement, this way developing myself even more with focus on software and product quality, security and the needs of people who use the applications we develop.",
-					"ZZ": ""
-				}
+				"PT": "Busco oportunidades para crescimento profissional e novos aprendizados, assim como me desenvolver ainda mais com foco em qualidade de software e produto, segurança e nas necessidades das pessoas a quem as aplicações atendem.",
+				"EN": "I look for news opportunities for professional growth and knowledge improvement, this way developing myself even more with focus on software and product quality, security and the needs of people who use the applications developed.",
+				"ZZ": ""
 			}
 		}
 	],
