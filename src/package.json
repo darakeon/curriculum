@@ -22,7 +22,7 @@
   "homepage": "https://github.com/darakeon/curriculum#readme",
   "dependencies": {
     "next": "^16.0.7",
-    "react": "^19.2.0",
+    "react": "^19.2.3",
     "react-dom": "^19.2.0"
   },
   "devDependencies": {
