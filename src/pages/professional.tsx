@@ -25,19 +25,19 @@ function Professional({ content, lang }: CurriculumLanguage) {
 
 					<h4>
 						<span className="copy-me" onClick={copyContent}>
-							{p.enterprise}
+							{byLang(p.role, lang)}
 						</span>
 						<small className="copy-me" onClick={copyContent}>
-							{byLang(p.enterpriseDescription, lang)}
+							{p.responsibility && byLang(p.responsibility, lang)}
 						</small>
 					</h4>
 
 					<h5>
 						<span className="copy-me" onClick={copyContent}>
-							{byLang(p.role, lang)}
+							{p.enterprise}
 						</span>
 						<small className="copy-me" onClick={copyContent}>
-							{p.responsibility && byLang(p.responsibility, lang)}
+							{byLang(p.enterpriseDescription, lang)}
 						</small>
 					</h5>
 

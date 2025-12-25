@@ -6,10 +6,10 @@ import Url from "./url"
 
 
 interface Professional extends Dateable {
-	enterprise: string
-	enterpriseDescription: Multilanguage
 	role: Multilanguage
 	responsibility?: Multilanguage
+	enterprise: string
+	enterpriseDescription: Multilanguage
 	details: Text[]
 	highlights: Text[]
 	urls?: Url[]
