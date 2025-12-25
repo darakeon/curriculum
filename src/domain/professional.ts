@@ -10,8 +10,8 @@ interface Professional extends Dateable {
 	responsibility?: Multilanguage
 	enterprise: string
 	enterpriseDescription: Multilanguage
-	client: string
-	clientDescription: Multilanguage
+	client?: string
+	clientDescription?: Multilanguage
 	details: Text[]
 	highlights: Text[]
 	urls?: Url[]
