@@ -1001,6 +1001,14 @@
 			],
 			"highlights": [],
 			"projects": [
+				{
+					"text": {
+						"PT": "Automaçãoes internas e fluxos de trabalho",
+						"EN": "Internal automations and workflows",
+						"ZZ": ""
+					},
+					"tools": "Node.js, Slack API"
+				}
 			]
 		}
 	],
