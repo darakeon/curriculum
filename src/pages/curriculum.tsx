@@ -6,7 +6,6 @@ import byLang from "../utils/by-lang"
 import copyContent from "../utils/copy-content"
 
 import Professional from "./professional"
-import Freelance from "./freelance"
 import Academic from "./academic"
 import Profiles from "./profiles"
 import Independent from "./independent"
@@ -27,7 +26,6 @@ function Curriculum({ content, lang }: CurriculumLanguage) {
 			</dl>
 
 			<Professional content={content} lang={lang} />
-			<Freelance content={content} lang={lang} />
 			<Academic content={content} lang={lang} />
 			<Profiles content={content} lang={lang} />
 			<Independent content={content} lang={lang} />

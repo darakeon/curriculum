@@ -24,9 +24,6 @@ interface Curriculum {
 	professionalTitle: Multilanguage
 	professional: Professional[]
 
-	freelanceTitle: Multilanguage
-	freelance: Professional[]
-
 	profilesTitle: Multilanguage
 	profiles: Profile[]
 
