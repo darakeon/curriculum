@@ -47,7 +47,7 @@ function Professional({ content, lang }: CurriculumLanguage) {
 								{p.client}
 							</span>
 							<small className="copy-me" onClick={copyContent}>
-								{byLang(p.clientDescription, lang)}
+								{p.clientDescription && byLang(p.clientDescription, lang)}
 							</small>
 						</h6>
 					)}
