@@ -918,6 +918,60 @@
 			]
 		},
 		{
+			"start": "2025-08",
+			"end": null,
+			"enterprise": "KodAuti A11y Tech",
+			"enterpriseDescription": {
+				"PT": "Tecnologia para o crescimento humano",
+				"EN": "Technology for human growth",
+				"ZZ": ""
+			},
+			"client": "Inspira Tecnologia (B2B)",
+			"clientDescription": {
+				"PT": "Uma empresa de tecnologia e inovação focada em metodologias ágeis e aprendizagem contínua",
+				"EN": "A technology and innovation company focused on agile methodologies and continuous learning",
+				"ZZ": ""
+			},
+			"role": {
+				"PT": "Consultor Sênior",
+				"EN": "Senior Consultant",
+				"ZZ": ""
+			},
+			"responsibility": {
+				"PT": "Desenvolvimento Backend",
+				"EN": "Backend Development",
+				"ZZ": ""
+			},
+			"details": [
+				{
+					"text": {
+						"PT": "Participei da construção de um aplicativo de aluguel de veículos com motorista, utilizando Dart e Flutter para o desenvolvimento mobile. Além disso, trabalhei na manutenção de um sistema bancário financeiro, focando em microserviços desenvolvidos em Java e utilizando AWS para infraestrutura.",
+						"EN": "Participated in building a vehicle rental and driver hire app, using Dart and Flutter for mobile development. Additionally, worked on the maintenance of a financial banking system, focusing on microservices developed in Java and utilizing AWS for infrastructure.",
+						"ZZ": ""
+					}
+				}
+			],
+			"highlights": [],
+			"projects": [
+				{
+					"text": {
+						"PT": "App para aluguel de veículos com motorista",
+						"EN": "Vehicles rental and driver hire app",
+						"ZZ": ""
+					},
+					"tools": "Dart, Flutter"
+				},
+				{
+					"text": {
+						"PT": "Manutenção de sistema bancário",
+						"EN": "Financial bank maintenance",
+						"ZZ": ""
+					},
+					"tools": "Java, Microservices, IntelliJ, AWS"
+				}
+			]
+		},
+		{
 			"enterprise": "ManyChat",
 			"start": "2025-12",
 			"end": null,
