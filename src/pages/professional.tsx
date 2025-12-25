@@ -24,7 +24,9 @@ function Professional({ content, lang }: CurriculumLanguage) {
 					</div>
 
 					<h4>
-						<span className="copy-me" onClick={copyContent}>{p.enterprise}</span>
+						<span className="copy-me" onClick={copyContent}>
+							{p.enterprise}
+						</span>
 						<small className="copy-me" onClick={copyContent}>
 							{byLang(p.enterpriseDescription, lang)}
 						</small>
