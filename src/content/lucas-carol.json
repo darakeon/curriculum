@@ -327,6 +327,10 @@
 		{
 			"tech": "Unity3D",
 			"level": 1
+		},
+		{
+			"tech": "Vercel",
+			"level": 2
 		}
 	],
 	"professionalTitle": {
@@ -822,6 +826,54 @@
 			]
 		},
 		{
+			"start": "2024-07",
+			"end": null,
+			"enterprise": "KodAuti A11y Tech",
+			"enterpriseDescription": {
+				"PT": "Tecnologia para o crescimento humano",
+				"EN": "Technology for human growth",
+				"ZZ": ""
+			},
+			"role": {
+				"PT": "Fundador e Desenvolvedor de Software Sênior",
+				"EN": "Founder and Senior Software Developer",
+				"ZZ": ""
+			},
+			"responsibility": {
+				"PT": "Desenvolvimento Backend e Frontend",
+				"EN": "Backend and Frontend Development",
+				"ZZ": ""
+			},
+			"details": [
+				{
+					"text": {
+						"PT": "Construção de projetos para clientes e para a própria empresa. Exemplos de projetos internos são: website institucional; aplicação de gerenciamento de tarefas focada em acessibilidade.",
+						"EN": "Construction of projects for clients and for the company itself. Internal projects examples are: institutional website; application of task management focused in accessibility.",
+						"ZZ": ""
+					}
+				}
+			],
+			"highlights": [],
+			"projects": [
+				{
+					"text": {
+						"PT": "Landing Page Institucional",
+						"EN": "Institutional Landing Page",
+						"ZZ": ""
+					},
+					"tools": "NodeJS, ReactJS, Vercel"
+				},
+				{
+					"text": {
+						"PT": "Sistema de gerenciamento de tarefas focado em acessibilidade",
+						"EN": "Task management system focused on accessibility",
+						"ZZ": ""
+					},
+					"tools": "Python, FastAPI, NodeJS, ReactJS, Kotlin, Jetpack Compose, Postgres, Docker, Azure, Vercel, Google Play Console"
+				}
+			]
+		},
+		{
 			"enterprise": "Hitachi Digital Services",
 			"start": "2024-09",
 			"end": "2025-11",
@@ -981,8 +1033,8 @@
 				"ZZ": ""
 			},
 			"role": {
-				"PT": "Senior Software Engineer",
-				"EN": "Senior Software Engineer",
+				"PT": "Senior Software Developer",
+				"EN": "Senior Software Developer",
 				"ZZ": ""
 			},
 			"responsibility": {

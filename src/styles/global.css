@@ -167,6 +167,7 @@ ul.columns li {
 	width: 47%;
 	display: inline-block;
 	padding-inline-end: 1em;
+	vertical-align: top;
 }
 
 .cover-letter, .skills {
