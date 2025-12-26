@@ -993,8 +993,8 @@
 			"details": [
 				{
 					"text": {
-						"PT": "Responsável por manter e aprimorar automações e fluxos internos. O trabalho envolve desenvolver, otimizar e solucionar problemas em scripts Node.js, bem como gerenciar integrações com o Slack.",
-						"EN": "Responsible for maintaining and improving internal automations and workflows. Work involves developing, optimizing, and troubleshooting Node.js scripts, as well as managing Slack integrations",
+						"PT": "Manutenção e aprimoramento de automações e fluxos internos. Desenvolvimento, otimização e solução de problemas em scripts Node.js, bem como gerenciamento de integrações com o Slack.",
+						"EN": "Maintenance and improvement of internal automations and workflows. Development, optimization, and troubleshooting of Node.js scripts, as well as management of Slack integrations",
 						"ZZ": ""
 					}
 				}
