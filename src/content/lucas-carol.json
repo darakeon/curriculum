@@ -1026,8 +1026,14 @@
 		{
 			"start": "2025-12",
 			"end": null,
-			"enterprise": "ManyChat",
+			"enterprise": "KodAuti A11y Tech",
 			"enterpriseDescription": {
+				"PT": "Tecnologia para o crescimento humano",
+				"EN": "Technology for human growth",
+				"ZZ": ""
+			},
+			"client": "ManyChat",
+			"clientDescription": {
 				"PT": "Plataforma para construção de automações e fluxos de chat",
 				"EN": "Platform for building chat automations and workflows",
 				"ZZ": ""
