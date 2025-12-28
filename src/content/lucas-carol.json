@@ -340,9 +340,9 @@
 	},
 	"professional": [
 		{
-			"enterprise": "Grupo Ser",
 			"start": "2007-03",
 			"end": "2010-08",
+			"enterprise": "Grupo Ser",
 			"enterpriseDescription": {
 				"PT": "Empresa de RH para avaliação de candidaturas a vagas. Possui um sistema online de questionários, tanto psicológicos, quanto criados por clientes - técnicos.",
 				"EN": "HR enterprise to evaluate job candidates. Has an online questionnaires system, both psychological and technical - this one made by clients.",
@@ -402,9 +402,9 @@
 			]
 		},
 		{
-			"enterprise": "Inspira Tecnologia",
 			"start": "2010-05",
 			"end": "2016-11",
+			"enterprise": "Inspira Tecnologia",
 			"enterpriseDescription": {
 				"PT": "Uma empresa de tecnologia e inovação focada em metodologias ágeis e aprendizagem contínua",
 				"EN": "A technology and innovation company focused on agile methodologies and continuous learning",
@@ -528,9 +528,9 @@
 			]
 		},
 		{
-			"enterprise": "Pagar.me Pagamentos",
 			"start": "2017-03",
 			"end": "2019-08",
+			"enterprise": "Pagar.me Pagamentos",
 			"enterpriseDescription": {
 				"PT": "Backend de pagamentos de e-commerces",
 				"EN": "E-commerce payments backend",
@@ -622,9 +622,9 @@
 			]
 		},
 		{
-			"enterprise": "Thoughtworks",
 			"start": "2019-10",
 			"end": "2022-12",
+			"enterprise": "Thoughtworks",
 			"enterpriseDescription": {
 				"PT": "Consultoria em TI",
 				"EN": "IT Consulting",
@@ -730,9 +730,9 @@
 			]
 		},
 		{
-			"enterprise": "Habit",
 			"start": "2023-01",
 			"end": "2024-09",
+			"enterprise": "Habit",
 			"enterpriseDescription": {
 				"PT": "Intermediadora entre empresas seguradoras e distribuidoras",
 				"EN": "Intermediary between insurers and distributor companies",
@@ -778,9 +778,9 @@
 			]
 		},
 		{
-			"enterprise": "Inspira Tecnologia (freelancer)",
 			"start": "2023-11",
 			"end": "2024-03",
+			"enterprise": "Inspira Tecnologia (freelancer)",
 			"enterpriseDescription": {
 				"PT": "Uma empresa de tecnologia e inovação focada em metodologias ágeis e aprendizagem contínua",
 				"EN": "A technology and innovation company focused on agile methodologies and continuous learning",
@@ -874,9 +874,9 @@
 			]
 		},
 		{
-			"enterprise": "Hitachi Digital Services",
 			"start": "2024-09",
 			"end": "2025-11",
+			"enterprise": "Hitachi Digital Services",
 			"enterpriseDescription": {
 				"PT": "Construção de Serviços Digitais para Cloud e Data",
 				"EN": "Development of Digital Services for Cloud and Data",
@@ -922,9 +922,9 @@
 			]
 		},
 		{
-			"enterprise": "Inspira Tecnologia (freelancer)",
 			"start": "2024-11",
 			"end": "2024-12",
+			"enterprise": "Inspira Tecnologia (freelancer)",
 			"enterpriseDescription": {
 				"PT": "Uma empresa de tecnologia e inovação focada em metodologias ágeis e aprendizagem contínua",
 				"EN": "A technology and innovation company focused on agile methodologies and continuous learning",
@@ -1024,9 +1024,9 @@
 			]
 		},
 		{
-			"enterprise": "ManyChat",
 			"start": "2025-12",
 			"end": null,
+			"enterprise": "ManyChat",
 			"enterpriseDescription": {
 				"PT": "Plataforma para construção de automações e fluxos de chat",
 				"EN": "Platform for building chat automations and workflows",
@@ -1090,9 +1090,9 @@
 	},
 	"independent": [
 		{
-			"enterprise": "Don't fly Money",
 			"start": "2010",
 			"end": null,
+			"enterprise": "Don't fly Money",
 			"enterpriseDescription": {
 				"PT": "É um sistema de gerenciamento financeiro que visa uma forma simples de gerenciar os ganhos e gastos de uma pessoa.",
 				"EN": "It is a financial management system built to be a simple way to manage a person cash inflows and outflows",
