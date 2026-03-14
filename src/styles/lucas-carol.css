@@ -8,10 +8,6 @@
     }
 }
 
-li:before {
-    content: 'LCSD ';
-}
-
 :root {
     --title: #204;
     --subtitle: #511;

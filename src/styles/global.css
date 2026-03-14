@@ -148,16 +148,10 @@ ul {
 	margin-top: 0.3em;
 	padding-left: 2%;
 }
-	li {
-		list-style-type: none;
+	li:before {
+		content: '- ';
+		margin: 0 0.4em 0 -1em;
 	}
-		li:before {
-			font-size: 20%;
-			margin: 0 2em 0 -4em;
-			vertical-align: 80%;
-			background: var(--dark);
-			color: var(--light);
-		}
 
 	li:empty {
 		display: none;
