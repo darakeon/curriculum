@@ -72,13 +72,6 @@
 		},
 		{
 			"paragraph": {
-				"PT": "No final de 2025 entrei para uma empresa focada em IA. Meu time mantém e aprimora as automações internas que suportam as operações diárias da empresa. Trabalhando com Node.js e integrações com Slack, garantindo que os fluxos de trabalho internos permaneçam confiáveis, eficientes e fáceis para as equipes usarem.",
-				"EN": "On the end of 2025 I went to a AI focused company. My team maintain and enhance the internal automations that support the company's daily operations. Working with Node.js and Slack integrations, ensuring that internal workflows stay reliable, efficient, and easy for teams to depend on.",
-				"ZZ": ""
-			}
-		},
-		{
-			"paragraph": {
 				"PT": "Sempre busco oportunidades para crescimento profissional e novos aprendizados, assim como me desenvolver ainda mais com foco em qualidade de software e produto, segurança e nas necessidades das pessoas a quem as aplicações atendem.",
 				"EN": "I always look for news opportunities for professional growth and knowledge improvement, this way developing myself even more with focus on software and product quality, security and the needs of people who use the applications developed.",
 				"ZZ": ""
@@ -555,29 +548,7 @@
 					}
 				}
 			],
-			"highlights": [
-				{
-					"text": {
-						"PT": "Fiz parte da equipe que iniciou o projeto de criação de uma UI padrão para toda a empresa desenvolver seus sites, em React",
-						"EN": "I was part of the team that started the project to create a default UI for the entire company to develop its websites, in React",
-						"ZZ": ""
-					}
-				},
-				{
-					"text": {
-						"PT": "Assumi a responsabilidade e lutei por um projeto para implementar algo que foi prometido a um cliente anos antes - o cliente chegou a ameaçar processar a empresa. Depois de aprovado, passei 15 dias trabalhando sem parar para fazer acontecer",
-						"EN": "I took responsibility and fought for a project to implement something that was promised to a client years before - the client was even threatening to sue out company. After it was approved, I spent 15 days working with no rest to make it happen",
-						"ZZ": ""
-					}
-				},
-				{
-					"text": {
-						"PT": "Comecei com duas pessoas um novo projeto para desenvolver uma aplicação para um novo produto da empresa. Eram pessoas novas na área e eu era o único que sabia a linguagem na empresa, fui eu que sugeri quando o projeto começou",
-						"EN": "I started with two colleagues a new project to develop an application to a new product of the company. They both were novice and I was the only one that knows the language at the company, I was the one that suggested it when the project started",
-						"ZZ": ""
-					}
-				}
-			],
+			"highlights": [],
 			"projects": [
 				{
 					"text": {
@@ -1020,6 +991,14 @@
 						"ZZ": ""
 					},
 					"tools": "Java, Microservices, IntelliJ, AWS"
+				},
+				{
+					"text": {
+						"PT": "Melhoria de responsividade em plataforma de aprendizagem online",
+						"EN": "Improvement of responsiveness in online learning platform",
+						"ZZ": ""
+					},
+					"tools": "Vue, Tailwind, CSS, HTML"
 				}
 			]
 		},
@@ -1066,6 +1045,60 @@
 						"ZZ": ""
 					},
 					"tools": "Node.js, Slack API, AWS, Temporal"
+				}
+			]
+		},
+		{
+			"start": "2026-04",
+			"end": null,
+			"enterprise": "KodAuti A11y Tech",
+			"enterpriseDescription": {
+				"PT": "Tecnologia para o crescimento humano",
+				"EN": "Technology for human growth",
+				"ZZ": ""
+			},
+			"client": "Decskill",
+			"clientDescription": {
+				"PT": "Consultoria em TI",
+				"EN": "IT Consulting",
+				"ZZ": ""
+			},
+			"role": {
+				"PT": "Senior Software Developer",
+				"EN": "Senior Software Developer",
+				"ZZ": ""
+			},
+			"responsibility": {
+				"PT": "Desenvolvimento Backend",
+				"EN": "Backend Development",
+				"ZZ": ""
+			},
+			"details": [
+				{
+					"text": {
+						"PT": "Melhoria e manutenção de micro-serviços para cliente da área de energia renovável. Criação de funcionalidades e melhoria de performance em Pyhon / C#, manutenção de pipelines em Azure DevOps.",
+						"EN": "Maintenance and improvement of microservices for a client in the renewable energy sector. Creation of features and performance improvement in Python / C#, maintenance of pipelines in Azure DevOps.",
+						"ZZ": ""
+					}
+				}
+			],
+			"highlights": [],
+			"projects": [
+				{
+					"text": {
+						"PT": "ETLs para processamento de dados de energia",
+						"EN": "ETLs for energy data processing",
+						"ZZ": ""
+					},
+					"tools": "Python, Azure DevOps, Service Bus, Azure Functions"
+				},
+				{
+					"text": {
+						"PT": "Middleware para atendimento ao Frontend",
+						"EN": "Middleware for frontend intermediation",
+						"ZZ": ""
+					},
+					"tools": "Python, C#, Azure DevOps, Azure Web Apps, MSSQL Server"
 				}
 			]
 		}
