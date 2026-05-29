@@ -6,6 +6,9 @@ MACHINE_NAME=dk-c
 build:
 	@docker build . -t ${IMAGE_NAME}
 
+build-dev:
+	@cd src && npm i && npm run build
+
 run:
 	@docker run -d --name ${MACHINE_NAME} --network host ${IMAGE_NAME}
 

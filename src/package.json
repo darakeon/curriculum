@@ -4,7 +4,8 @@
   "description": "Dara Keon's curriculum",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev"
+    "dev": "next dev",
+    "build": "next build"
   },
   "repository": {
     "type": "git",
