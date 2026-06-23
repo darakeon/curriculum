@@ -1,7 +1,9 @@
-from googletrans import Translator, LANGUAGES
+from asyncio import run
 from json import loads, dumps
 from os.path import isfile
 from sys import argv
+
+from googletrans import Translator, LANGUAGES
 
 
 class Program:
@@ -19,7 +21,7 @@ class Program:
 			print('Pass as second parameter which language you want to translate to')
 			exit(1)
 
-		self.json = f'{args[1]}.json'
+		self.json = f'src/content/{args[1]}.json'
 		self.language = args[2]
 
 		if not isfile(self.json):
@@ -31,13 +33,13 @@ class Program:
 			exit(1)
 
 
-	def translate(self):
+	async def translate(self):
 		print(f'Translating {self.json} to {self.language}...')
 
 		with open(self.json) as file:
 			content = loads(file.read())
 
-		self.translate_dict(content)
+		await self.translate_dict(content)
 
 		json = dumps(content, ensure_ascii=False, indent='\t') + '\n'
 
@@ -45,29 +47,29 @@ class Program:
 			file.write(json)
 
 
-	def translate_dict(self, dictionary: dict):
+	async def translate_dict(self, dictionary: dict):
 		keys = set(dictionary.keys())
 		intersect_langs = set(self.ALLOWED_LANGUAGES).intersection(keys)
 		are_translations = intersect_langs == keys
 
 		if are_translations:
-			self.translate_text(dictionary)
+			await self.translate_text(dictionary)
 		else:
 			for key in dictionary:
 				print(key)
-				self.translate_obj(dictionary[key])
+				await self.translate_obj(dictionary[key])
 
 
-	def translate_obj(self, obj):
+	async def translate_obj(self, obj):
 
 		if isinstance(obj, dict):
-			self.translate_dict(obj, )
+			await self.translate_dict(obj)
 		elif isinstance(obj, list):
 			for item in obj:
-				self.translate_obj(item)
+				await self.translate_obj(item)
 
 
-	def translate_text(self, dictionary):
+	async def translate_text(self, dictionary):
 		if self.language == 'ZZ':
 			dictionary[self.language] = ''
 			return
@@ -80,7 +82,7 @@ class Program:
 		original_text = dictionary[original_language]
 
 		translator = Translator()
-		translated = translator.translate(original_text, src=original_language, dest=self.language)
+		translated = await translator.translate(original_text, src=original_language, dest=self.language)
 		
 		dictionary[self.language] = translated.text
 
@@ -94,4 +96,4 @@ class Program:
 
 program = Program(argv)
 
-program.translate()
+run(program.translate())
