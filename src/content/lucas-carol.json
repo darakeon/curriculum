@@ -803,15 +803,15 @@
 				"ZZ": ""
 			},
 			"responsibility": {
-				"PT": "Desenvolvimento Backend e Frontend",
-				"EN": "Backend and Frontend Development",
+				"PT": "Desenvolvimento Full Stack",
+				"EN": "Full Stack Development",
 				"ZZ": ""
 			},
 			"details": [
 				{
 					"text": {
-						"PT": "Construção de projetos para clientes e para a própria empresa. Exemplos de projetos internos são: website institucional; aplicação de gerenciamento de tarefas focada em acessibilidade.",
-						"EN": "Construction of projects for clients and for the company itself. Internal projects examples are: institutional website; application of task management focused on accessibility.",
+						"PT": "Construção de projetos para clientes e para a própria empresa, de sites institucionais a aplicações web e mobile. Criação de funcionalidades e deploy em Python, Node.js, React e Kotlin.",
+						"EN": "Construction of projects for clients and for the company itself, from institutional websites to web and mobile applications. Creation of features and deployment in Python, Node.js, React and Kotlin.",
 						"ZZ": ""
 					}
 				}
@@ -820,19 +820,19 @@
 			"projects": [
 				{
 					"text": {
-						"PT": "Landing Page Institucional",
-						"EN": "Institutional Landing Page",
+						"PT": "Landing page institucional",
+						"EN": "Institutional landing page",
 						"ZZ": ""
 					},
-					"tools": "NodeJS, ReactJS, Vercel"
+					"tools": "Node.js, React, Vercel"
 				},
 				{
 					"text": {
-						"PT": "Sistema de gerenciamento de tarefas focado em acessibilidade",
+						"PT": "Sistema de gerenciamento de tarefas com foco em acessibilidade",
 						"EN": "Task management system focused on accessibility",
 						"ZZ": ""
 					},
-					"tools": "Python, FastAPI, NodeJS, ReactJS, Kotlin, Jetpack Compose, Postgres, Docker, Azure, Vercel, Google Play Console"
+					"tools": "Python, FastAPI, Node.js, React, Kotlin, Jetpack Compose, Postgres, Docker, Azure, Vercel, Google Play Console"
 				}
 			]
 		},
