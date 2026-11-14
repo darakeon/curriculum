@@ -948,20 +948,20 @@
 				"ZZ": ""
 			},
 			"role": {
-				"PT": "Consultor Sênior",
+				"PT": "Senior Consultant",
 				"EN": "Senior Consultant",
 				"ZZ": ""
 			},
 			"responsibility": {
-				"PT": "Desenvolvimento Backend",
-				"EN": "Backend and Mobile Development",
+				"PT": "Desenvolvimento Full Stack e Mobile",
+				"EN": "Full Stack and Mobile Development",
 				"ZZ": ""
 			},
 			"details": [
 				{
 					"text": {
-						"PT": "Participei da construção de um aplicativo de aluguel de veículos com motorista, utilizando Dart e Flutter para o desenvolvimento mobile. Além disso, trabalhei na manutenção de um sistema bancário financeiro, focando em microserviços desenvolvidos em Java e utilizando AWS para infraestrutura.",
-						"EN": "I participated in building a vehicle rental and driver hire app, using Dart and Flutter for mobile development. Additionally, worked on the maintenance of a financial banking system, focusing on microservices developed in Java and utilizing AWS for infrastructure.",
+						"PT": "Consultoria técnica para clientes da Inspira Tecnologia, em projetos mobile, backend e web. Criação de funcionalidades, manutenção e melhoria de sistemas existentes em Java, Dart, Node.js, Python e Vue, incluindo integração entre aplicações e serviços.",
+						"EN": "Technical consulting for clients of Inspira Tecnologia, in mobile, backend and web projects. Creation of features, maintenance and improvement of existing systems in Java, Dart, Node.js, Python and Vue, including integration between applications and services.",
 						"ZZ": ""
 					}
 				}
@@ -970,8 +970,8 @@
 			"projects": [
 				{
 					"text": {
-						"PT": "App para aluguel de veículos com motorista",
-						"EN": "Vehicles rental and driver hire app",
+						"PT": "Aplicativo de aluguel de veículos e contratação de motoristas",
+						"EN": "Vehicle rental and driver hire app",
 						"ZZ": ""
 					},
 					"tools": "Dart, Flutter"
@@ -979,18 +979,26 @@
 				{
 					"text": {
 						"PT": "Manutenção de sistema bancário",
-						"EN": "Financial bank maintenance",
+						"EN": "Maintenance of a banking system",
 						"ZZ": ""
 					},
-					"tools": "Java, Microservices, IntelliJ, AWS"
+					"tools": "Java, Microservices, AWS"
 				},
 				{
 					"text": {
-						"PT": "Melhoria de responsividade em plataforma de aprendizagem online",
-						"EN": "Improvement of responsiveness in online learning platform",
+						"PT": "Melhorias de responsividade em plataforma de ensino",
+						"EN": "Responsiveness improvements on a learning platform",
 						"ZZ": ""
 					},
 					"tools": "Vue, Tailwind, CSS, HTML"
+				},
+				{
+					"text": {
+						"PT": "Integração de aplicações com um micro-serviço de single sign-on, e manutenção do micro-serviço",
+						"EN": "Integration of applications with a single sign-on microservice, and maintenance of the microservice",
+						"ZZ": ""
+					},
+					"tools": "Java, Spring, Node.js, Vue, Python, FastAPI"
 				}
 			]
 		},
