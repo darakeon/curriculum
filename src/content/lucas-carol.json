@@ -1030,8 +1030,8 @@
 			"details": [
 				{
 					"text": {
-						"PT": "Manutenção e aprimoramento de automações e fluxos internos. Desenvolvimento, otimização e solução de problemas em scripts Node.js, bem como gerenciamento de integrações com o Slack.",
-						"EN": "Maintenance and improvement of internal automations and workflows. Development, optimization, and troubleshooting of Node.js scripts, as well as management of Slack integrations",
+						"PT": "Manutenção e melhoria de automações e workflows internos. Criação de funcionalidades e scripts em Node.js, integração de sistemas de mensagens, documentação, tickets e gerenciamento de calendário, e manutenção de workflows em Temporal.",
+						"EN": "Maintenance and improvement of internal automations and workflows. Creation of features and scripts in Node.js, integration of messaging, documentation, ticketing and calendar management systems, and maintenance of workflows in Temporal.",
 						"ZZ": ""
 					}
 				}
@@ -1040,11 +1040,27 @@
 			"projects": [
 				{
 					"text": {
-						"PT": "Automações internas e fluxos de trabalho",
-						"EN": "Internal automations and workflows",
+						"PT": "Automações e scripts internos",
+						"EN": "Internal automations and scripts",
 						"ZZ": ""
 					},
-					"tools": "Node.js, Slack API, AWS, Temporal"
+					"tools": "Node.js, AWS"
+				},
+				{
+					"text": {
+						"PT": "Workflows para processos internos",
+						"EN": "Workflows for internal processes",
+						"ZZ": ""
+					},
+					"tools": "Temporal, Node.js"
+				},
+				{
+					"text": {
+						"PT": "Integrações entre ferramentas internas de trabalho",
+						"EN": "Integrations between internal work tools",
+						"ZZ": ""
+					},
+					"tools": "Node.js, Slack API, Notion API, Asana API, Google Calendar API"
 				}
 			]
 		},
