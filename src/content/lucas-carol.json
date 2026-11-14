@@ -94,40 +94,20 @@
 			"level": 5
 		},
 		{
-			"tech": ".NET Core",
-			"level": 5
-		},
-		{
 			"tech": "Agile",
-			"level": 5
+			"level": 4
 		},
 		{
-			"tech": "Amazon Web Services (AWS)",
-			"level": 3
+			"tech": "AWS",
+			"level": 4
 		},
 		{
 			"tech": "Android",
 			"level": 3
 		},
 		{
-			"tech": "AWS EC2",
-			"level": 4
-		},
-		{
-			"tech": "AWS Lambda",
-			"level": 3
-		},
-		{
-			"tech": "AWS RDS",
-			"level": 4
-		},
-		{
-			"tech": "AWS S3",
-			"level": 4
-		},
-		{
-			"tech": "AWS SES",
-			"level": 3
+			"tech": "Azure",
+			"level": 2
 		},
 		{
 			"tech": "Bash",
@@ -172,6 +152,10 @@
 		{
 			"tech": "Docker Compose",
 			"level": 3
+		},
+		{
+			"tech": "FastAPI",
+			"level": 2
 		},
 		{
 			"tech": "Flutter",
@@ -274,6 +258,10 @@
 			"level": 2
 		},
 		{
+			"tech": "Req'n'roll",
+			"level": 3
+		},
+		{
 			"tech": "Rust",
 			"level": 1
 		},
@@ -287,7 +275,7 @@
 		},
 		{
 			"tech": "SDK Development",
-			"level": 1
+			"level": 2
 		},
 		{
 			"tech": "Specflow",
@@ -319,6 +307,10 @@
 		},
 		{
 			"tech": "Unity3D",
+			"level": 1
+		},
+		{
+			"tech": "Vue",
 			"level": 1
 		},
 		{
