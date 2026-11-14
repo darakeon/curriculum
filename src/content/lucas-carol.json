@@ -1061,15 +1061,15 @@
 				"ZZ": ""
 			},
 			"responsibility": {
-				"PT": "Desenvolvimento Backend",
-				"EN": "Backend Development",
+				"PT": "Desenvolvimento Full Stack",
+				"EN": "Full Stack Development",
 				"ZZ": ""
 			},
 			"details": [
 				{
 					"text": {
-						"PT": "Melhoria e manutenção de micro-serviços para cliente da área de energia renovável. Criação de funcionalidades e melhoria de performance em Pyhon / C#, manutenção de pipelines em Azure DevOps.",
-						"EN": "Maintenance and improvement of microservices for a client in the renewable energy sector. Creation of features and performance improvement in Python / C#, maintenance of pipelines in Azure DevOps.",
+						"PT": "Melhoria e manutenção de micro-serviços e aplicações web para cliente da área de energia renovável. Criação de funcionalidades e melhoria de performance em Python / C#, manutenção de pipelines em Azure DevOps.",
+						"EN": "Maintenance and improvement of microservices and web applications for a client in the renewable energy sector. Creation of features and performance improvement in Python / C#, maintenance of pipelines in Azure DevOps.",
 						"ZZ": ""
 					}
 				}
@@ -1090,7 +1090,23 @@
 						"EN": "Middleware for frontend intermediation",
 						"ZZ": ""
 					},
-					"tools": "Python, C#, Azure DevOps, Azure Web Apps, MSSQL Server"
+					"tools": "Python, FastAPI, Azure Web Apps, SQL Server"
+				},
+				{
+					"text": {
+						"PT": "Serviços de backend para integração com sistemas externos e sincronização de dados",
+						"EN": "Backend services for integration with external systems and data synchronization",
+						"ZZ": ""
+					},
+					"tools": "Python, C#, .NET 8, Azure Functions, Service Bus, Dataverse, SQL Server"
+				},
+				{
+					"text": {
+						"PT": "Aplicações web financeiras e de backoffice",
+						"EN": "Financial and backoffice web applications",
+						"ZZ": ""
+					},
+					"tools": "React, TypeScript, Vite"
 				}
 			]
 		}
