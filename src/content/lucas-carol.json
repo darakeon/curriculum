@@ -1176,8 +1176,8 @@
 			"details": [
 				{
 					"text": {
-						"PT": "Melhoria e manutenção de micro-serviços e aplicações web para cliente da área de energia renovável. Criação de funcionalidades e melhoria de performance em Python / C#, manutenção de pipelines em Azure DevOps.",
-						"EN": "Maintenance and improvement of microservices and web applications for a client in the renewable energy sector. Creation of features and performance improvement in Python / C#, maintenance of pipelines in Azure DevOps.",
+						"PT": "Melhoria e manutenção de micro-serviços e aplicações web para cliente da área de energia renovável. Criação de funcionalidades e melhoria de performance em Python e C#, manutenção de pipelines em Azure DevOps.",
+						"EN": "Maintenance and improvement of microservices and web applications for a client in the renewable energy sector. Creation of features and performance improvement in Python and C#, maintenance of pipelines in Azure DevOps.",
 						"ZZ": ""
 					}
 				}
@@ -1256,7 +1256,7 @@
 			"url": "https://hub.docker.com/u/darakeon"
 		},
 		{
-			"name": "Google Cloud Boost Skills",
+			"name": "Google Cloud Skills Boost",
 			"url": "https://www.cloudskillsboost.google/public_profiles/6113467b-7802-4634-8ba9-76a51fccb87e"
 		}
 	],
@@ -1277,7 +1277,7 @@
 			"enterprise": "Don't fly Money",
 			"enterpriseDescription": {
 				"PT": "É um sistema de gerenciamento financeiro que visa uma forma simples de gerenciar os ganhos e gastos de uma pessoa.",
-				"EN": "It is a financial management system built to be a simple way to manage a person cash inflows and outflows",
+				"EN": "It is a financial management system built to be a simple way to manage a person's cash inflows and outflows",
 				"ZZ": ""
 			},
 			"role": {
@@ -1370,7 +1370,7 @@
 				{
 					"text": {
 						"PT": "Envio de e-mails para notificações a quem usa o sistema",
-						"EN": "Email to send notifications to the people who uses the system",
+						"EN": "Email to send notifications to the ones who use the system",
 						"ZZ": ""
 					},
 					"tools": [ "AWS SES", "AWS Lambda", "AWS S3" ]
@@ -1388,7 +1388,7 @@
 			"institution": "SENAC (Serviço Nacional de Aprendizagem Comercial)",
 			"description": {
 				"PT": "Desenvolvimento Web com ferramentas Dreamweaver, Fireworks e Flash",
-				"EN": "Web Development with tools Dreamweaver, Fireworks e Flash",
+				"EN": "Web Development with tools Dreamweaver, Fireworks and Flash",
 				"ZZ": ""
 			},
 			"start": "2005",
@@ -1418,7 +1418,7 @@
 			"institution": "Wizard",
 			"description": {
 				"PT": "Nível intermediário e avançado",
-				"EN": "Intermediary and advanced levels",
+				"EN": "Intermediate and advanced levels",
 				"ZZ": ""
 			},
 			"start": "2008",
@@ -1503,7 +1503,7 @@
 					"description": "CryptoRave 2018"
 				},
 				{
-					"description": "Hackaton Mundipagg 2017"
+					"description": "Hackathon Mundipagg 2017"
 				},
 				{
 					"description": "CryptoRave 2015"
@@ -1525,7 +1525,7 @@
 		{
 			"title": {
 				"PT": "Talks - canal Pagar.me",
-				"EN": "Talks - Pagar.me channel - in portuguese",
+				"EN": "Talks - Pagar.me channel - Portuguese",
 				"ZZ": ""
 			},
 			"items": [
@@ -1560,7 +1560,7 @@
 				{
 					"description": {
 						"PT": "Como tirar gênero de textos (de forma natural)",
-						"EN": "How to remove gender from text (in portuguese it is harder than english)",
+						"EN": "How to remove gender from text (in Portuguese it is harder than English)",
 						"ZZ": ""
 					},
 					"url": "https://www.youtube.com/watch?v=BMQRGt2T-sw"
