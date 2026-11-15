@@ -599,29 +599,15 @@
 				"ZZ": ""
 			},
 			"responsibility": {
-				"PT": "Fullstack Developer",
-				"EN": "Fullstack Developer",
+				"PT": "Desenvolvimento Full Stack",
+				"EN": "Full Stack Development",
 				"ZZ": ""
 			},
 			"details": [
 				{
 					"text": {
-						"PT": "Consultoria, desenvolvimento e manutenção de software de clientes e interno. A Thoughtworks segue as melhores práticas, melhoria contínua, pareamento, TDD e outras práticas ágeis.",
-						"EN": "Consultancy, development and maintenance of client and internal software. Thoughtworks follows best practices, continuous improvement, pairing, TDD and other agile practices.",
-						"ZZ": ""
-					}
-				},
-				{
-					"text": {
-						"PT": "O primeiro projeto foi interno, para facilitar o entendimento da saúde dos quadros kanban usando um estado de personagem fictício para mostrar como era o projeto. Isso me ajudou a melhorar meu conhecimento do Node. Alguns meses depois, fui a um projeto de cliente, que gerencia aluguel e venda de casas e apartamentos. Lá tive experiência com microsserviços com metodologia Java e BFF (backend-for-frontend). Então fui para o meu primeiro projeto internacional, implementando Observability usando Grafana e Docker.",
-						"EN": "The first project was an internal one, to make it easier to understand the health of the kanban boards using a fictional character state to show how the project was. This has helped me improve my Node knowledge. Some months later, I went to a client project that manages the rental and sale of houses and flats. There I had experience with microservices with Java and BFF methodology (backend-for-frontend). Then I went to my first international project, implementing Observability using Grafana and Docker.",
-						"ZZ": ""
-					}
-				},
-				{
-					"text": {
-						"PT": "O quarto projeto atendia clientes internos, utilizando Google AppScript, Docker, Postgres, TypeScript e TDD. Nesta equipe, eu era o security champion.",
-						"EN": "The fourth project attended internal clients, using Google AppScript, Docker, Postgres, TypeScript and TDD. In this team, I was the security champion.",
+						"PT": "Consultoria, desenvolvimento e manutenção de software de clientes e interno, seguindo boas práticas, melhoria contínua, pareamento, TDD e outras práticas ágeis.",
+						"EN": "Consulting, development and maintenance of client and internal software, following best practices, continuous improvement, pairing, TDD and other agile practices.",
 						"ZZ": ""
 					}
 				}
@@ -629,22 +615,22 @@
 			"highlights": [
 				{
 					"text": {
-						"PT": "Sou reconhecido como alguém que conhece profundamente o git, e as pessoas me procuram quando têm um problema para resolver sobre",
-						"EN": "I'm recognized as someone that knows git deeply, and people come to me when they have a problem to solve in this matter",
+						"PT": "Reconhecimento pelo conhecimento profundo de git, com colegas buscando ajuda em problemas de git",
+						"EN": "Recognized for deep git knowledge, with colleagues seeking help on git problems",
 						"ZZ": ""
 					}
 				},
 				{
 					"text": {
-						"PT": "Quando a equipe precisou de um security champion, as pessoas sugeriram que fosse eu, dado minha atenção a detalhes e riscos que nem todos conhecem, e essa era uma das minhas responsabilidades",
-						"EN": "When the team needed a security champion, people suggested that it was me, given my attention to details and risks that not everyone is aware to, and this was one of my responsibilities",
+						"PT": "Security champion da equipe, indicado pelos colegas pela atenção a detalhes e a riscos que nem todos conhecem",
+						"EN": "Security champion of the team, suggested by colleagues for attention to details and risks that not everyone is aware of",
 						"ZZ": ""
 					}
 				},
 				{
 					"text": {
-						"PT": "As pessoas me elogiam por estar sempre atento ao bem-estar das pessoas, tentando trazer um ambiente onde todos se sintam seguros",
-						"EN": "People praise me for being always alert to people welfare, trying to bring an environment where everyone feels safe",
+						"PT": "Elogios pela atenção ao bem-estar das pessoas e por trazer um ambiente onde todos se sintam seguros",
+						"EN": "Praised for attention to people's well-being and for bringing an environment where everyone feels safe",
 						"ZZ": ""
 					}
 				}
@@ -652,35 +638,35 @@
 			"projects": [
 				{
 					"text": {
-						"PT": "Projeto de representação gráfica de métricas ágeis",
-						"EN": "Agile metrics graphical representation project",
+						"PT": "Representação gráfica de métricas ágeis, mostrando a saúde dos quadros kanban",
+						"EN": "Graphical representation of agile metrics, showing the health of kanban boards",
 						"ZZ": ""
 					},
-					"tools": "Typescript, Node"
+					"tools": "TypeScript, Node.js"
 				},
 				{
 					"text": {
-						"PT": "Site para imobiliária",
-						"EN": "Real estate agency website",
+						"PT": "Site de imobiliária para aluguel e venda de casas e apartamentos",
+						"EN": "Real estate agency website for renting and selling houses and flats",
 						"ZZ": ""
 					},
-					"tools": "Java, Node, Angular"
+					"tools": "Java, Node.js, Angular, Microservices, Backend for Frontend"
 				},
 				{
 					"text": {
-						"PT": "Projeto de observação de métricas de funcionamento de infra",
-						"EN": "Infrastructure metrics for observability",
+						"PT": "Métricas de infraestrutura para observabilidade, o primeiro projeto internacional",
+						"EN": "Infrastructure metrics for observability, the first international project",
 						"ZZ": ""
 					},
 					"tools": "C#, Docker, Grafana"
 				},
 				{
 					"text": {
-						"PT": "Automatização de planilhas financeiras usando addon",
-						"EN": "Financial spreadsheet automation using addon",
+						"PT": "Automatização de planilhas financeiras com add-on",
+						"EN": "Financial spreadsheet automation with an add-on",
 						"ZZ": ""
 					},
-					"tools": "Typescript, Node, Google App Script, Postgres"
+					"tools": "TypeScript, Node.js, Google Apps Script, Docker, Postgres"
 				},
 				{
 					"text": {
@@ -688,7 +674,7 @@
 						"EN": "Web system for enterprise internal mentoring",
 						"ZZ": ""
 					},
-					"tools": "Typescript, Node, Postgres"
+					"tools": "TypeScript, Node.js, Postgres"
 				}
 			]
 		},
