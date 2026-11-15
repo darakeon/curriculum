@@ -527,57 +527,79 @@
 				"ZZ": ""
 			},
 			"responsibility": {
-				"PT": "Manutenção de mundo físico e de backend core",
-				"EN": "Maintenance of physical transactions sdks and company core backend",
+				"PT": "Desenvolvimento Full Stack e Mobile",
+				"EN": "Full Stack and Mobile Development",
 				"ZZ": ""
 			},
 			"details": [
 				{
 					"text": {
-						"PT": "Trabalhei em alguns projetos enquanto estava na Pagar.me. O primeiro foi um SDK .NET para comunicação com máquinas de pagamento. Depois disso, fiz parte da equipe responsável pela criação de uma nova biblioteca unificada de frontend para a empresa dona da Pagar.me, usando React. Em seguida iniciei o desenvolvimento da integração para utilização dos cartões refeição / alimentação nas máquinas de pagamento. Eu fiz parte de uma melhoria de segurança que a empresa teve que fazer, quando tive que trabalhar com várias equipes diferentes para alcançar os resultados. Como último projeto fui a uma equipe para iniciar um novo projeto, para atender clientes menores que precisavam de máquinas de pagamento para melhorar seus negócios e modernizar sua forma de vender seus produtos.",
-						"EN": "I've worked on some projects while working in Pagar.me. The first of it was a .NET SDK for communicating with payment machines. After that, I was part of the team that was responsible for creating a new unified frontend library for the mother-company of Pagar.me, using React. Then I started the development of integration to use voucher cards in payment machines. I was part of a security improvement the company had to make, when I had to pair with a bunch of different teams to achieve the results. As a last project I went to a team to start a new project, to attend smaller clients that needed payment machines to improve their business and modernize their way to sell their goods.",
+						"PT": "Desenvolvimento e manutenção de SDKs e aplicações para máquinas de pagamento físicas, e do backend principal da empresa. Criação de funcionalidades em .NET, Kotlin, Rust, Node.js e React.",
+						"EN": "Development and maintenance of SDKs and applications for physical payment terminals, and of the company's core backend. Creation of features in .NET, Kotlin, Rust, Node.js and React.",
 						"ZZ": ""
 					}
 				}
 			],
-			"highlights": [],
+			"highlights": [
+				{
+					"text": {
+						"PT": "Entrega, junto com um colega, de uma funcionalidade prometida a um grande cliente, ajudando a evitar uma ação judicial do cliente",
+						"EN": "Delivery, with a colleague, of a feature promised to a large client, helping avoid legal action by the client",
+						"ZZ": ""
+					}
+				},
+				{
+					"text": {
+						"PT": "Pairing com várias equipes durante um esforço de correção de segurança que envolveu a empresa inteira",
+						"EN": "Pairing across several teams during a company-wide security remediation effort",
+						"ZZ": ""
+					}
+				},
+				{
+					"text": {
+						"PT": "Cinco palestras no canal oficial da empresa no YouTube",
+						"EN": "Five talks on the company's official YouTube channel",
+						"ZZ": ""
+					}
+				}
+			],
 			"projects": [
 				{
 					"text": {
-						"PT": "SDKs Mpos",
-						"EN": "Machines SDK",
+						"PT": "SDK de comunicação com máquinas de pagamento",
+						"EN": "SDK for communication with payment terminals",
 						"ZZ": ""
 					},
 					"tools": ".NET, Kotlin, Rust, Gradle"
 				},
 				{
 					"text": {
-						"PT": "Aplicativo de comunicação de maquininha com site de cliente",
-						"EN": "App to communicate machine with client site",
+						"PT": "Aplicativo para conectar a máquina ao site do cliente",
+						"EN": "App to connect the terminal to the client's website",
 						"ZZ": ""
 					},
 					"tools": ".NET"
 				},
 				{
 					"text": {
-						"PT": "Manutenções no sistema core",
-						"EN": "Maintenance at the company core system",
+						"PT": "Manutenção dos sistemas centrais da empresa",
+						"EN": "Maintenance of the company's core systems",
 						"ZZ": ""
 					},
-					"tools": "Node"
+					"tools": "Node.js"
 				},
 				{
 					"text": {
-						"PT": "Aplicativo de pagamento e gerenciamento de transações com cartões físicos",
-						"EN": "App of payment and transaction management with physical cards",
+						"PT": "Aplicativo de pagamento e gestão de transações para cartões físicos",
+						"EN": "Payment and transaction management app for physical cards",
 						"ZZ": ""
 					},
 					"tools": "Kotlin, Gradle"
 				},
 				{
 					"text": {
-						"PT": "Início de uma nova dashboard com unificação da identidade visual da empresa",
-						"EN": "Start of new dashboard with company visual identity unification",
+						"PT": "Novo dashboard, unificando a identidade visual da empresa",
+						"EN": "New dashboard, unifying the company's visual identity",
 						"ZZ": ""
 					},
 					"tools": "React, Open Source"
