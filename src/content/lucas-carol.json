@@ -1269,6 +1269,11 @@
 		{
 			"start": "2010",
 			"end": null,
+			"country": {
+				"PT": "Saturno",
+				"EN": "Saturn",
+				"ZZ": ""
+			},
 			"enterprise": "Don't fly Money",
 			"enterpriseDescription": {
 				"PT": "É um sistema de gerenciamento financeiro que visa uma forma simples de gerenciar os ganhos e gastos de uma pessoa.",
