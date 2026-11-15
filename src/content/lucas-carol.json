@@ -935,14 +935,14 @@
 		{
 			"start": "2025-08",
 			"end": null,
-			"enterprise": "KodAuti A11y Tech",
-			"enterpriseDescription": {
+			"via": "KodAuti A11y Tech",
+			"viaDescription": {
 				"PT": "Tecnologia para o crescimento humano",
 				"EN": "Technology for human growth",
 				"ZZ": ""
 			},
-			"client": "Inspira Tecnologia (B2B)",
-			"clientDescription": {
+			"enterprise": "Inspira Tecnologia (B2B)",
+			"enterpriseDescription": {
 				"PT": "Uma empresa de tecnologia e inovação focada em metodologias ágeis e aprendizagem contínua",
 				"EN": "A technology and innovation company focused on agile methodologies and continuous learning",
 				"ZZ": ""
@@ -1005,14 +1005,14 @@
 		{
 			"start": "2025-12",
 			"end": "2026-03",
-			"enterprise": "KodAuti A11y Tech",
-			"enterpriseDescription": {
+			"via": "KodAuti A11y Tech",
+			"viaDescription": {
 				"PT": "Tecnologia para o crescimento humano",
 				"EN": "Technology for human growth",
 				"ZZ": ""
 			},
-			"client": "ManyChat",
-			"clientDescription": {
+			"enterprise": "ManyChat",
+			"enterpriseDescription": {
 				"PT": "Plataforma para construção de automações e fluxos de chat",
 				"EN": "Platform for building chat automations and workflows",
 				"ZZ": ""
@@ -1067,14 +1067,14 @@
 		{
 			"start": "2026-04",
 			"end": null,
-			"enterprise": "KodAuti A11y Tech",
-			"enterpriseDescription": {
+			"via": "KodAuti A11y Tech",
+			"viaDescription": {
 				"PT": "Tecnologia para o crescimento humano",
 				"EN": "Technology for human growth",
 				"ZZ": ""
 			},
-			"client": "Decskill",
-			"clientDescription": {
+			"enterprise": "Decskill",
+			"enterpriseDescription": {
 				"PT": "Consultoria em TI",
 				"EN": "IT Consulting",
 				"ZZ": ""

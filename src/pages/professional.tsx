@@ -32,25 +32,27 @@ function Professional({ content, lang }: CurriculumLanguage) {
 						</small>
 					</h4>
 
-					<h5>
-						<span className="copy-me" onClick={copyContent}>
-							{p.enterprise}
-						</span>
-						<small className="copy-me" onClick={copyContent}>
-							{byLang(p.enterpriseDescription, lang)}
-						</small>
-					</h5>
-
-					{p.client && (
-						<h6>
+					<div className="enterprise-via">
+						<h5>
 							<span className="copy-me" onClick={copyContent}>
-								{p.client}
+								{p.enterprise}
 							</span>
 							<small className="copy-me" onClick={copyContent}>
-								{p.clientDescription && byLang(p.clientDescription, lang)}
+								{byLang(p.enterpriseDescription, lang)}
 							</small>
-						</h6>
-					)}
+						</h5>
+
+						{p.via && (
+							<h6>
+								<span className="copy-me" onClick={copyContent}>
+									{p.via}
+								</span>
+								<small className="copy-me" onClick={copyContent}>
+									{p.viaDescription && byLang(p.viaDescription, lang)}
+								</small>
+							</h6>
+						)}
+					</div>
 
 					<article className="copy-me" onClick={copyContent}>
 						{p.details.map((d, di) => (
