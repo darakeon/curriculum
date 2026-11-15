@@ -61,7 +61,7 @@ function Independent({ content, lang }: CurriculumLanguage) {
 						{i.projects.map((p, pi) => (
 							<li key={pi}>
 								{byLang(p.text, lang)}
-								<small>{p.tools}</small>
+								<small>{p.tools.join(", ")}</small>
 							</li>
 						))}
 					</ul>

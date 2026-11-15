@@ -70,7 +70,7 @@ function Professional({ content, lang }: CurriculumLanguage) {
 						{p.projects.map((pj, pji) => (
 							<li key={pji}>
 								{byLang(pj.text, lang)}
-								<small>{pj.tools}</small>
+								<small>{pj.tools.join(", ")}</small>
 							</li>
 						))}
 					</ul>

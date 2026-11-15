@@ -387,7 +387,7 @@
 						"EN": "Development and maintenance of a web system, backend and frontend",
 						"ZZ": ""
 					},
-					"tools": "Classic ASP, IIS, SQL Server, HTML, CSS, JavaScript"
+					"tools": [ "Classic ASP", "IIS", "SQL Server", "HTML", "CSS", "JavaScript" ]
 				}
 			]
 		},
@@ -454,7 +454,7 @@
 						"EN": "Sport and physiotherapy management system",
 						"ZZ": ""
 					},
-					"tools": ".NET, C#, MVC, NHibernate, SQL"
+					"tools": [ ".NET", "C#", "MVC", "NHibernate", "SQL" ]
 				},
 				{
 					"text": {
@@ -462,7 +462,7 @@
 						"EN": "NGO organization system",
 						"ZZ": ""
 					},
-					"tools": ".NET, C#, WebForms, T-SQL"
+					"tools": [ ".NET", "C#", "WebForms", "T-SQL" ]
 				},
 				{
 					"text": {
@@ -470,7 +470,7 @@
 						"EN": "Energy manager website",
 						"ZZ": ""
 					},
-					"tools": ".NET, C#"
+					"tools": [ ".NET", "C#" ]
 				},
 				{
 					"text": {
@@ -478,7 +478,7 @@
 						"EN": "Flight company website",
 						"ZZ": ""
 					},
-					"tools": ".NET, C#"
+					"tools": [ ".NET", "C#" ]
 				},
 				{
 					"text": {
@@ -486,7 +486,7 @@
 						"EN": "Mobile operator marketing site",
 						"ZZ": ""
 					},
-					"tools": ".NET, C#, T-SQL"
+					"tools": [ ".NET", "C#", "T-SQL" ]
 				},
 				{
 					"text": {
@@ -494,7 +494,7 @@
 						"EN": "Startup collaboration system",
 						"ZZ": ""
 					},
-					"tools": ".NET, C#, MVC, NHibernate, SQL"
+					"tools": [ ".NET", "C#", "MVC", "NHibernate", "SQL" ]
 				},
 				{
 					"text": {
@@ -502,7 +502,7 @@
 						"EN": "Book publishing and courses e-commerce",
 						"ZZ": ""
 					},
-					"tools": ".NET, C#, NopCommerce, WebForms, Entity Framework"
+					"tools": [ ".NET", "C#", "NopCommerce", "WebForms", "Entity Framework" ]
 				},
 				{
 					"text": {
@@ -510,7 +510,7 @@
 						"EN": "Card transactions site and desktop app",
 						"ZZ": ""
 					},
-					"tools": ".NET, C#, Windows Forms, MVC, NHibernate, MySQL"
+					"tools": [ ".NET", "C#", "Windows Forms", "MVC", "NHibernate", "MySQL" ]
 				},
 				{
 					"text": {
@@ -518,7 +518,7 @@
 						"EN": "Automated tests for an electronic contract signing company",
 						"ZZ": ""
 					},
-					"tools": ".NET, C#, SpecFlow"
+					"tools": [ ".NET", "C#", "SpecFlow" ]
 				}
 			]
 		},
@@ -585,7 +585,7 @@
 						"EN": "SDK for communication with payment terminals",
 						"ZZ": ""
 					},
-					"tools": ".NET, Kotlin, Rust, Gradle"
+					"tools": [ ".NET", "Kotlin", "Rust", "Gradle" ]
 				},
 				{
 					"text": {
@@ -593,7 +593,7 @@
 						"EN": "App to connect the terminal to the client's website",
 						"ZZ": ""
 					},
-					"tools": ".NET"
+					"tools": [ ".NET" ]
 				},
 				{
 					"text": {
@@ -601,7 +601,7 @@
 						"EN": "Maintenance of the company's core systems",
 						"ZZ": ""
 					},
-					"tools": "Node.js"
+					"tools": [ "Node.js" ]
 				},
 				{
 					"text": {
@@ -609,7 +609,7 @@
 						"EN": "Payment and transaction management app for physical cards",
 						"ZZ": ""
 					},
-					"tools": "Kotlin, Gradle"
+					"tools": [ "Kotlin", "Gradle" ]
 				},
 				{
 					"text": {
@@ -617,7 +617,7 @@
 						"EN": "New dashboard, unifying the company's visual identity",
 						"ZZ": ""
 					},
-					"tools": "React, Open Source"
+					"tools": [ "React", "Open Source" ]
 				}
 			]
 		},
@@ -684,7 +684,7 @@
 						"EN": "Graphical representation of agile metrics, showing the health of kanban boards",
 						"ZZ": ""
 					},
-					"tools": "TypeScript, Node.js"
+					"tools": [ "TypeScript", "Node.js" ]
 				},
 				{
 					"text": {
@@ -692,7 +692,7 @@
 						"EN": "Real estate agency website for renting and selling houses and flats",
 						"ZZ": ""
 					},
-					"tools": "Java, Node.js, Angular, Microservices, Backend for Frontend"
+					"tools": [ "Java", "Node.js", "Angular", "Microservices", "Backend for Frontend" ]
 				},
 				{
 					"text": {
@@ -700,7 +700,7 @@
 						"EN": "Infrastructure metrics for observability, the first international project",
 						"ZZ": ""
 					},
-					"tools": "C#, Docker, Grafana"
+					"tools": [ "C#", "Docker", "Grafana" ]
 				},
 				{
 					"text": {
@@ -708,7 +708,7 @@
 						"EN": "Financial spreadsheet automation with an add-on",
 						"ZZ": ""
 					},
-					"tools": "TypeScript, Node.js, Google Apps Script, Docker, Postgres"
+					"tools": [ "TypeScript", "Node.js", "Google Apps Script", "Docker", "Postgres" ]
 				},
 				{
 					"text": {
@@ -716,7 +716,7 @@
 						"EN": "Web system for enterprise internal mentoring",
 						"ZZ": ""
 					},
-					"tools": "TypeScript, Node.js, Postgres"
+					"tools": [ "TypeScript", "Node.js", "Postgres" ]
 				}
 			]
 		},
@@ -769,7 +769,7 @@
 						"EN": "Customizations for clients, built in a browser graphical interface",
 						"ZZ": ""
 					},
-					"tools": "Node.js, Node-RED"
+					"tools": [ "Node.js", "Node-RED" ]
 				},
 				{
 					"text": {
@@ -777,7 +777,7 @@
 						"EN": "New features and bug fixes in the core REST APIs",
 						"ZZ": ""
 					},
-					"tools": "Python"
+					"tools": [ "Python" ]
 				}
 			]
 		},
@@ -822,7 +822,7 @@
 						"EN": "Web system for a client and company relationship program",
 						"ZZ": ""
 					},
-					"tools": "Java, Spring Boot, Postgres, Docker"
+					"tools": [ "Java", "Spring Boot", "Postgres", "Docker" ]
 				},
 				{
 					"text": {
@@ -830,7 +830,7 @@
 						"EN": "Web system for Covenants registration and follow-up",
 						"ZZ": ""
 					},
-					"tools": "Java, Spring Boot, Postgres, Docker, React"
+					"tools": [ "Java", "Spring Boot", "Postgres", "Docker", "React" ]
 				}
 			]
 		},
@@ -875,7 +875,7 @@
 						"EN": "Institutional landing page",
 						"ZZ": ""
 					},
-					"tools": "Node.js, React, Vercel"
+					"tools": [ "Node.js", "React", "Vercel" ]
 				},
 				{
 					"text": {
@@ -883,7 +883,7 @@
 						"EN": "Task management system focused on accessibility",
 						"ZZ": ""
 					},
-					"tools": "Python, FastAPI, Node.js, React, Kotlin, Jetpack Compose, Postgres, Docker, Azure, Vercel, Google Play Console"
+					"tools": [ "Python", "FastAPI", "Node.js", "React", "Kotlin", "Jetpack Compose", "Postgres", "Docker", "Azure", "Vercel", "Google Play Console" ]
 				}
 			]
 		},
@@ -936,7 +936,7 @@
 						"EN": "Integration of a Java web application with a local program and a biometric recognition device",
 						"ZZ": ""
 					},
-					"tools": "Java, C++, WebSocket, Keycloak"
+					"tools": [ "Java", "C++", "WebSocket", "Keycloak" ]
 				},
 				{
 					"text": {
@@ -944,7 +944,7 @@
 						"EN": "Restaurant menu web system for a client in the United Kingdom, with focus on backend and automated tests",
 						"ZZ": ""
 					},
-					"tools": "Microservices, C#, .NET Core, Azure"
+					"tools": [ "Microservices", "C#", ".NET Core", "Azure" ]
 				}
 			]
 		},
@@ -989,7 +989,7 @@
 						"EN": "Vehicle location app",
 						"ZZ": ""
 					},
-					"tools": "Dart, Flutter"
+					"tools": [ "Dart", "Flutter" ]
 				},
 				{
 					"text": {
@@ -997,7 +997,7 @@
 						"EN": "Repair service management system for restaurant branches",
 						"ZZ": ""
 					},
-					"tools": "Dart, Flutter, Python, Django"
+					"tools": [ "Dart", "Flutter", "Python", "Django" ]
 				}
 			]
 		},
@@ -1048,7 +1048,7 @@
 						"EN": "Vehicle rental and driver hire app",
 						"ZZ": ""
 					},
-					"tools": "Dart, Flutter"
+					"tools": [ "Dart", "Flutter" ]
 				},
 				{
 					"text": {
@@ -1056,7 +1056,7 @@
 						"EN": "Maintenance of a banking system",
 						"ZZ": ""
 					},
-					"tools": "Java, Microservices, AWS"
+					"tools": [ "Java", "Microservices", "AWS" ]
 				},
 				{
 					"text": {
@@ -1064,7 +1064,7 @@
 						"EN": "Responsiveness improvements on a learning platform",
 						"ZZ": ""
 					},
-					"tools": "Vue, Tailwind, CSS, HTML"
+					"tools": [ "Vue", "Tailwind", "CSS", "HTML" ]
 				},
 				{
 					"text": {
@@ -1072,7 +1072,7 @@
 						"EN": "Integration of applications with a single sign-on microservice, and maintenance of the microservice",
 						"ZZ": ""
 					},
-					"tools": "Java, Spring, Node.js, Vue, Python, FastAPI"
+					"tools": [ "Java", "Spring", "Node.js", "Vue", "Python", "FastAPI" ]
 				}
 			]
 		},
@@ -1123,7 +1123,7 @@
 						"EN": "Internal automations and scripts",
 						"ZZ": ""
 					},
-					"tools": "Node.js, AWS"
+					"tools": [ "Node.js", "AWS" ]
 				},
 				{
 					"text": {
@@ -1131,7 +1131,7 @@
 						"EN": "Workflows for internal processes",
 						"ZZ": ""
 					},
-					"tools": "Temporal, Node.js"
+					"tools": [ "Temporal", "Node.js" ]
 				},
 				{
 					"text": {
@@ -1139,7 +1139,7 @@
 						"EN": "Integrations between internal work tools",
 						"ZZ": ""
 					},
-					"tools": "Node.js, Slack API, Notion API, Asana API, Google Calendar API"
+					"tools": [ "Node.js", "Slack API", "Notion API", "Asana API", "Google Calendar API" ]
 				}
 			]
 		},
@@ -1212,7 +1212,7 @@
 						"EN": "ETLs for energy data processing",
 						"ZZ": ""
 					},
-					"tools": "Python, Azure DevOps, Service Bus, Azure Functions"
+					"tools": [ "Python", "Azure DevOps", "Service Bus", "Azure Functions" ]
 				},
 				{
 					"text": {
@@ -1220,7 +1220,7 @@
 						"EN": "Middleware for frontend intermediation",
 						"ZZ": ""
 					},
-					"tools": "Python, FastAPI, Azure Web Apps, SQL Server"
+					"tools": [ "Python", "FastAPI", "Azure Web Apps", "SQL Server" ]
 				},
 				{
 					"text": {
@@ -1228,7 +1228,7 @@
 						"EN": "Backend services for integration with external systems and data synchronization",
 						"ZZ": ""
 					},
-					"tools": "Python, C#, .NET 8, Azure Functions, Service Bus, Dataverse, SQL Server"
+					"tools": [ "Python", "C#", ".NET 8", "Azure Functions", "Service Bus", "Dataverse", "SQL Server" ]
 				},
 				{
 					"text": {
@@ -1236,7 +1236,7 @@
 						"EN": "Financial and backoffice web applications",
 						"ZZ": ""
 					},
-					"tools": "React, TypeScript, Vite"
+					"tools": [ "React", "TypeScript", "Vite" ]
 				}
 			]
 		}
@@ -1317,7 +1317,7 @@
 						"EN": "Core library with business logic with automated tests",
 						"ZZ": ""
 					},
-					"tools": ".NET, C#, NHibernate, BDD, Specflow"
+					"tools": [ ".NET", "C#", "NHibernate", "BDD", "SpecFlow" ]
 				},
 				{
 					"text": {
@@ -1325,7 +1325,7 @@
 						"EN": "Website with browser automated tests",
 						"ZZ": ""
 					},
-					"tools": ".NET, C#, MVC, HTML, CSS, javascript, jQuery, Bootstrap, Puppeteer"
+					"tools": [ ".NET", "C#", "MVC", "HTML", "CSS", "JavaScript", "jQuery", "Bootstrap", "Puppeteer" ]
 				},
 				{
 					"text": {
@@ -1333,7 +1333,7 @@
 						"EN": "API",
 						"ZZ": ""
 					},
-					"tools": ".NET, C#, MVC"
+					"tools": [ ".NET", "C#", "MVC" ]
 				},
 				{
 					"text": {
@@ -1341,7 +1341,7 @@
 						"EN": "Android app with automated tests",
 						"ZZ": ""
 					},
-					"tools": "Kotlin, retrofit, junit, robolectric"
+					"tools": [ "Kotlin", "Retrofit", "JUnit", "Robolectric" ]
 				},
 				{
 					"text": {
@@ -1349,7 +1349,7 @@
 						"EN": "Database",
 						"ZZ": ""
 					},
-					"tools": "MySQL, AWS RDS"
+					"tools": [ "MySQL", "AWS RDS" ]
 				},
 				{
 					"text": {
@@ -1357,7 +1357,7 @@
 						"EN": "Web Server",
 						"ZZ": ""
 					},
-					"tools": "AWS EC2 / Route53, Docker"
+					"tools": [ "AWS EC2", "AWS Route53", "Docker" ]
 				},
 				{
 					"text": {
@@ -1365,7 +1365,7 @@
 						"EN": "Integration with automated tests running at push",
 						"ZZ": ""
 					},
-					"tools": "Circle CI, Docker"
+					"tools": [ "CircleCI", "Docker" ]
 				},
 				{
 					"text": {
@@ -1373,7 +1373,7 @@
 						"EN": "Email to send notifications to the people who uses the system",
 						"ZZ": ""
 					},
-					"tools": "AWS SES / Lambda / S3"
+					"tools": [ "AWS SES", "AWS Lambda", "AWS S3" ]
 				}
 			]
 		}
