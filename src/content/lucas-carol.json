@@ -755,15 +755,15 @@
 				"ZZ": ""
 			},
 			"responsibility": {
-				"PT": "Desenvolvimento Backend e Frontend",
-				"EN": "Backend and Frontend Development",
+				"PT": "Desenvolvimento Full Stack",
+				"EN": "Full Stack Development",
 				"ZZ": ""
 			},
 			"details": [
 				{
 					"text": {
-						"PT": "Trabalhei em dois projetos que precisavam de um reforço nos times, desenvolvendo, revisando código e auxiliando em decisões técnicas.",
-						"EN": "I worked in two projects that was in the need of technical reinforcement, developing, reviewing code and helping on technical decisions.",
+						"PT": "Reforço técnico para dois projetos, com desenvolvimento, revisão de código e apoio em decisões técnicas. Criação de funcionalidades em Java, Spring Boot e React.",
+						"EN": "Technical reinforcement for two projects, with development, code review and support in technical decisions. Creation of features in Java, Spring Boot and React.",
 						"ZZ": ""
 					}
 				}
@@ -772,16 +772,16 @@
 			"projects": [
 				{
 					"text": {
-						"PT": "Sistema online para Programa de Relacionamento entre empresa e clientes",
-						"EN": "Client/company relationship program Web System",
+						"PT": "Sistema web de programa de relacionamento entre clientes e empresa",
+						"EN": "Web system for a client and company relationship program",
 						"ZZ": ""
 					},
 					"tools": "Java, Spring Boot, Postgres, Docker"
 				},
 				{
 					"text": {
-						"PT": "Sistema online de registro e acompanhamento de contratos",
-						"EN": "Covenants register and follow up Web System",
+						"PT": "Sistema web de cadastro e acompanhamento de Covenants",
+						"EN": "Web system for Covenants registration and follow-up",
 						"ZZ": ""
 					},
 					"tools": "Java, Spring Boot, Postgres, Docker, React"
