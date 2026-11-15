@@ -846,20 +846,20 @@
 				"ZZ": ""
 			},
 			"role": {
-				"PT": "Senior Full Stack",
-				"EN": "Senior Full Stack",
+				"PT": "Senior Software Developer",
+				"EN": "Senior Software Developer",
 				"ZZ": ""
 			},
 			"responsibility": {
-				"PT": "Desenvolvimento Backend e IoT",
-				"EN": "Backend and IoT Development",
+				"PT": "Desenvolvimento Full Stack, Backend e IoT",
+				"EN": "Full Stack, Backend and IoT Development",
 				"ZZ": ""
 			},
 			"details": [
 				{
 					"text": {
-						"PT": "Trabalho em projetos de integração de sistemas e desenvolvimento web. O primeiro projeto envolveu a integração de um aplicativo web Java com um programa Java local para interagir com uma biblioteca C++ para reconhecimento biométrico. Outro projeto focou no desenvolvimento de um sistema web baseado em microsserviços usando C#, .NET Core e Azure, centrado em desenvolvimento de backend e testes automatizados.",
-						"EN": "Working on system integration and web development projects. One project involved integrating a Java web application with a local Java program to interface with a C++ library for biometric recognition. Another project is developing a microservices-based web system using C#, .NET Core, and Azure, with a focus on backend development and automated testing.",
+						"PT": "Projetos de integração de sistemas e desenvolvimento web. Criação de funcionalidades e testes automatizados em Java e C#, e integração com bibliotecas C++ e dispositivos biométricos.",
+						"EN": "System integration and web development projects. Creation of features and automated tests in Java and C#, and integration with C++ libraries and biometric devices.",
 						"ZZ": ""
 					}
 				}
@@ -868,16 +868,16 @@
 			"projects": [
 				{
 					"text": {
-						"PT": "Sistema de integração com biometria",
-						"EN": "Biometric system integration",
+						"PT": "Integração de uma aplicação web Java com um programa local e um dispositivo de reconhecimento biométrico",
+						"EN": "Integration of a Java web application with a local program and a biometric recognition device",
 						"ZZ": ""
 					},
-					"tools": "Java, C++, Websocket, Keycloak"
+					"tools": "Java, C++, WebSocket, Keycloak"
 				},
 				{
 					"text": {
-						"PT": "Projeto com microserviços para menu de restaurante",
-						"EN": "Web system for restaurant menu",
+						"PT": "Sistema web de cardápio para restaurantes, com foco em backend e testes automatizados",
+						"EN": "Restaurant menu web system, with focus on backend and automated tests",
 						"ZZ": ""
 					},
 					"tools": "Microservices, C#, .NET Core, Azure"
