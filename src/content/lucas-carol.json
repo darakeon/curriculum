@@ -339,15 +339,15 @@
 				"ZZ": ""
 			},
 			"responsibility": {
-				"PT": "Manutenção e criação de novas funcionalidades para sistema de questionários.",
-				"EN": "Maintenance and creation of new features to the questionnaires system.",
+				"PT": "Desenvolvimento Full Stack",
+				"EN": "Full Stack Development",
 				"ZZ": ""
 			},
 			"details": [
 				{
 					"text": {
-						"PT": "Tendo iniciado para substituir uma pessoa, após o segundo mês recebi a responsabilidade sobre todo o sistema: database, backend e frontend. Durante meus anos lá, tive três pessoas para ensinar e gerenciar. As tecnologias que aprendi foram ASP clássico, IIS, SQL, HTML, CSS e Javascript.",
-						"EN": "Starting to replace a colleague, after the second month I took sole responsibility over the entire system: database, backend and frontend. During my years there, I had three people to teach and manage. The technologies I learned there were classic ASP, IIS, SQL, HTML, CSS and Javascript.",
+						"PT": "Manutenção e criação de novas funcionalidades de um sistema online de questionários, cobrindo banco de dados, backend e frontend, em ASP clássico, IIS, SQL, HTML, CSS e JavaScript.",
+						"EN": "Maintenance and creation of new features for an online questionnaires system, covering database, backend and frontend, in classic ASP, IIS, SQL, HTML, CSS and JavaScript.",
 						"ZZ": ""
 					}
 				}
@@ -355,22 +355,22 @@
 			"highlights": [
 				{
 					"text": {
-						"PT": "Entrei para cuidar de todo o sistema. Não tinha quase experiência e acreditaram que eu poderia assumir sozinho após o segundo mês;",
-						"EN": "I entered to take care of the entire system. I had too little experience and they trusted me to be doing the job by myself from the second month;",
+						"PT": "Responsabilidade por todo o sistema a partir do segundo mês, apesar da pouca experiência",
+						"EN": "Entrusted with the entire system from the second month, despite limited experience",
 						"ZZ": ""
 					}
 				},
 				{
 					"text": {
-						"PT": "Tive outras três pessoas em estágio sob minha responsabilidade;",
-						"EN": "I had three other interns as my responsibility;",
+						"PT": "Responsável por três estagiários",
+						"EN": "Responsible for three interns",
 						"ZZ": ""
 					}
 				},
 				{
 					"text": {
-						"PT": "Quando saí ainda trabalhei como freelancer para ensinar uma nova pessoa e resolver problemas.",
-						"EN": "When I left I still worked with them as freelancer to teach the new developer and solve bugs.",
+						"PT": "Continuidade como freelancer após a saída, treinando o novo desenvolvedor e corrigindo bugs",
+						"EN": "Continued as a freelancer after leaving, training the new developer and fixing bugs",
 						"ZZ": ""
 					}
 				}
@@ -378,11 +378,11 @@
 			"projects": [
 				{
 					"text": {
-						"PT": "Desenvolvimento e manutenção do sistema web, backend e frontend",
-						"EN": "Development and maintenance of web system, backend and frontend",
+						"PT": "Desenvolvimento e manutenção de um sistema web, backend e frontend",
+						"EN": "Development and maintenance of a web system, backend and frontend",
 						"ZZ": ""
 					},
-					"tools": "ASP, SQL Server, HTML, CSS, Javascript"
+					"tools": "Classic ASP, IIS, SQL Server, HTML, CSS, JavaScript"
 				}
 			]
 		},
