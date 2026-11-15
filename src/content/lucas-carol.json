@@ -706,7 +706,15 @@
 					}
 				}
 			],
-			"highlights": [],
+			"highlights": [
+				{
+					"text": {
+						"PT": "Responsável por um cliente, entregando uma integração de seguros entre uma grande empresa de telefonia e a Habit, entre Brasil e Portugal",
+						"EN": "Responsible for a client, delivering an insurance integration between a large telecom company and Habit, across Brazil and Portugal",
+						"ZZ": ""
+					}
+				}
+			],
 			"projects": [
 				{
 					"text": {
@@ -850,7 +858,15 @@
 					}
 				}
 			],
-			"highlights": [],
+			"highlights": [
+				{
+					"text": {
+						"PT": "Líder técnico de um projeto de IoT em uma equipe de duas pessoas com uma desenvolvedora júnior na Índia, aprendendo a área juntos e organizando o quadro do projeto",
+						"EN": "Technical lead of an IoT project in a two-person team with a junior developer in India, learning the field together and organizing the project board",
+						"ZZ": ""
+					}
+				}
+			],
 			"projects": [
 				{
 					"text": {
@@ -862,8 +878,8 @@
 				},
 				{
 					"text": {
-						"PT": "Sistema web de cardápio para restaurantes, com foco em backend e testes automatizados",
-						"EN": "Restaurant menu web system, with focus on backend and automated tests",
+						"PT": "Sistema web de cardápio para restaurantes, para um cliente no Reino Unido, com foco em backend e testes automatizados",
+						"EN": "Restaurant menu web system for a client in the United Kingdom, with focus on backend and automated tests",
 						"ZZ": ""
 					},
 					"tools": "Microservices, C#, .NET Core, Azure"
@@ -1084,7 +1100,29 @@
 					}
 				}
 			],
-			"highlights": [],
+			"highlights": [
+				{
+					"text": {
+						"PT": "Apoio ao tech lead na organização de pull requests",
+						"EN": "Support to the tech lead in organizing pull requests",
+						"ZZ": ""
+					}
+				},
+				{
+					"text": {
+						"PT": "Participação na transição da consultoria anterior",
+						"EN": "Part of the transition from the previous consultancy",
+						"ZZ": ""
+					}
+				},
+				{
+					"text": {
+						"PT": "Refactor de um projeto .NET que tinha o mesmo código duplicado 14 vezes, usando herança, generics e reflection",
+						"EN": "Refactor of a .NET project that had the same code duplicated 14 times, using inheritance, generics and reflection",
+						"ZZ": ""
+					}
+				}
+			],
 			"projects": [
 				{
 					"text": {
