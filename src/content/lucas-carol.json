@@ -23,8 +23,8 @@
 	"coverLetter": [
 		{
 			"paragraph": {
-				"PT": "Trabalho com desenvolvimento de software desde 2007. Já trabalhei com C# .NET, Node, Kotlin, tecnologias de Frontend (HTML, CSS e Javascript), Python e Rust; TDD e BDD para testes; bancos de dados MySQL, Postgres e SQL Server; e Docker, Docker Compose e AWS para infraestrutura.",
-				"EN": "I have been a software developer since 2007. I've worked already with C# .NET, Node, Kotlin, Frontend technologies (HTML, CSS and Javascript), Python and Rust; TDD and BDD for testing; MySQL, Postgres and SQL Server databases; and Docker, Docker Compose, AWS and GCP for infrastructure.",
+				"PT": "Trabalho com desenvolvimento de software desde 2007. Já trabalhei com C# .NET, Node, Kotlin, tecnologias de Frontend (HTML, CSS e JavaScript), Python e Rust; TDD e BDD para testes; bancos de dados MySQL, Postgres e SQL Server; e Docker, Docker Compose, AWS, GCP e Azure para infraestrutura.",
+				"EN": "I have been a software developer since 2007. I've already worked with C# .NET, Node, Kotlin, Frontend technologies (HTML, CSS and JavaScript), Python and Rust; TDD and BDD for testing; MySQL, Postgres and SQL Server databases; and Docker, Docker Compose, AWS, GCP and Azure for infrastructure.",
 				"ZZ": ""
 			}
 		},
@@ -37,29 +37,29 @@
 		},
 		{
 			"paragraph": {
-				"PT": "Mudei para uma empresa de consultoria em desenvolvimento. Na nova empresa, aprendi melhores práticas, como versionamento, orientação a objetos, princípios e práticas ágeis. Tenho orgulho de ter trabalhado nessa empresa até os dias de hoje. Enquanto estava lá, iniciei meu projeto pessoal, chamado Don't fly Money, de controle financeiro pessoal; este ainda hoje é meu espaço para testes e uma grande fonte de aprendizado. Usei nele tecnologias e conceitos que mais tarde usaria para resolver problemas de clientes.",
-				"EN": "Then I moved to a software development consultancy. There I learned better practices, such as versioning, object oriented programming, agile principles and practices. While there, I started my personal project, called Don't fly Money, a system for personal financial management. It is my sandbox and a great source of learning since then. I used technologies in it that later I would use to solve problems of my companies' clients.",
+				"PT": "Mudei para uma empresa de consultoria em desenvolvimento. Na nova empresa, aprendi melhores práticas, como versionamento, orientação a objetos, princípios e práticas ágeis. Tenho orgulho até os dias de hoje de ter trabalhado nessa empresa. Enquanto estava lá, iniciei meu projeto pessoal, chamado Don't fly Money, de controle financeiro pessoal; este ainda hoje é meu espaço para testes e uma grande fonte de aprendizado. Usei nele tecnologias e conceitos que mais tarde usaria para resolver problemas de clientes.",
+				"EN": "Then I moved to a software development consultancy. There I learned better practices, such as versioning, object oriented programming, agile principles and practices. I'm proud, to this day, to have worked at this company. While there, I started my personal project, called Don't fly Money, a system for personal financial management. It is my sandbox and a great source of learning since then. I used technologies in it that later I would use to solve problems of my companies' clients.",
 				"ZZ": ""
 			}
 		},
 		{
 			"paragraph": {
-				"PT": "Depois disso, trabalhei em uma empresa do ramo de pagamentos. Tinham seu próprio produtos e usavam muitas tecnologias novas, no desenvolvimento e na arquitetura. Lá aprendi Node e Rust. E trabalhei com Kotlin pela primeira vez, mas já conhecia, por ter usado no Don't fly money.",
+				"PT": "Depois disso, trabalhei em uma empresa do ramo de pagamentos. Tinham seu próprio produto e usavam muitas tecnologias novas, no desenvolvimento e na arquitetura. Lá aprendi Node e Rust. E trabalhei com Kotlin pela primeira vez, mas já conhecia, por ter usado no Don't fly Money.",
 				"EN": "After that, I worked in a company in the payment industry. They had their own product and they used a bunch of new technologies, in development and architecture. There I learned Node and Rust. And I worked with Kotlin for the first time, but I already knew it, because of Don't fly Money.",
 				"ZZ": ""
 			}
 		},
 		{
 			"paragraph": {
-				"PT": "De 2019 a 2022 trabalhei em uma empresa internacional de excelência em consultoria. Participei de quatro projetos dentro da empresa. Os projetos incluíram tecnologias como Node, Java, microserviços, Observabilidade, Grafana, Docker, Typescript e Google AppScripts. Fui \"security champion\" de meu último time, dada a minha atenção à segurança e detalhes que pessoas normalmente não costumam olhar.",
-				"EN": "From 2019 to 2022 I worked for an international software excellence consultant. I took part in four projects at the company. The projects included technologies like Node, Java, microservices, Observability, Grafana, Docker, Typescript and Google AppScripts. Since 2020, because of the world pandemic, I have worked fully remote. I was the security champion of the last team, given my attention to security and details people don't use to notice.",
+				"PT": "De 2019 a 2022 trabalhei em uma empresa internacional de excelência em consultoria. Participei de quatro times de projetos dentro da empresa. Os projetos incluíram tecnologias como Node, Java, microserviços, Observabilidade, Grafana, Docker, TypeScript e Google Apps Script. Desde 2020, devido à pandemia mundial, trabalho totalmente remoto. Fui security champion de meu último time, dada a minha atenção à segurança e detalhes que pessoas normalmente não costumam olhar.",
+				"EN": "From 2019 to 2022 I worked for an international software excellence consultancy. I took part in four project teams at the company. The projects included technologies like Node, Java, microservices, Observability, Grafana, Docker, TypeScript and Google Apps Script. Since 2020, because of the world pandemic, I have worked fully remote. I was the security champion of the last team, given my attention to security and details people don't usually notice.",
 				"ZZ": ""
 			}
 		},
 		{
 			"paragraph": {
-				"PT": "Entre 2023 e 2024 trabalhei em uma empresa Portuguesa, no time de desenvolvimento backend. Usamos a ferramenta Node-RED e Python para desenvolver customizações para clientes no sistema que conecta seguradoras e distribuidoras. Me mudei para Portugal para estar próximo a empresa e trabalhar presencial um dia por semana.",
-				"EN": "Between 2023 and 2024 I worked in the Portuguesecompany in the backend development team. We use Python for API and Node with Node-RED to develop customization for clients in the system that connects insurers and distributors. I moved to Portugal to be closer to the company, working in the site once a week.",
+				"PT": "Entre 2023 e 2024 trabalhei em uma empresa portuguesa, no time de desenvolvimento backend. Usávamos a ferramenta Node-RED e Python para desenvolver customizações para clientes no sistema que conecta seguradoras e distribuidoras. Me mudei para Portugal para estar próximo a empresa e trabalhar presencial um dia por semana.",
+				"EN": "Between 2023 and 2024 I worked at a Portuguese company in the backend development team. We used Python for API and Node with Node-RED to develop customization for clients in the system that connects insurers and distributors. I moved to Portugal to be closer to the company, working on-site once a week.",
 				"ZZ": ""
 			}
 		},
@@ -73,7 +73,7 @@
 		{
 			"paragraph": {
 				"PT": "Sempre busco oportunidades para crescimento profissional e novos aprendizados, assim como me desenvolver ainda mais com foco em qualidade de software e produto, segurança e nas necessidades das pessoas a quem as aplicações atendem.",
-				"EN": "I always look for news opportunities for professional growth and knowledge improvement, this way developing myself even more with focus on software and product quality, security and the needs of people who use the applications developed.",
+				"EN": "I always look for new opportunities for professional growth and knowledge improvement, this way developing myself even more with focus on software and product quality, security and the needs of people who use the applications developed.",
 				"ZZ": ""
 			}
 		}
