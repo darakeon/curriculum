@@ -8,6 +8,7 @@ import Url from "./url"
 interface Professional extends Dateable {
 	role: Multilanguage
 	responsibility?: Multilanguage
+	country: Multilanguage
 	enterprise: string
 	enterpriseDescription: Multilanguage
 	via?: string

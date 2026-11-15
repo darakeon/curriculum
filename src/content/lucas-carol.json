@@ -327,6 +327,11 @@
 		{
 			"start": "2007-04",
 			"end": "2010-07",
+			"country": {
+				"PT": "Brasil",
+				"EN": "Brazil",
+				"ZZ": ""
+			},
 			"enterprise": "Grupo Ser",
 			"enterpriseDescription": {
 				"PT": "Empresa de RH para avaliação de candidaturas a vagas. Possui um sistema online de questionários, tanto psicológicos, quanto criados por clientes - técnicos.",
@@ -389,6 +394,11 @@
 		{
 			"start": "2010-05",
 			"end": "2016-11",
+			"country": {
+				"PT": "Brasil",
+				"EN": "Brazil",
+				"ZZ": ""
+			},
 			"enterprise": "Inspira Tecnologia",
 			"enterpriseDescription": {
 				"PT": "Uma empresa de tecnologia e inovação focada em metodologias ágeis e aprendizagem contínua",
@@ -515,6 +525,11 @@
 		{
 			"start": "2017-03",
 			"end": "2019-08",
+			"country": {
+				"PT": "Brasil",
+				"EN": "Brazil",
+				"ZZ": ""
+			},
 			"enterprise": "Pagar.me Pagamentos",
 			"enterpriseDescription": {
 				"PT": "Backend de pagamentos de e-commerces",
@@ -609,6 +624,11 @@
 		{
 			"start": "2019-10",
 			"end": "2022-12",
+			"country": {
+				"PT": "Brasil",
+				"EN": "Brazil",
+				"ZZ": ""
+			},
 			"enterprise": "Thoughtworks",
 			"enterpriseDescription": {
 				"PT": "Consultoria em TI",
@@ -703,6 +723,11 @@
 		{
 			"start": "2023-01",
 			"end": "2024-09",
+			"country": {
+				"PT": "Portugal",
+				"EN": "Portugal",
+				"ZZ": ""
+			},
 			"enterprise": "Habit Analytics",
 			"enterpriseDescription": {
 				"PT": "Intermediadora entre empresas seguradoras e distribuidoras",
@@ -759,6 +784,11 @@
 		{
 			"start": "2023-11",
 			"end": "2024-03",
+			"country": {
+				"PT": "Portugal",
+				"EN": "Portugal",
+				"ZZ": ""
+			},
 			"enterprise": "Inspira Tecnologia (freelancer)",
 			"enterpriseDescription": {
 				"PT": "Uma empresa de tecnologia e inovação focada em metodologias ágeis e aprendizagem contínua",
@@ -807,6 +837,11 @@
 		{
 			"start": "2024-07",
 			"end": null,
+			"country": {
+				"PT": "Brasil",
+				"EN": "Brazil",
+				"ZZ": ""
+			},
 			"enterprise": "KodAuti A11y Tech",
 			"enterpriseDescription": {
 				"PT": "Tecnologia para o crescimento humano",
@@ -855,6 +890,11 @@
 		{
 			"start": "2024-09",
 			"end": "2025-11",
+			"country": {
+				"PT": "Portugal",
+				"EN": "Portugal",
+				"ZZ": ""
+			},
 			"enterprise": "Hitachi Digital Services",
 			"enterpriseDescription": {
 				"PT": "Construção de Serviços Digitais para Cloud e Data",
@@ -911,6 +951,11 @@
 		{
 			"start": "2024-11",
 			"end": "2024-12",
+			"country": {
+				"PT": "Brasil",
+				"EN": "Brazil",
+				"ZZ": ""
+			},
 			"enterprise": "Inspira Tecnologia (freelancer)",
 			"enterpriseDescription": {
 				"PT": "Uma empresa de tecnologia e inovação focada em metodologias ágeis e aprendizagem contínua",
@@ -959,6 +1004,11 @@
 		{
 			"start": "2025-08",
 			"end": null,
+			"country": {
+				"PT": "Brasil",
+				"EN": "Brazil",
+				"ZZ": ""
+			},
 			"via": "KodAuti A11y Tech",
 			"viaDescription": {
 				"PT": "Tecnologia para o crescimento humano",
@@ -1029,6 +1079,11 @@
 		{
 			"start": "2025-12",
 			"end": "2026-03",
+			"country": {
+				"PT": "Espanha",
+				"EN": "Spain",
+				"ZZ": ""
+			},
 			"via": "KodAuti A11y Tech",
 			"viaDescription": {
 				"PT": "Tecnologia para o crescimento humano",
@@ -1091,6 +1146,11 @@
 		{
 			"start": "2026-04",
 			"end": null,
+			"country": {
+				"PT": "Portugal",
+				"EN": "Portugal",
+				"ZZ": ""
+			},
 			"via": "KodAuti A11y Tech",
 			"viaDescription": {
 				"PT": "Tecnologia para o crescimento humano",

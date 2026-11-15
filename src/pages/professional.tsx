@@ -35,7 +35,7 @@ function Professional({ content, lang }: CurriculumLanguage) {
 					<div className="enterprise-via">
 						<h5>
 							<span className="copy-me" onClick={copyContent}>
-								{p.enterprise}
+								{p.enterprise} - {byLang(p.country, lang)}
 							</span>
 							<small className="copy-me" onClick={copyContent}>
 								{byLang(p.enterpriseDescription, lang)}
