@@ -170,7 +170,7 @@
 			"level": 5
 		},
 		{
-			"tech": "Github Actions",
+			"tech": "GitHub Actions",
 			"level": 3
 		},
 		{
@@ -234,7 +234,7 @@
 			"level": 1
 		},
 		{
-			"tech": "Node",
+			"tech": "Node.js",
 			"level": 3
 		},
 		{
@@ -242,11 +242,11 @@
 			"level": 2
 		},
 		{
-			"tech": "PostgreSQL",
+			"tech": "Postgres",
 			"level": 2
 		},
 		{
-			"tech": "puppeteer",
+			"tech": "Puppeteer",
 			"level": 2
 		},
 		{
@@ -278,7 +278,7 @@
 			"level": 2
 		},
 		{
-			"tech": "Specflow",
+			"tech": "SpecFlow",
 			"level": 3
 		},
 		{
