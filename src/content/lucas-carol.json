@@ -707,15 +707,15 @@
 				"ZZ": ""
 			},
 			"responsibility": {
-				"PT": "Backend Developer",
-				"EN": "Backend Developer",
+				"PT": "Desenvolvimento Backend",
+				"EN": "Backend Development",
 				"ZZ": ""
 			},
 			"details": [
 				{
 					"text": {
-						"PT": "Trabalhava em uma equipe desenvolvendo customizações para clientes dentro do produto. A função envolvia desenvolvimento de backend com Node.js, usando Node-RED low code e implementando novos recursos e correções de bugs nas APIs principais do Python.",
-						"EN": "Worked in a team developing customizations for clients within the product. The role involved backend development with Node.js, using Node-RED low code, and implementing new features and bug fixes in the Python core APIs.",
+						"PT": "Desenvolvimento de customizações para clientes dentro do produto. Criação de funcionalidades e correção de bugs em Node.js, Node-RED e Python.",
+						"EN": "Development of customizations for clients within the product. Creation of features and bug fixes in Node.js, Node-RED and Python.",
 						"ZZ": ""
 					}
 				}
@@ -724,16 +724,16 @@
 			"projects": [
 				{
 					"text": {
-						"PT": "Desenvolvimento em interface gráfica no browser com a ferramenta Node-RED",
-						"EN": "Development in browser graphical interface via Node-RED",
+						"PT": "Customizações para clientes, construídas em uma interface gráfica no navegador",
+						"EN": "Customizations for clients, built in a browser graphical interface",
 						"ZZ": ""
 					},
-					"tools": "Node"
+					"tools": "Node.js, Node-RED"
 				},
 				{
 					"text": {
-						"PT": "Adição de novas funcionalidades e correção de bugs em APIs REST",
-						"EN": "New features and bug fixes in REST API",
+						"PT": "Novas funcionalidades e correção de bugs nas APIs REST core",
+						"EN": "New features and bug fixes in the core REST APIs",
 						"ZZ": ""
 					},
 					"tools": "Python"
