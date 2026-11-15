@@ -401,15 +401,15 @@
 				"ZZ": ""
 			},
 			"responsibility": {
-				"PT": "Desenvolvimento e manutenção de sistemas para clientes, de hotsites a sistemas web mais complexos",
-				"EN": "Client system development and maintenance, from marketing site to more complex web systems",
+				"PT": "Desenvolvimento Full Stack",
+				"EN": "Full Stack Development",
 				"ZZ": ""
 			},
 			"details": [
 				{
 					"text": {
-						"PT": "Trabalhei em muitos projetos na Inspira. Durante esse tempo evolui muito e cresci na área de desenvolvimento e como pessoa, e tive a oportunidade de ensinar outras pessoas.",
-						"EN": "I worked on several projects at Inspira. During my time there I evolved a lot and I grew as a developer and as a person and I had the opportunity to teach other developers.",
+						"PT": "Desenvolvimento e manutenção de sistemas para clientes, de sites de marketing a sistemas web complexos. Criação de funcionalidades e testes automatizados em .NET e C#, e ensino de outros desenvolvedores.",
+						"EN": "Development and maintenance of client systems, from marketing sites to complex web systems. Creation of features and automated tests in .NET and C#, and teaching of other developers.",
 						"ZZ": ""
 					}
 				}
@@ -417,22 +417,22 @@
 			"highlights": [
 				{
 					"text": {
-						"PT": "Assumi quatro projetos ao mesmo tempo, tendo que balancear as tarefas e prioridades de projetos",
-						"EN": "I took responsibility of 4 project at same time, I had to balance the tasks of the project and priorities",
+						"PT": "Durante um período, quatro projetos ao mesmo tempo, equilibrando tarefas e prioridades",
+						"EN": "During one period, four projects handled at once, balancing their tasks and priorities",
 						"ZZ": ""
 					}
 				},
 				{
 					"text": {
-						"PT": "Ensinei outras pessoas sobre linguagens de programação e desenvolvimento",
-						"EN": "I taught interns in programming languages and development pathways",
+						"PT": "Ensino de linguagens de programação e caminhos de desenvolvimento a estagiários",
+						"EN": "Programming languages and development paths taught to interns",
 						"ZZ": ""
 					}
 				},
 				{
 					"text": {
-						"PT": "Iniciei um projeto de testes automatizados com tecnologia aprendida em projeto independente e esse projeto ainda hoje é usado para ensinar pessoas na empresa",
-						"EN": "I started a project in automatic testing with a technology I had learned in my personal project and this is nowadays still used to teach people in the company",
+						"PT": "Projeto de testes automatizados iniciado com uma tecnologia aprendida em um projeto pessoal, e usado para treinar pessoas na empresa por anos após o fim do vínculo",
+						"EN": "Automated testing project started with a technology learned in a personal project, and used to train people at the company for years after the end of the role",
 						"ZZ": ""
 					}
 				}
@@ -440,7 +440,7 @@
 			"projects": [
 				{
 					"text": {
-						"PT": "Sistema de gerenciamento para esportes e fisioterapia",
+						"PT": "Sistema de gestão para esporte e fisioterapia",
 						"EN": "Sport and physiotherapy management system",
 						"ZZ": ""
 					},
@@ -448,15 +448,15 @@
 				},
 				{
 					"text": {
-						"PT": "Sistema de organização de ONGs",
+						"PT": "Sistema de organização de ONG",
 						"EN": "NGO organization system",
 						"ZZ": ""
 					},
-					"tools": ".NET, C#, WebForms, TSQL"
+					"tools": ".NET, C#, WebForms, T-SQL"
 				},
 				{
 					"text": {
-						"PT": "Website de administradora de energia",
+						"PT": "Site de gestão de energia",
 						"EN": "Energy manager website",
 						"ZZ": ""
 					},
@@ -464,7 +464,7 @@
 				},
 				{
 					"text": {
-						"PT": "Website de empresa de aviação",
+						"PT": "Site de companhia aérea",
 						"EN": "Flight company website",
 						"ZZ": ""
 					},
@@ -472,15 +472,15 @@
 				},
 				{
 					"text": {
-						"PT": "Hotsite de operadora de telefonia móvel",
+						"PT": "Site de marketing de operadora de telefonia móvel",
 						"EN": "Mobile operator marketing site",
 						"ZZ": ""
 					},
-					"tools": ".NET, C#, TSQL"
+					"tools": ".NET, C#, T-SQL"
 				},
 				{
 					"text": {
-						"PT": "Sistema de cadastro de startup para colaboração",
+						"PT": "Sistema de colaboração para startup",
 						"EN": "Startup collaboration system",
 						"ZZ": ""
 					},
@@ -488,24 +488,24 @@
 				},
 				{
 					"text": {
-						"PT": "E-commerce de editora de livros e escola de pós-graduação e cursos ",
-						"EN": "Book publishing and courses company e-commerce",
+						"PT": "E-commerce de editora de livros e cursos",
+						"EN": "Book publishing and courses e-commerce",
 						"ZZ": ""
 					},
-					"tools": ".NET, C#, NopCommerce, WebForms, EntityFramework"
+					"tools": ".NET, C#, NopCommerce, WebForms, Entity Framework"
 				},
 				{
 					"text": {
-						"PT": "Sistema de gerenciamento de transações de cartão, parte Desktop e Web",
-						"EN": "Card transactions system site and desktop app",
+						"PT": "Site e aplicativo desktop de transações com cartão",
+						"EN": "Card transactions site and desktop app",
 						"ZZ": ""
 					},
-					"tools": ".NET, Windows Forms, C#, MVC, NHibernate, MySQL"
+					"tools": ".NET, C#, Windows Forms, MVC, NHibernate, MySQL"
 				},
 				{
 					"text": {
-						"PT": "Escrita e implementação de Testes Automatizados para sistema de gerenciamento de assinaturas eletrônicas ",
-						"EN": "Writing and implementation of automated tests to an electronic contract signing company",
+						"PT": "Testes automatizados para empresa de assinatura eletrônica de contratos",
+						"EN": "Automated tests for an electronic contract signing company",
 						"ZZ": ""
 					},
 					"tools": ".NET, C#, SpecFlow"
