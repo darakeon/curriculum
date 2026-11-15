@@ -906,8 +906,8 @@
 			"details": [
 				{
 					"text": {
-						"PT": "Trabalhei na manutenção e aprimoramento de dois aplicativos. Um era um aplicativo de localização de carros, onde trabalhei com Dart e Flutter para melhorar a funcionalidade e corrigir problemas. O outro era um sistema de gerenciamento de serviços de reparo para filiais de restaurantes, revisando o código e corrigindo bugs no aplicativo móvel (Dart, Flutter) e na plataforma web (Python, Django).",
-						"EN": "Worked on the maintenance and enhancement of two applications. One was a car localization app, where I worked with Dart and Flutter to improve functionality and fix issues. The other was a repair service management system for restaurant branches, reviewing code and fix bugs in both the mobile app (Dart, Flutter) and the web platform (Python, Django).",
+						"PT": "Manutenção e melhoria de duas aplicações, com revisão de código e correção de bugs em plataformas mobile e web. Criação de melhorias em Dart, Flutter, Python e Django.",
+						"EN": "Maintenance and improvement of two applications, with code review and bug fixes on mobile and web platforms. Creation of improvements in Dart, Flutter, Python and Django.",
 						"ZZ": ""
 					}
 				}
@@ -916,16 +916,16 @@
 			"projects": [
 				{
 					"text": {
-						"PT": "App para localização de veículos",
-						"EN": "Cars localization app",
+						"PT": "Aplicativo de localização de veículos",
+						"EN": "Vehicle location app",
 						"ZZ": ""
 					},
 					"tools": "Dart, Flutter"
 				},
 				{
 					"text": {
-						"PT": "Sistema de gerenciamento de serviços de reparo para filiais de restaurantes",
-						"EN": "Restaurant branches repair service management system",
+						"PT": "Sistema de gestão de serviços de reparo para filiais de restaurantes",
+						"EN": "Repair service management system for restaurant branches",
 						"ZZ": ""
 					},
 					"tools": "Dart, Flutter, Python, Django"
