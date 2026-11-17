@@ -849,8 +849,8 @@
 				"ZZ": ""
 			},
 			"role": {
-				"PT": "Fundação e Desenvolvimento Sênior",
-				"EN": "Founder and Senior Developer",
+				"PT": "Co-fundação e Desenvolvimento Sênior",
+				"EN": "Co-founder and Senior Developer",
 				"ZZ": ""
 			},
 			"responsibility": {
@@ -879,8 +879,8 @@
 				},
 				{
 					"text": {
-						"PT": "Sistema de gerenciamento de tarefas com foco em acessibilidade",
-						"EN": "Task management system focused on accessibility",
+						"PT": "Projetos com foco em acessibilidade",
+						"EN": "Projects focused on accessibility",
 						"ZZ": ""
 					},
 					"tools": [ "Python", "FastAPI", "Node.js", "React", "Kotlin", "Jetpack Compose", "Postgres", "Docker", "Azure", "Vercel", "Google Play Console" ]
